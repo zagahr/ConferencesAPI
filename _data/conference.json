@@ -5,7 +5,7 @@
         "name": "iOS Conf SG 2019",
         "url": "https://2018.iosconf.sg/",
         "location": "Singapore",
-        "date": "2019-01-26 13:00:00.000000",
+        "date": null,
         "highlightColor": "915B1F",
         "about": "Held in Singapore, iOS Conf SG 2019 is the biggest iOS developer conference in South East Asia that offers an incredible opportunity for the iOS developers of the region to learn, network, collaborate and grow together. "
     },    
@@ -15,7 +15,7 @@
         "name": "App Builders 2019",
         "url": "https://appbuilders.ch",
         "location": "Lugano, Switzerland",
-        "date": "2019-01-26 13:00:00.000000",
+        "date": null,
         "highlightColor": "FC3B59",
         "about": "One of the biggest European conferences about mobile technologies taking place in the heart of Europe. Get inspired by talks from the best brains of the mobile industry."
     },
@@ -25,7 +25,7 @@
         "name": "try! Swift Tokyo 2019",
         "url": "https://www.tryswift.co/events/2018/nyc/",
         "location": "New York, US",
-        "date": "2018-01-26 13:00:00.000000",
+        "date": null,
         "highlightColor": "789B43",
         "about": "try! Swift Conference is an international community gathering about the latest advancements in Swift Development. The event is about bringing together talent from all around the world to collaborate and share advanced knowledge and techniques."
     },
@@ -35,7 +35,7 @@
         "name": "try! Swift NYC 2019",
         "url": "https://www.tryswift.co/events/2018/nyc/",
         "location": "New York, US",
-        "date": "2018-01-26 13:00:00.000000",
+        "date": null,
         "highlightColor": "789B43",
         "about": "try! Swift Conference is an international community gathering about the latest advancements in Swift Development. The event is about bringing together talent from all around the world to collaborate and share advanced knowledge and techniques."
     },
@@ -45,7 +45,7 @@
         "name": "UIKonf 2019",
         "url": "https://www.uikonf.com/",
         "location": "Berlin, Germany",
-        "date": "2018-01-26 13:00:00.000000",
+        "date": null,
         "highlightColor": "02A0E3",
         "about": "UIKonf is Berlin's independent conference for serious iOS developers. UIKonf features inspiring speakers giving talks on cutting edge topics in iOS development, mobile design and business."
     },
@@ -55,7 +55,7 @@
         "name": "FrenchKit 2019",
         "url": "https://frenchkit.fr/",
         "location": "Paris, France",
-        "date": "2019-01-26 13:00:00.000000",
+        "date": null,
         "highlightColor": "ED1C23",
         "about": "FrenchKit is the first iOS and macOS conference in France. Focusing on a wide range of subjects, from the Cocoa APIs to Swift, covered by some of the most prominent developers in the international community."
     },
@@ -65,7 +65,7 @@
         "name": "dotSwift 2018",
         "url": "https://www.dotconferences.com/conference/dotswift-2018",
         "location": "Paris, France",
-        "date": "2018-01-26 13:00:00.000000",
+        "date": null,
         "highlightColor": "FADF1D",
         "about": "dotSwift is the European Swift Conference. We want to bring an unheard-of, TED-like level of quality to tech conferences. On stage, 8 of the most respected iOS and OS X developers will deliver their insights on Swift."
     },
@@ -75,7 +75,7 @@
         "name": "dotSwift 2019",
         "url": "https://www.dotconferences.com/conference/dotswift-2019",
         "location": "Paris, France",
-        "date": "2019-01-26 13:00:00.000000",
+        "date": null,
         "highlightColor": "FADF1D",
         "about": "dotSwift is the European Swift Conference. We want to bring an unheard-of, TED-like level of quality to tech conferences. On stage, 8 of the most respected iOS and OS X developers will deliver their insights on Swift."},
     {
@@ -84,7 +84,7 @@
         "name": "dotSwift 2017",
         "url": "https://www.dotconferences.com/conference/dotswift-2017",
         "location": "Paris, France",
-        "date": "2017-01-26 13:00:00.000000",
+        "date": null,
         "highlightColor": "FADF1D",
         "about": "dotSwift is the European Swift Conference. We want to bring an unheard-of, TED-like level of quality to tech conferences. On stage, 8 of the most respected iOS and OS X developers will deliver their insights on Swift."
     },
@@ -94,7 +94,7 @@
         "name": "dotSwift 2016",
         "url": "https://www.dotconferences.com/conference/dotswift-2016",
         "location": "Paris, France",
-        "date": "2016-01-26 13:00:00.000000",
+        "date": null,
         "highlightColor": "FADF1D",
         "about": "dotSwift is the European Swift Conference. We want to bring an unheard-of, TED-like level of quality to tech conferences. On stage, 8 of the most respected iOS and OS X developers will deliver their insights on Swift."
     },
@@ -104,7 +104,7 @@
         "name": "FrenchKit 2018",
         "url": "https://frenchkit.fr/",
         "location": "Paris, France",
-        "date": "2018-01-26 13:00:00.000000",
+        "date": null,
         "highlightColor": "ED1C23",
         "about": "FrenchKit is the first iOS and macOS conference in France. Focusing on a wide range of subjects, from the Cocoa APIs to Swift, covered by some of the most prominent developers in the international community."
     },
@@ -114,7 +114,7 @@
         "name": "Swift & Fika 2018",
         "url": "http://www.swiftandfika.com",
         "location": "Stockholm, Sweden",
-        "date": "2018-01-26 13:00:00.000000",
+        "date": null,
         "highlightColor": "4A41FF",
         "about": "Swift & Fika is a single track conference taking place in Stockholm on the 9th and 10th of September. We?re all about Swift, mobile development, and cozy fika breaks."
     },
@@ -124,7 +124,7 @@
         "name": "App Builders 2018",
         "url": "https://appbuilders.ch",
         "location": "Lugano, Switzerland",
-        "date": "2018-01-26 13:00:00.000000",
+        "date": null,
         "highlightColor": "FC3B59",
         "about": "One of the biggest European conferences about mobile technologies taking place in the heart of Europe. Get inspired by talks from the best brains of the mobile industry."
     },
@@ -134,7 +134,7 @@
         "name": "Swift Heroes 2018",
         "url": "https://swiftheroes.com/",
         "location": "Turin, Italy",
-        "date": "2018-11-09 13:00:00.000000",
+        "date": null,
         "highlightColor": "E73C1D",
         "about": "Swift Heroes is a new event bringing together all parts of the Apple developer value chain to share, learn and network. With talks on the newest functionality, how to optimise your project management, and how to integrate with industry trends and changes."
     },
@@ -144,7 +144,7 @@
         "name": "UIKonf 2018",
         "url": "https://www.uikonf.com/",
         "location": "Berlin, Germany",
-        "date": "2018-01-26 13:00:00.000000",
+        "date": null,
         "highlightColor": "02A0E3",
         "about": "UIKonf is Berlin's independent conference for serious iOS developers. UIKonf features inspiring speakers giving talks on cutting edge topics in iOS development, mobile design and business."
     },
@@ -154,7 +154,7 @@
         "name": "NSSpain 2018",
         "url": "https://2018.nsspain.com/",
         "location": "Logrono, Spain",
-        "date": "2018-09-12 13:00:00.000000",
+        "date": null,
         "highlightColor": "0DE0EB",
         "about": "The biggest iOS/macOS related event in the country carefully crafted for you by the community! Awesome speakers and lots of fun!"
     },
@@ -164,7 +164,7 @@
         "name": "App Design & Development Conference 2018",
         "url": "https://addconf.com/2018/",
         "location": "Barcelona, Spain",
-        "date": "2018-01-26 13:00:00.000000",
+        "date": null,
         "highlightColor": "CFCFCF",
         "about": "Single-track international conference for iOS & Android developers and UX/UI designers in Barcelona, Spain. App designers and developers around the world work side by side every day to build some of the most incredible and innovative applications."
     },
@@ -174,7 +174,7 @@
         "name": "iOS Astronauts 2018",
         "url": "https://iosastronauts.splashthat.com/",
         "location": "London, UK",
-        "date": "2018-01-26 13:00:00.000000",
+        "date": null,
         "highlightColor": "BEF4FB",
         "about": "We are a meet-up of iOS developers with diverse backgrounds and skills who like to share engineering ideas and work culture."
     },
@@ -184,7 +184,7 @@
         "name": "try! Swift NYC 2018",
         "url": "https://www.tryswift.co/events/2018/nyc/",
         "location": "New York, US",
-        "date": "2018-01-26 13:00:00.000000",
+        "date": null,
         "highlightColor": "789B43",
         "about": "try! Swift Conference is an international community gathering about the latest advancements in Swift Development. The event is about bringing together talent from all around the world to collaborate and share advanced knowledge and techniques."
     },
@@ -194,7 +194,7 @@
         "name": "Teki Con 2018",
         "url": "https://teki-con.com/",
         "location": "Atlanta, US",
-        "date": "2018-01-26 13:00:00.000000",
+        "date": null,
         "highlightColor": "FF7777",
         "about": "Sticking to what we know and love we decided to launch our first annual Teki Con with a conference for iOS developers by iOS developers."
     },
@@ -204,7 +204,7 @@
         "name": "Swift Language User Group 2018",
         "url": "https://www.meetup.com/swift-language/",
         "location": "San Francisco, US",
-        "date": "2018-01-26 13:00:00.000000",
+        "date": null,
         "highlightColor": "F15139",
         "about": "A Meetup for iOS and OS X developers who want to explore all that's new and fascinating in cocoa development. We host speaker events in downtown San Francisco."
     },
@@ -214,7 +214,7 @@
         "name": "SwiftConf 2018",
         "url": "https://swiftconf.com/",
         "location": "Cologne, Germany",
-        "date": "2018-01-26 13:00:00.000000",
+        "date": null,
         "highlightColor": "C10D1E",
         "about": "SwiftConf is a small conference for great Developers. Started as ObjCGN in 2012 and since the release of Swift in 2014 focussed on Swift and the whole ecosystem around it. Join our community for two days of sessions, networking and collaboration."
     },    
@@ -224,7 +224,7 @@
         "name": "NSLondon 2018",
         "url": "https://meetup.com/NSLondon",
         "location": "London, UK",
-        "date": "2018-01-26 13:00:00.000000",
+        "date": null,
         "highlightColor": "36026C",
         "about": "A group for iOS and OS X developers who want to explore all that's new and fascinating in cocoa development. Expect deep dives and bleeding edge stuff. We meet in London, but if you don't happen to be there, catch the videos."
     },
@@ -234,7 +234,7 @@
         "name": "Server-Side Swift 2018",
         "url": "https://www.serversideswift.info/",
         "location": "Berlin, Germany",
-        "date": "2018-01-26 13:00:00.000000",
+        "date": null,
         "highlightColor": "36026C",
         "about": "ServerSide.swift is a framework-independent conference, where we will learn and share on a number of different related topics. The conference is aimed at being a non-profit conference and solely run for the love of server-side Swift."
     },
@@ -244,7 +244,7 @@
         "name": "AppDevCon 2018",
         "url": "https://appdevcon.nl/",
         "location": "Amsterdam, NL",
-        "date": "2018-01-26 13:00:00.000000",
+        "date": null,
         "highlightColor": "006E38",
         "about": "Appdevcon is a conference by app developers, for app developers. We have five days with multiple tracks, designed in such a way that whether you're an Android, iOS, Windows, Web, TV or other app developer, there?s always at least one session that fits."
     },
@@ -254,7 +254,7 @@
         "name": "Swift London 2017",
         "url": "https://www.meetup.com/swiftlondon/",
         "location": "London, UK",
-        "date": "2017-01-26 13:00:00.000000",
+        "date": null,
         "highlightColor": "FF5917",
         "about": "Swift London is a collaborative community, run by enthusiasts and volunteers, for people of all abilities and backgrounds. Want to learn Swift in company? Everyone is welcome, we'd love to meet you."
     },
@@ -264,7 +264,7 @@
         "name": "App Builders 2017",
         "url": "https://appbuilders.ch",
         "location": "Lugano, Switzerland",
-        "date": "2017-01-26 13:00:00.000000",
+        "date": null,
         "highlightColor": "FC3B59",
         "about": "One of the biggest European conferences about mobile technologies taking place in the heart of Europe. Get inspired by talks from the best brains of the mobile industry."
     },
@@ -274,7 +274,7 @@
         "name": "try! Swift Tokyo 2018",
         "url": "https://www.tryswift.co/events/2018/tokyo/en/",
         "location": "Tokyo, Japan",
-        "date": "2018-01-26 13:00:00.000000",
+        "date": null,
         "highlightColor": "789B43",
         "about": "try! Swift is an immersive community gathering about Swift Language Best Practices, Application Development in Swift, Server-Side Swift, Open Source Swift, and the Swift Community. "
     },
@@ -284,7 +284,7 @@
         "name": "FrenchKit 2017",
         "url": "https://2017.frenchkit.fr",
         "location": "Paris, France",
-        "date": "2017-01-12 13:00:00.000000",
+        "date": null,
         "highlightColor": "ED1C23",
         "about": "FrenchKit is the first iOS and macOS conference in France. Focusing on a wide range of subjects, from the Cocoa APIs to Swift, covered by some of the most prominent developers in the international community."
     }    
