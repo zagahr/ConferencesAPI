@@ -1,0 +1,10 @@
+User-Agent: Googlebot-Image
+Disallow: /images/*
+
+User-Agent: Googlebot-Image
+Disallow: /images/**/*.jpeg$
+
+User-Agent: Googlebot-Image
+Disallow: /images/work/*.jpeg$
+
+Sitemap: 

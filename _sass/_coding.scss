@@ -1,0 +1,99 @@
+.outer {
+  display: table;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+}
+
+.middle {
+  display: table-cell;
+  vertical-align: middle;
+}
+
+.inner {
+  margin-left: auto;
+  margin-right: auto;
+  width: 400px;
+  /*whatever width you want*/
+}
+
+.codingContainer {
+	margin: 0 auto;
+	max-width: 1020px;
+	font-size: 18px;
+	width: 100%;
+	color: #323232;
+	font-family: Menlo-Regular, Consolas, "Lucida Console", monospace;
+	font-weight: 400;
+	line-height: 22px;
+	word-wrap: break-word;
+	cursor: text;
+	text-align: center;
+
+
+	pre {
+   	 	display: inline-block;
+    	text-align: left;
+	}
+	
+	@include mobile {
+		font-size: calc(0.55em + 0.55vw);
+	}
+}
+
+pre {
+  color: #FFFFFF;
+  font-family: inherit;
+}
+
+.comment {
+	color: #56BF60;
+}
+
+.string {
+	color: #E24346;
+}
+
+.string > a {
+	color: inherit;
+	text-decoration: none;
+}
+
+.number, .character {
+	color: #8A81CD;
+}
+
+.keyword {
+	color: #F0469E;
+}
+
+.preprocessor {
+  color: #D48F5D;
+}
+
+.URLs {
+	color: #1133D6;
+}
+
+.class, .function, .variable {
+	color: #77E2CB;
+}
+
+.otherClass, .otherFunction, .otherVariable {
+	color: #00AFC9;
+}
+
+a {
+  color: inherit;
+}
+
+.cursor {
+	font-family: monospace;
+	font-size: 22px;
+	margin-left: -6px;
+}
+
+.yyy {
+	font-size: inherit;
+	color: #282B35;
+}
