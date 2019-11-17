@@ -1013,7 +1013,7 @@
     {
         "conferenceId": "d94c1614e73fc61dac7ef1cefbbb58b0e5c7a039",
         "source": "youtube",
-        "details": ""Gotta Go Fast (A Performance and Instruments Talk)nIf you?ve been working on an iOS app for a while, you may have noticed that over time your once snappy app has started to feel a little sluggish. Your feed limps along with the occasional stall or maybe you?re trying to build a camera app but it seems to lag quite a bit behind reality. Contrary to popular opinion, our software is becoming increasingly demanding at a rate that easily exceeds how quickly our devices are improving. The talk explains how to track overall performance, find performance problems and how to fix a few big ones. Sprinkled throughout are 10 Rules for Good Performance."",
+        "details": "Gotta Go Fast (A Performance and Instruments Talk)nIf you?ve been working on an iOS app for a while, you may have noticed that over time your once snappy app has started to feel a little sluggish. Your feed limps along with the occasional stall or maybe you?re trying to build a camera app but it seems to lag quite a bit behind reality. Contrary to popular opinion, our software is becoming increasingly demanding at a rate that easily exceeds how quickly our devices are improving. The talk explains how to track overall performance, find performance problems and how to fix a few big ones. Sprinkled throughout are 10 Rules for Good Performance.",
         "id": "e1182740ad0f1b5817fea774b6a9d6f727da1c15",
         "speakerId": "e521dc7b126b0acd84f6c017f2d6e97630f6b9bb",
         "videoId": "gnGU5v3kVbI",
@@ -1368,7 +1368,7 @@
         "id": "b0b2d088b3d006b72851bc328ec9e7adfdbb6653",
         "speakerId": "652f17a4c1b2239863b28cbb3c407d0118d929ba",
         "videoId": "ZLI_QmASfkE",
-        "title": ""Remote Control"",
+        "title": "Remote Control",
         "tags": [
             "App Design & Development Conference 2018,"
         ],
@@ -2027,7 +2027,7 @@
     {
         "conferenceId": "1ed247dbaf5c41ae94f81536f8c8d3a9551b88e7",
         "source": "youtube",
-        "details": "Writing dependable code at scale means writing tests, and writing tests means using Dependency Injection. The concept of DI is absurdly simple -- yet DI frameworks often end up being quite complex. At Lyft, we developed a minimalist, opinionated DI solution for our Swift codebase. It provides compile-time safety, decentralized configuration, and a clean syntax. And by having preferences about state and "magic", it remains absurdly simple.",
+        "details": "Writing dependable code at scale means writing tests, and writing tests means using Dependency Injection. The concept of DI is absurdly simple -- yet DI frameworks often end up being quite complex. At Lyft, we developed a minimalist, opinionated DI solution for our Swift codebase. It provides compile-time safety, decentralized configuration, and a clean syntax. And by having preferences about state and magic, it remains absurdly simple.",
         "id": "54d89895c846ede32d37726c8aaeab228646c4e8",
         "speakerId": "6406d4a646e30dc85d1f732b04fb8a9d223cd896",
         "videoId": "dA9rGQRwHGs",
@@ -2066,7 +2066,7 @@
     {
         "conferenceId": "9f90019a12ccbde5ad37e1ea0b5896ba2d656791",
         "source": "youtube",
-        "details": "RxSwift has been one of the most prominent and upcoming frameworks in the iOS & Swift community in the past years. Its usage is becoming widespread and popular with many companies moving their code base to the Reactive world across iOS, Android, Web and Backend - making it a valuable skill to comprehend.nAlong with that fact thought, it seems the learning curve for RxSwift and Rx in general always seems "hard" to most people, or too hard to get started with. In this lecture I hope to debunk the myth and misconception of RxSwift being a hard concept, and put developers on the right path to start building Reactive Mobile applications for the modern world.",
+        "details": "RxSwift has been one of the most prominent and upcoming frameworks in the iOS & Swift community in the past years. Its usage is becoming widespread and popular with many companies moving their code base to the Reactive world across iOS, Android, Web and Backend - making it a valuable skill to comprehend.nAlong with that fact thought, it seems the learning curve for RxSwift and Rx in general always seems hard to most people, or too hard to get started with. In this lecture I hope to debunk the myth and misconception of RxSwift being a hard concept, and put developers on the right path to start building Reactive Mobile applications for the modern world.",
         "id": "cadcdf0b75d0266b7f3bc893bc6223b335567e86",
         "speakerId": "07c840cd0e2bd502e1d76b304d9b6ae860b41220",
         "videoId": "GdvLP0ZAhhc",
@@ -2092,7 +2092,7 @@
     {
         "conferenceId": "9f90019a12ccbde5ad37e1ea0b5896ba2d656791",
         "source": "youtube",
-        "details": "Wouldn't it be great to "just" have an own machine learning model to detect if cats are smiling or just looking evil? Or detect the own handwriting in a split of a second - completely offline? It's easy, but not simple - so let's dive into it! This talk shows how to get started with ML by training your own model which then can be used with CoreML.",
+        "details": "Wouldn't it be great to just have an own machine learning model to detect if cats are smiling or just looking evil? Or detect the own handwriting in a split of a second - completely offline? It's easy, but not simple - so let's dive into it! This talk shows how to get started with ML by training your own model which then can be used with CoreML.",
         "id": "996b98d19ed91a7e56a980d1198cb3bfb707784e",
         "speakerId": "b245b9edcc3f56759f2a9ada80edad6f65bb700c",
         "videoId": "nIUXzpp78k8",
@@ -2781,7 +2781,7 @@
     {
         "conferenceId": "55773391b70ac98ca1d626b78ed1b54db70c1296",
         "source": "youtube",
-        "details": "Are your apps "Pure Swift"? Don't be so sure. Daniel demonstrates the extent to which Swift apps on iOS and Mac are dependent on legacy Objective-C conventions. He talks through scenarios where Swift facilitates interoperation, and how you can finesse the details. Stay tuned: he ends with a debugging trick that everybody will enjoy!",
+        "details": "Are your apps Pure Swift? Don't be so sure. Daniel demonstrates the extent to which Swift apps on iOS and Mac are dependent on legacy Objective-C conventions. He talks through scenarios where Swift facilitates interoperation, and how you can finesse the details. Stay tuned: he ends with a debugging trick that everybody will enjoy!",
         "id": "e4070d3b2df153a47b2fa29c1760f03a373ed109",
         "speakerId": "ad35883891b56148d523a303e5cd5fb1133e8740",
         "videoId": "eSxXmnmjYZk",
