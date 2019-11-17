@@ -10,12 +10,12 @@
         "tags": [
             "dotSwift 2018,Functional Programming"
         ],
-        "url": "https:\/\/www.dotconferences.com\/2018\/01\/paul-hudson-elements-of-functional-programming"
+        "url": "https://www.dotconferences.com/2018/01/paul-hudson-elements-of-functional-programming"
     },
     {
         "conferenceId": "2b9072dcbf164c6ad969b3ce7f925dda44186c88",
         "source": "youtube",
-        "details": "Hugues shares his learnings working on an end to end encrypted app. After a quick introduction of why you should use E2EE how it works, he goes over its biggest challenges on mobile, describing the shift of computation from your server to your mobile and the difference between security and safety, plus its UX\/UI implications.",
+        "details": "Hugues shares his learnings working on an end to end encrypted app. After a quick introduction of why you should use E2EE how it works, he goes over its biggest challenges on mobile, describing the shift of computation from your server to your mobile and the difference between security and safety, plus its UX/UI implications.",
         "id": "d081b8c28e4dc02dc51ef1942368c55fe6535a0e",
         "speakerId": "b69007393ed667acb4c1e8367ea6092f9d550a8c",
         "videoId": "CKzCFI6iNv0",
@@ -23,12 +23,12 @@
         "tags": [
             "dotSwift 2018,Security"
         ],
-        "url": "https:\/\/www.dotconferences.com\/2018\/01\/hugues-bernet-rollande-end-to-end-encryption-for-mobile-developers"
+        "url": "https://www.dotconferences.com/2018/01/hugues-bernet-rollande-end-to-end-encryption-for-mobile-developers"
     },
     {
         "conferenceId": "2b9072dcbf164c6ad969b3ce7f925dda44186c88",
         "source": "youtube",
-        "details": "Accessibility is a complex problem. In this talk Sally looks underneath this ?umbrella? term, talks about making something usable by everyone and how complex vision is.\n\nShe references a personal story of visual impairment, demonstrates how to recreate that impairment using GPUImage2 on the iPhone, then how to reverse it and discusses how powerful that can be in both testing your apps and in compensating for real impairments.",
+        "details": "Accessibility is a complex problem. In this talk Sally looks underneath this ?umbrella? term, talks about making something usable by everyone and how complex vision is.nnShe references a personal story of visual impairment, demonstrates how to recreate that impairment using GPUImage2 on the iPhone, then how to reverse it and discusses how powerful that can be in both testing your apps and in compensating for real impairments.",
         "id": "8ad08d4838cc5c06d937ba3297fa1820bc942932",
         "speakerId": "0009e20d35678961fcff50600a3f7b10ce129024",
         "videoId": "KUl3BxcvF-Q",
@@ -36,7 +36,7 @@
         "tags": [
             "dotSwift 2018,Accessibility"
         ],
-        "url": "https:\/\/www.dotconferences.com\/2018\/01\/sally-shepard-accessibility"
+        "url": "https://www.dotconferences.com/2018/01/sally-shepard-accessibility"
     },
     {
         "conferenceId": "2b9072dcbf164c6ad969b3ce7f925dda44186c88",
@@ -49,7 +49,7 @@
         "tags": [
             "dotSwift 2018,ARKit"
         ],
-        "url": "https:\/\/www.dotconferences.com\/2018\/01\/bruno-muniz-intro-to-arkit"
+        "url": "https://www.dotconferences.com/2018/01/bruno-muniz-intro-to-arkit"
     },
     {
         "conferenceId": "2b9072dcbf164c6ad969b3ce7f925dda44186c88",
@@ -62,7 +62,7 @@
         "tags": [
             "dotSwift 2018,Protocols"
         ],
-        "url": "https:\/\/www.dotconferences.com\/2018\/01\/ellen-shapiro-protocols-all-the-way-down"
+        "url": "https://www.dotconferences.com/2018/01/ellen-shapiro-protocols-all-the-way-down"
     },
     {
         "conferenceId": "2b9072dcbf164c6ad969b3ce7f925dda44186c88",
@@ -75,7 +75,7 @@
         "tags": [
             "dotSwift 2018,Swift Standard Library"
         ],
-        "url": "https:\/\/www.dotconferences.com\/2018\/01\/ben-cohen-extending-the-standard-library"
+        "url": "https://www.dotconferences.com/2018/01/ben-cohen-extending-the-standard-library"
     },
     {
         "conferenceId": "2b9072dcbf164c6ad969b3ce7f925dda44186c88",
@@ -88,7 +88,7 @@
         "tags": [
             "dotSwift 2018,OOP"
         ],
-        "url": "https:\/\/www.dotconferences.com\/2018\/01\/graham-lee-object-oriented-programming-in-functional-programming-in-swift"
+        "url": "https://www.dotconferences.com/2018/01/graham-lee-object-oriented-programming-in-functional-programming-in-swift"
     },
     {
         "conferenceId": "2b9072dcbf164c6ad969b3ce7f925dda44186c88",
@@ -101,7 +101,7 @@
         "tags": [
             "dotSwift 2018,Expression Problem"
         ],
-        "url": "https:\/\/www.dotconferences.com\/2018\/01\/brandon-kase-finally-solving-the-expression-problem"
+        "url": "https://www.dotconferences.com/2018/01/brandon-kase-finally-solving-the-expression-problem"
     },
     {
         "conferenceId": "2b9072dcbf164c6ad969b3ce7f925dda44186c88",
@@ -114,7 +114,7 @@
         "tags": [
             "dotSwift 2018,ARKit"
         ],
-        "url": "https:\/\/www.dotconferences.com\/2018\/01\/oscar-falmer-how-to-make-a-successful-arkit-app"
+        "url": "https://www.dotconferences.com/2018/01/oscar-falmer-how-to-make-a-successful-arkit-app"
     },
     {
         "conferenceId": "2b9072dcbf164c6ad969b3ce7f925dda44186c88",
@@ -127,7 +127,7 @@
         "tags": [
             "dotSwift 2018,Objective-C,Swift"
         ],
-        "url": "https:\/\/www.dotconferences.com\/2018\/01\/guy-daher-supporting-objective-c-in-a-swift-codebase"
+        "url": "https://www.dotconferences.com/2018/01/guy-daher-supporting-objective-c-in-a-swift-codebase"
     },
     {
         "conferenceId": "2b9072dcbf164c6ad969b3ce7f925dda44186c88",
@@ -140,7 +140,7 @@
         "tags": [
             "dotSwift 2018,Binary Frameworks"
         ],
-        "url": "https:\/\/www.dotconferences.com\/2018\/01\/guy-daher-supporting-objective-c-in-a-swift-codebase"
+        "url": "https://www.dotconferences.com/2018/01/guy-daher-supporting-objective-c-in-a-swift-codebase"
     },
     {
         "conferenceId": "2b9072dcbf164c6ad969b3ce7f925dda44186c88",
@@ -153,12 +153,12 @@
         "tags": [
             "dotSwift 2018,Architecture"
         ],
-        "url": "https:\/\/www.dotconferences.com\/2018\/01\/gregoire-lhotellier-how-to-turn-an-onion-into-a-snake"
+        "url": "https://www.dotconferences.com/2018/01/gregoire-lhotellier-how-to-turn-an-onion-into-a-snake"
     },
     {
         "conferenceId": "2b9072dcbf164c6ad969b3ce7f925dda44186c88",
         "source": "youtube",
-        "details": "Model View Controller is the pervasive design pattern that rules iOS development. Often, however, we try to fit everything we write into either a model, a view, or a controller. This can lead to complicated controllers that do too much and are difficult to understand, test, and change.\n\nBen explain how we can introduce our own objects, introduce new actors, and move logic to more appropriate places. By giving each object a job, we can reduce the problem of bloated view controllers and create more maintainable software.",
+        "details": "Model View Controller is the pervasive design pattern that rules iOS development. Often, however, we try to fit everything we write into either a model, a view, or a controller. This can lead to complicated controllers that do too much and are difficult to understand, test, and change.nnBen explain how we can introduce our own objects, introduce new actors, and move logic to more appropriate places. By giving each object a job, we can reduce the problem of bloated view controllers and create more maintainable software.",
         "id": "fb0089fc026c2b4168848669d133423d150f645d",
         "speakerId": "81250769d11ac15268ed6e933c10a7fffbc0dab0",
         "videoId": "GUwjlWx7ud8",
@@ -166,7 +166,7 @@
         "tags": [
             "dotSwift 2018,MVC"
         ],
-        "url": "https:\/\/www.dotconferences.com\/2018\/01\/ben-scheirman-buckets-of-code"
+        "url": "https://www.dotconferences.com/2018/01/ben-scheirman-buckets-of-code"
     },
     {
         "conferenceId": "41793c14cd804204300970ce1c63f7d0a59c6e8a",
@@ -179,7 +179,7 @@
         "tags": [
             "dotSwift 2017,Dynamic"
         ],
-        "url": "https:\/\/www.dotconferences.com\/2017\/01\/saul-mora-dynamic-swift"
+        "url": "https://www.dotconferences.com/2017/01/saul-mora-dynamic-swift"
     },
     {
         "conferenceId": "41793c14cd804204300970ce1c63f7d0a59c6e8a",
@@ -192,12 +192,12 @@
         "tags": [
             "dotSwift 2017,Design Pattern"
         ],
-        "url": "https:\/\/www.dotconferences.com\/2017\/01\/logan-wright-representables-in-swift"
+        "url": "https://www.dotconferences.com/2017/01/logan-wright-representables-in-swift"
     },
     {
         "conferenceId": "41793c14cd804204300970ce1c63f7d0a59c6e8a",
         "source": "youtube",
-        "details": "Generics are one of the features of Swift that set it apart from many other languages. Since Swift debuted, developers have been wondering when to use them and what to use them for. By looking at the standard library, which is the first piece of software to use generics, we can better understand their purpose and utility.\n",
+        "details": "Generics are one of the features of Swift that set it apart from many other languages. Since Swift debuted, developers have been wondering when to use them and what to use them for. By looking at the standard library, which is the first piece of software to use generics, we can better understand their purpose and utility.n",
         "id": "53f5ccd12061401017a9b6b1ba8c43f0eb3d7659",
         "speakerId": "7ee53842d720b0ac77725f12f0bc874599beaad4",
         "videoId": "eExr8xIU9k0",
@@ -205,7 +205,7 @@
         "tags": [
             "dotSwift 2017,Generics"
         ],
-        "url": "https:\/\/www.dotconferences.com\/2017\/01\/michele-titolo-generics-in-theory-and-practice"
+        "url": "https://www.dotconferences.com/2017/01/michele-titolo-generics-in-theory-and-practice"
     },
     {
         "conferenceId": "41793c14cd804204300970ce1c63f7d0a59c6e8a",
@@ -218,7 +218,7 @@
         "tags": [
             "dotSwift 2017,Optimizing"
         ],
-        "url": "https:\/\/www.dotconferences.com\/2017\/01\/karoly-lorentey-optimizing-swift-collections"
+        "url": "https://www.dotconferences.com/2017/01/karoly-lorentey-optimizing-swift-collections"
     },
     {
         "conferenceId": "41793c14cd804204300970ce1c63f7d0a59c6e8a",
@@ -231,7 +231,7 @@
         "tags": [
             "dotSwift 2017,Structs"
         ],
-        "url": "https:\/\/www.dotconferences.com\/2017\/01\/dimitri-dupuis-latour-subclassing-structs"
+        "url": "https://www.dotconferences.com/2017/01/dimitri-dupuis-latour-subclassing-structs"
     },
     {
         "conferenceId": "41793c14cd804204300970ce1c63f7d0a59c6e8a",
@@ -244,12 +244,12 @@
         "tags": [
             "dotSwift 2017,Trees"
         ],
-        "url": "https:\/\/www.dotconferences.com\/2017\/01\/drew-mccormack-the-value-in-trees"
+        "url": "https://www.dotconferences.com/2017/01/drew-mccormack-the-value-in-trees"
     },
     {
         "conferenceId": "41793c14cd804204300970ce1c63f7d0a59c6e8a",
         "source": "youtube",
-        "details": "While RxSwift takes care of a multitude of aspects of asynchronous programming on iOS, the biggest win, the main outtake (according to Marin) is that the code is written and reads very sequentially. This feature of Rx code decreases considerably the complexity of asynchronous code in comparison to traditional Cocoa code, which is often spread across multiple files and classes and executed in arbitrary order.\n\nWhile the talks starts with simple examples that everyone can relate to, it quickly moves on to a ?hardcore? part featuring code samples. If you want to learn more about the examples used, have a look at the dotSwift posts on rx-marin.com and clone the companion repo to play with some RxSwift yourself.",
+        "details": "While RxSwift takes care of a multitude of aspects of asynchronous programming on iOS, the biggest win, the main outtake (according to Marin) is that the code is written and reads very sequentially. This feature of Rx code decreases considerably the complexity of asynchronous code in comparison to traditional Cocoa code, which is often spread across multiple files and classes and executed in arbitrary order.nnWhile the talks starts with simple examples that everyone can relate to, it quickly moves on to a ?hardcore? part featuring code samples. If you want to learn more about the examples used, have a look at the dotSwift posts on rx-marin.com and clone the companion repo to play with some RxSwift yourself.",
         "id": "089d6ece8c74720315b155a991570403f2411a2e",
         "speakerId": "44ac002c6fd717b6375a8160ab9bf77e8dc4f7b6",
         "videoId": "vwpdcMsccIY",
@@ -257,7 +257,7 @@
         "tags": [
             "dotSwift 2017,RxSwift"
         ],
-        "url": "https:\/\/www.dotconferences.com\/2017\/01\/marin-todorov-rxswift-on-ios"
+        "url": "https://www.dotconferences.com/2017/01/marin-todorov-rxswift-on-ios"
     },
     {
         "conferenceId": "958ee563a1fe1545e8f6f170836da8318be69934",
@@ -270,7 +270,7 @@
         "tags": [
             "dotSwift 2016,Xcode"
         ],
-        "url": "https:\/\/www.dotconferences.com\/2016\/01\/daniel-haight-xcodeless"
+        "url": "https://www.dotconferences.com/2016/01/daniel-haight-xcodeless"
     },
     {
         "conferenceId": "958ee563a1fe1545e8f6f170836da8318be69934",
@@ -283,7 +283,7 @@
         "tags": [
             "dotSwift 2016,CAReplicatorLayer"
         ],
-        "url": "https:\/\/www.dotconferences.com\/2016\/01\/alessandro-ludovici-creating-an-animation-with-careplicatorlayer"
+        "url": "https://www.dotconferences.com/2016/01/alessandro-ludovici-creating-an-animation-with-careplicatorlayer"
     },
     {
         "conferenceId": "958ee563a1fe1545e8f6f170836da8318be69934",
@@ -296,7 +296,7 @@
         "tags": [
             "dotSwift 2016,"
         ],
-        "url": "https:\/\/www.dotconferences.com\/2016\/01\/michael-may-the-empathetic-developer"
+        "url": "https://www.dotconferences.com/2016/01/michael-may-the-empathetic-developer"
     },
     {
         "conferenceId": "958ee563a1fe1545e8f6f170836da8318be69934",
@@ -309,7 +309,7 @@
         "tags": [
             "dotSwift 2016,CloudKit"
         ],
-        "url": "https:\/\/www.dotconferences.com\/2016\/01\/paul-ardeleanu-the-forgotten-cloud"
+        "url": "https://www.dotconferences.com/2016/01/paul-ardeleanu-the-forgotten-cloud"
     },
     {
         "conferenceId": "958ee563a1fe1545e8f6f170836da8318be69934",
@@ -322,7 +322,7 @@
         "tags": [
             "dotSwift 2016,"
         ],
-        "url": "https:\/\/www.dotconferences.com\/2016\/01\/victor-wang-build-ios-ui-in-the-way-of-lego-bricks"
+        "url": "https://www.dotconferences.com/2016/01/victor-wang-build-ios-ui-in-the-way-of-lego-bricks"
     },
     {
         "conferenceId": "958ee563a1fe1545e8f6f170836da8318be69934",
@@ -335,7 +335,7 @@
         "tags": [
             "dotSwift 2016,Swift"
         ],
-        "url": "https:\/\/www.dotconferences.com\/2016\/01\/tj-usiyan-swift-and-the-evolution"
+        "url": "https://www.dotconferences.com/2016/01/tj-usiyan-swift-and-the-evolution"
     },
     {
         "conferenceId": "958ee563a1fe1545e8f6f170836da8318be69934",
@@ -348,7 +348,7 @@
         "tags": [
             "dotSwift 2016,JSON"
         ],
-        "url": "https:\/\/www.dotconferences.com\/2016\/01\/maxim-zaks-beyond-json"
+        "url": "https://www.dotconferences.com/2016/01/maxim-zaks-beyond-json"
     },
     {
         "conferenceId": "958ee563a1fe1545e8f6f170836da8318be69934",
@@ -361,7 +361,7 @@
         "tags": [
             "dotSwift 2016,Network"
         ],
-        "url": "https:\/\/www.dotconferences.com\/2016\/01\/chris-eidhof-tiny-networking-in-swift"
+        "url": "https://www.dotconferences.com/2016/01/chris-eidhof-tiny-networking-in-swift"
     },
     {
         "conferenceId": "958ee563a1fe1545e8f6f170836da8318be69934",
@@ -374,7 +374,7 @@
         "tags": [
             "dotSwift 2016,Swift"
         ],
-        "url": "https:\/\/www.dotconferences.com\/2016\/01\/thomas-visser-the-bright-future-of-swift"
+        "url": "https://www.dotconferences.com/2016/01/thomas-visser-the-bright-future-of-swift"
     },
     {
         "conferenceId": "958ee563a1fe1545e8f6f170836da8318be69934",
@@ -387,7 +387,7 @@
         "tags": [
             "dotSwift 2016,Swift"
         ],
-        "url": "https:\/\/www.dotconferences.com\/2016\/01\/ayaka-nonaka-going-swift-and-beyond-first-wave-swift"
+        "url": "https://www.dotconferences.com/2016/01/ayaka-nonaka-going-swift-and-beyond-first-wave-swift"
     },
     {
         "conferenceId": "958ee563a1fe1545e8f6f170836da8318be69934",
@@ -400,7 +400,7 @@
         "tags": [
             "dotSwift 2016,Localization"
         ],
-        "url": "https:\/\/www.dotconferences.com\/2016\/01\/roy-marmelstein-localization-is-hard"
+        "url": "https://www.dotconferences.com/2016/01/roy-marmelstein-localization-is-hard"
     },
     {
         "conferenceId": "958ee563a1fe1545e8f6f170836da8318be69934",
@@ -413,7 +413,7 @@
         "tags": [
             "dotSwift 2016,Protocols"
         ],
-        "url": "https:\/\/www.dotconferences.com\/2016\/01\/rob-napier-beyond-crusty-real-world-protocols"
+        "url": "https://www.dotconferences.com/2016/01/rob-napier-beyond-crusty-real-world-protocols"
     },
     {
         "conferenceId": "994c23d2f7aef98499b71dd4387078722c6f3657",
@@ -426,7 +426,7 @@
         "tags": [
             "FrenchKit 2018,Design Patterns"
         ],
-        "url": "https:\/\/www.youtube.com\/watch?v=bAokeFxW2fo"
+        "url": "https://www.youtube.com/watch?v=bAokeFxW2fo"
     },
     {
         "conferenceId": "994c23d2f7aef98499b71dd4387078722c6f3657",
@@ -438,7 +438,7 @@
         "tags": [
             "FrenchKit 2018,"
         ],
-        "url": "https:\/\/www.youtube.com\/watch?v=3IJDvf6DfOY"
+        "url": "https://www.youtube.com/watch?v=3IJDvf6DfOY"
     },
     {
         "conferenceId": "994c23d2f7aef98499b71dd4387078722c6f3657",
@@ -450,7 +450,7 @@
         "tags": [
             "FrenchKit 2018,Server-Side Swift"
         ],
-        "url": "https:\/\/www.youtube.com\/watch?v=tRakjsKwdg4"
+        "url": "https://www.youtube.com/watch?v=tRakjsKwdg4"
     },
     {
         "conferenceId": "994c23d2f7aef98499b71dd4387078722c6f3657",
@@ -462,7 +462,7 @@
         "tags": [
             "FrenchKit 2018,"
         ],
-        "url": "https:\/\/www.youtube.com\/watch?v=1G63BKeNfjA"
+        "url": "https://www.youtube.com/watch?v=1G63BKeNfjA"
     },
     {
         "conferenceId": "994c23d2f7aef98499b71dd4387078722c6f3657",
@@ -474,7 +474,7 @@
         "tags": [
             "FrenchKit 2018,Brew"
         ],
-        "url": "https:\/\/www.youtube.com\/watch?v=WMMPRS58n-o"
+        "url": "https://www.youtube.com/watch?v=WMMPRS58n-o"
     },
     {
         "conferenceId": "994c23d2f7aef98499b71dd4387078722c6f3657",
@@ -486,7 +486,7 @@
         "tags": [
             "FrenchKit 2018,"
         ],
-        "url": "https:\/\/www.youtube.com\/watch?v=sAr2AI3ni7k"
+        "url": "https://www.youtube.com/watch?v=sAr2AI3ni7k"
     },
     {
         "conferenceId": "994c23d2f7aef98499b71dd4387078722c6f3657",
@@ -499,7 +499,7 @@
         "tags": [
             "FrenchKit 2018,"
         ],
-        "url": "https:\/\/www.youtube.com\/watch?v=cXfZhy4fCUE"
+        "url": "https://www.youtube.com/watch?v=cXfZhy4fCUE"
     },
     {
         "conferenceId": "994c23d2f7aef98499b71dd4387078722c6f3657",
@@ -511,7 +511,7 @@
         "tags": [
             "FrenchKit 2018,"
         ],
-        "url": "https:\/\/www.youtube.com\/watch?v=linHwUqeagU"
+        "url": "https://www.youtube.com/watch?v=linHwUqeagU"
     },
     {
         "conferenceId": "994c23d2f7aef98499b71dd4387078722c6f3657",
@@ -523,7 +523,7 @@
         "tags": [
             "FrenchKit 2018,"
         ],
-        "url": "https:\/\/www.youtube.com\/watch?v=uwqY0_Zm4HE"
+        "url": "https://www.youtube.com/watch?v=uwqY0_Zm4HE"
     },
     {
         "conferenceId": "994c23d2f7aef98499b71dd4387078722c6f3657",
@@ -535,7 +535,7 @@
         "tags": [
             "FrenchKit 2018,"
         ],
-        "url": "https:\/\/www.youtube.com\/watch?v=NshGAxI2qX0"
+        "url": "https://www.youtube.com/watch?v=NshGAxI2qX0"
     },
     {
         "conferenceId": "994c23d2f7aef98499b71dd4387078722c6f3657",
@@ -547,7 +547,7 @@
         "tags": [
             "FrenchKit 2018,"
         ],
-        "url": "https:\/\/www.youtube.com\/watch?v=SaUOykx2HYo"
+        "url": "https://www.youtube.com/watch?v=SaUOykx2HYo"
     },
     {
         "conferenceId": "994c23d2f7aef98499b71dd4387078722c6f3657",
@@ -559,7 +559,7 @@
         "tags": [
             "FrenchKit 2018,"
         ],
-        "url": "https:\/\/www.youtube.com\/watch?v=K60NyiILVP0"
+        "url": "https://www.youtube.com/watch?v=K60NyiILVP0"
     },
     {
         "conferenceId": "994c23d2f7aef98499b71dd4387078722c6f3657",
@@ -571,7 +571,7 @@
         "tags": [
             "FrenchKit 2018,Automating"
         ],
-        "url": "https:\/\/www.youtube.com\/watch?v=BpF5lXGT4MM"
+        "url": "https://www.youtube.com/watch?v=BpF5lXGT4MM"
     },
     {
         "conferenceId": "994c23d2f7aef98499b71dd4387078722c6f3657",
@@ -583,7 +583,7 @@
         "tags": [
             "FrenchKit 2018,"
         ],
-        "url": "https:\/\/www.youtube.com\/watch?v=s5M_d8xyAJ4"
+        "url": "https://www.youtube.com/watch?v=s5M_d8xyAJ4"
     },
     {
         "conferenceId": "994c23d2f7aef98499b71dd4387078722c6f3657",
@@ -595,7 +595,7 @@
         "tags": [
             "FrenchKit 2018,"
         ],
-        "url": "https:\/\/www.youtube.com\/watch?v=uQNkrV0F07Q"
+        "url": "https://www.youtube.com/watch?v=uQNkrV0F07Q"
     },
     {
         "conferenceId": "994c23d2f7aef98499b71dd4387078722c6f3657",
@@ -607,7 +607,7 @@
         "tags": [
             "FrenchKit 2018,"
         ],
-        "url": "https:\/\/www.youtube.com\/watch?v=jpAT5DoSUgw"
+        "url": "https://www.youtube.com/watch?v=jpAT5DoSUgw"
     },
     {
         "conferenceId": "994c23d2f7aef98499b71dd4387078722c6f3657",
@@ -619,7 +619,7 @@
         "tags": [
             "FrenchKit 2018,"
         ],
-        "url": "https:\/\/www.youtube.com\/watch?v=v31dSiRjyQc"
+        "url": "https://www.youtube.com/watch?v=v31dSiRjyQc"
     },
     {
         "conferenceId": "994c23d2f7aef98499b71dd4387078722c6f3657",
@@ -631,7 +631,7 @@
         "tags": [
             "FrenchKit 2018,"
         ],
-        "url": "https:\/\/www.youtube.com\/watch?v=nN22C-xyCd8"
+        "url": "https://www.youtube.com/watch?v=nN22C-xyCd8"
     },
     {
         "conferenceId": "8aa9e46dd93b4e7fdf0d78dc04aeb364bb9c864e",
@@ -644,7 +644,7 @@
         "tags": [
             "Swift & Fika 2018,"
         ],
-        "url": "https:\/\/www.youtube.com\/watch?v=8Gms7S6Ut1U"
+        "url": "https://www.youtube.com/watch?v=8Gms7S6Ut1U"
     },
     {
         "conferenceId": "8aa9e46dd93b4e7fdf0d78dc04aeb364bb9c864e",
@@ -657,12 +657,12 @@
         "tags": [
             "Swift & Fika 2018,"
         ],
-        "url": "https:\/\/www.youtube.com\/watch?v=up3Njl8GWJ4"
+        "url": "https://www.youtube.com/watch?v=up3Njl8GWJ4"
     },
     {
         "conferenceId": "8aa9e46dd93b4e7fdf0d78dc04aeb364bb9c864e",
         "source": "youtube",
-        "details": "If your app is the product you ship to your end users, your code's API is the product you ship to your teammates, external developers, and ? perhaps most importantly ? future you. Daniel takes a brief look at some of the points to consider when designing an API to be proud of, before delving into some real-world challenges he faced when things started to get a bit more tricky! \n",
+        "details": "If your app is the product you ship to your end users, your code's API is the product you ship to your teammates, external developers, and ? perhaps most importantly ? future you. Daniel takes a brief look at some of the points to consider when designing an API to be proud of, before delving into some real-world challenges he faced when things started to get a bit more tricky! n",
         "id": "d58f7b8f872fa128c64ade3d568acd537d8d8b77",
         "speakerId": "d02b2cde7a6b3f869356d57cf5798103e49310bc",
         "videoId": "f4ihOnvU68Y",
@@ -670,7 +670,7 @@
         "tags": [
             "Swift & Fika 2018,"
         ],
-        "url": "https:\/\/www.youtube.com\/watch?v=f4ihOnvU68Y"
+        "url": "https://www.youtube.com/watch?v=f4ihOnvU68Y"
     },
     {
         "conferenceId": "8aa9e46dd93b4e7fdf0d78dc04aeb364bb9c864e",
@@ -683,7 +683,7 @@
         "tags": [
             "Swift & Fika 2018,"
         ],
-        "url": "https:\/\/www.youtube.com\/watch?v=nc8e7KT8gvg"
+        "url": "https://www.youtube.com/watch?v=nc8e7KT8gvg"
     },
     {
         "conferenceId": "8aa9e46dd93b4e7fdf0d78dc04aeb364bb9c864e",
@@ -696,7 +696,7 @@
         "tags": [
             "Swift & Fika 2018,"
         ],
-        "url": "https:\/\/www.youtube.com\/watch?v=iUGnWgs_YHE"
+        "url": "https://www.youtube.com/watch?v=iUGnWgs_YHE"
     },
     {
         "conferenceId": "6e1de3941175638d16480863e8f7f21613b402b7",
@@ -709,7 +709,7 @@
         "tags": [
             "App Builders 2018,"
         ],
-        "url": "https:\/\/www.youtube.com\/watch?v=_CJXGCaA2_4"
+        "url": "https://www.youtube.com/watch?v=_CJXGCaA2_4"
     },
     {
         "conferenceId": "6e1de3941175638d16480863e8f7f21613b402b7",
@@ -722,7 +722,7 @@
         "tags": [
             "App Builders 2018,"
         ],
-        "url": "https:\/\/www.youtube.com\/watch?v=bncZlutcAfo"
+        "url": "https://www.youtube.com/watch?v=bncZlutcAfo"
     },
     {
         "conferenceId": "6e1de3941175638d16480863e8f7f21613b402b7",
@@ -735,7 +735,7 @@
         "tags": [
             "App Builders 2018,"
         ],
-        "url": "https:\/\/www.youtube.com\/watch?v=doe06IAphJs"
+        "url": "https://www.youtube.com/watch?v=doe06IAphJs"
     },
     {
         "conferenceId": "6e1de3941175638d16480863e8f7f21613b402b7",
@@ -748,7 +748,7 @@
         "tags": [
             "App Builders 2018,Firebase"
         ],
-        "url": "https:\/\/www.youtube.com\/watch?v=7-NUdnYkmdU"
+        "url": "https://www.youtube.com/watch?v=7-NUdnYkmdU"
     },
     {
         "conferenceId": "6e1de3941175638d16480863e8f7f21613b402b7",
@@ -761,7 +761,7 @@
         "tags": [
             "App Builders 2018,"
         ],
-        "url": "https:\/\/www.youtube.com\/watch?v=c-LAJKqyBCI"
+        "url": "https://www.youtube.com/watch?v=c-LAJKqyBCI"
     },
     {
         "conferenceId": "6e1de3941175638d16480863e8f7f21613b402b7",
@@ -774,7 +774,7 @@
         "tags": [
             "App Builders 2018,"
         ],
-        "url": "https:\/\/www.youtube.com\/watch?v=a-szgW-uXZ8"
+        "url": "https://www.youtube.com/watch?v=a-szgW-uXZ8"
     },
     {
         "conferenceId": "6e1de3941175638d16480863e8f7f21613b402b7",
@@ -787,7 +787,7 @@
         "tags": [
             "App Builders 2018,"
         ],
-        "url": "https:\/\/www.youtube.com\/watch?v=LbAlIzxSO6M"
+        "url": "https://www.youtube.com/watch?v=LbAlIzxSO6M"
     },
     {
         "conferenceId": "6e1de3941175638d16480863e8f7f21613b402b7",
@@ -800,7 +800,7 @@
         "tags": [
             "App Builders 2018,"
         ],
-        "url": "https:\/\/www.youtube.com\/watch?v=kFdc1ahcRX4"
+        "url": "https://www.youtube.com/watch?v=kFdc1ahcRX4"
     },
     {
         "conferenceId": "6e1de3941175638d16480863e8f7f21613b402b7",
@@ -813,7 +813,7 @@
         "tags": [
             "App Builders 2018,MVC"
         ],
-        "url": "https:\/\/www.youtube.com\/watch?v=YWVzCd5FYbs"
+        "url": "https://www.youtube.com/watch?v=YWVzCd5FYbs"
     },
     {
         "conferenceId": "6e1de3941175638d16480863e8f7f21613b402b7",
@@ -826,7 +826,7 @@
         "tags": [
             "App Builders 2018,"
         ],
-        "url": "https:\/\/www.youtube.com\/watch?v=PdkWjdKOqfo"
+        "url": "https://www.youtube.com/watch?v=PdkWjdKOqfo"
     },
     {
         "conferenceId": "6e1de3941175638d16480863e8f7f21613b402b7",
@@ -839,12 +839,12 @@
         "tags": [
             "App Builders 2018,"
         ],
-        "url": "https:\/\/www.youtube.com\/watch?v=tJeEuxn9mug"
+        "url": "https://www.youtube.com/watch?v=tJeEuxn9mug"
     },
     {
         "conferenceId": "172ae5f9736f23d63cc9a10edd6e99d6bd840c2f",
         "source": "youtube",
-        "details": "The majority of engineers either debug using print()\/NSLog, or utilize debugger for `po` command and ordinary breakpoints, However, Xcode and its debug tools give way more power, starting from powerful LLDB command language and runtime breakpoints logging to Instruments for performance and CPU investigations. I will cover the best practices, talk about most recent changes from WWDC 2018 and show quite a few examples, where meaningless at a first sight error message can be expanded to a call to action using proper debug tools. By the end of the talk, everyone should learn how to debug like a pro.",
+        "details": "The majority of engineers either debug using print()/NSLog, or utilize debugger for `po` command and ordinary breakpoints, However, Xcode and its debug tools give way more power, starting from powerful LLDB command language and runtime breakpoints logging to Instruments for performance and CPU investigations. I will cover the best practices, talk about most recent changes from WWDC 2018 and show quite a few examples, where meaningless at a first sight error message can be expanded to a call to action using proper debug tools. By the end of the talk, everyone should learn how to debug like a pro.",
         "id": "80363e3dd0773c0a52c9305aebfdffad521f49ea",
         "speakerId": "73fc30e6ceee541c36eccf60f10fca69251ed577",
         "videoId": "RKEh640oFPM",
@@ -852,12 +852,12 @@
         "tags": [
             "Swift Heroes 2018,"
         ],
-        "url": "https:\/\/www.youtube.com\/watch?v=RKEh640oFPM"
+        "url": "https://www.youtube.com/watch?v=RKEh640oFPM"
     },
     {
         "conferenceId": "172ae5f9736f23d63cc9a10edd6e99d6bd840c2f",
         "source": "youtube",
-        "details": "Functional optics, like lenses and prisms, are incredible tools for manipulating data structures in a declarative and composable way.\n\nLet?s take a deep dive into functional optics in Swift. In this talk we?ll explore more optic types than just Lens and Prism, and unlock their ability to compose at multiple levels. We?ll then leverage composition to operate on complex data structures, avoid Optional handling with the Affine optic, and explore more sophisticated usages that go beyond data manipulation.",
+        "details": "Functional optics, like lenses and prisms, are incredible tools for manipulating data structures in a declarative and composable way.nnLet?s take a deep dive into functional optics in Swift. In this talk we?ll explore more optic types than just Lens and Prism, and unlock their ability to compose at multiple levels. We?ll then leverage composition to operate on complex data structures, avoid Optional handling with the Affine optic, and explore more sophisticated usages that go beyond data manipulation.",
         "id": "807ab7d5b669ec31327a5286281e34fe05da9167",
         "speakerId": "f6f71135c948f83c9b14d802c5aba649469e2f6e",
         "videoId": "ki2WSw2WXV4",
@@ -865,12 +865,12 @@
         "tags": [
             "Swift Heroes 2018,"
         ],
-        "url": "https:\/\/www.youtube.com\/watch?v=ki2WSw2WXV4"
+        "url": "https://www.youtube.com/watch?v=ki2WSw2WXV4"
     },
     {
         "conferenceId": "172ae5f9736f23d63cc9a10edd6e99d6bd840c2f",
         "source": "youtube",
-        "details": "GraphQL was released publicly in 2015, since then it has become popular as an alternative to traditional REST APIs. For iOS developers a number of open source projects have sprung up to help iOS developers interact with GraphQL servers.\nIn this talk we discuss why GraphQL might be useful for mobile developers, demonstrate how to create a simple iOS app with a popular GraphQL client library, compare that to a REST implementation, and cover some of the potential pitfalls that might occur.",
+        "details": "GraphQL was released publicly in 2015, since then it has become popular as an alternative to traditional REST APIs. For iOS developers a number of open source projects have sprung up to help iOS developers interact with GraphQL servers.nIn this talk we discuss why GraphQL might be useful for mobile developers, demonstrate how to create a simple iOS app with a popular GraphQL client library, compare that to a REST implementation, and cover some of the potential pitfalls that might occur.",
         "id": "31559c23a043c94b8092bb03a9f08b21e2767378",
         "speakerId": "bf9ce6d5a557fc2a8df3cbedb87f70c2d2d23ed8",
         "videoId": "4DIvKPzj28s",
@@ -878,7 +878,7 @@
         "tags": [
             "Swift Heroes 2018,GraphQL"
         ],
-        "url": "https:\/\/www.youtube.com\/watch?v=4DIvKPzj28s"
+        "url": "https://www.youtube.com/watch?v=4DIvKPzj28s"
     },
     {
         "conferenceId": "172ae5f9736f23d63cc9a10edd6e99d6bd840c2f",
@@ -891,12 +891,12 @@
         "tags": [
             "Swift Heroes 2018,Vapor"
         ],
-        "url": "https:\/\/www.youtube.com\/watch?v=ReuJImJffI8"
+        "url": "https://www.youtube.com/watch?v=ReuJImJffI8"
     },
     {
         "conferenceId": "172ae5f9736f23d63cc9a10edd6e99d6bd840c2f",
         "source": "youtube",
-        "details": "RxSwift is a well-known, broadly adopted reactive framework that is sometimes used only for network-related stuff such as API calls and chaining.\nThis common misunderstanding steers developers away from such powerful yet complex framework, as they can?t see why they should go through the (steep) learning process just to refactor some networking code.\nLet?s prove them wrong! RxSwift and RxCocoa are also great for UI stuff, and can dramatically increase development speed when combined with UIKit components.",
+        "details": "RxSwift is a well-known, broadly adopted reactive framework that is sometimes used only for network-related stuff such as API calls and chaining.nThis common misunderstanding steers developers away from such powerful yet complex framework, as they can?t see why they should go through the (steep) learning process just to refactor some networking code.nLet?s prove them wrong! RxSwift and RxCocoa are also great for UI stuff, and can dramatically increase development speed when combined with UIKit components.",
         "id": "f2bac66ff1a1eadbebb28603424399c25a8e72fe",
         "speakerId": "4a7cce04abe4c00b0259c34c898a1eccc8f4b4b6",
         "videoId": "mLXfpg0h_HU",
@@ -904,7 +904,7 @@
         "tags": [
             "Swift Heroes 2018,RxSwift"
         ],
-        "url": "https:\/\/www.youtube.com\/watch?v=mLXfpg0h_HU"
+        "url": "https://www.youtube.com/watch?v=mLXfpg0h_HU"
     },
     {
         "conferenceId": "172ae5f9736f23d63cc9a10edd6e99d6bd840c2f",
@@ -917,7 +917,7 @@
         "tags": [
             "Swift Heroes 2018,Design"
         ],
-        "url": "https:\/\/www.youtube.com\/watch?v=nqK1ROWEiJk"
+        "url": "https://www.youtube.com/watch?v=nqK1ROWEiJk"
     },
     {
         "conferenceId": "172ae5f9736f23d63cc9a10edd6e99d6bd840c2f",
@@ -930,12 +930,12 @@
         "tags": [
             "Swift Heroes 2018,Testing ideas"
         ],
-        "url": "https:\/\/www.youtube.com\/watch?v=6elWOnI1b88"
+        "url": "https://www.youtube.com/watch?v=6elWOnI1b88"
     },
     {
         "conferenceId": "172ae5f9736f23d63cc9a10edd6e99d6bd840c2f",
         "source": "youtube",
-        "details": "The importance of privacy ? a look at the karma-oriented APIs\n\nA lot of time Privacy of my data as a user is not a priority for Developers. \n\nWether it?s my calendar, my contacts, my location, I want as a user to be able to use an app without all of those attacks in my privacy.\n\nI want to sumarize some things an iOS developer should do to ensure the most critical user can still use my app in some regards, and not just say ?I need all your information? like on other platforms. \n\nThis is the beauty of iOS, being able to fine grained (although not enough) so let?s do this all together, as a beautiful community concerned by Privacy.",
+        "details": "The importance of privacy ? a look at the karma-oriented APIsnnA lot of time Privacy of my data as a user is not a priority for Developers. nnWether it?s my calendar, my contacts, my location, I want as a user to be able to use an app without all of those attacks in my privacy.nnI want to sumarize some things an iOS developer should do to ensure the most critical user can still use my app in some regards, and not just say ?I need all your information? like on other platforms. nnThis is the beauty of iOS, being able to fine grained (although not enough) so let?s do this all together, as a beautiful community concerned by Privacy.",
         "id": "5045a8e1e59622cdfe403a4ade373f9110ad2ca7",
         "speakerId": "675fc7c0eef731819123821d0c4cc9960449cc91",
         "videoId": "ByAHg4u6EzM",
@@ -943,7 +943,7 @@
         "tags": [
             "Swift Heroes 2018, Privacy"
         ],
-        "url": "https:\/\/www.youtube.com\/watch?v=ByAHg4u6EzM"
+        "url": "https://www.youtube.com/watch?v=ByAHg4u6EzM"
     },
     {
         "conferenceId": "172ae5f9736f23d63cc9a10edd6e99d6bd840c2f",
@@ -956,12 +956,12 @@
         "tags": [
             "Swift Heroes 2018,"
         ],
-        "url": "https:\/\/www.youtube.com\/watch?v=0n1TMSonw2Q"
+        "url": "https://www.youtube.com/watch?v=0n1TMSonw2Q"
     },
     {
         "conferenceId": "172ae5f9736f23d63cc9a10edd6e99d6bd840c2f",
         "source": "youtube",
-        "details": "React Native is one of the most interesting technology for building cross platform mobile applications.\n\nWith React Native is easy to build a complete app from the ground up, but it?s also possibile to let both techology cohabit peacefully.\n\nIn this talk we?ll discover how React Native works and how to integrate it with a Swift native application in order to get the best from both worlds.",
+        "details": "React Native is one of the most interesting technology for building cross platform mobile applications.nnWith React Native is easy to build a complete app from the ground up, but it?s also possibile to let both techology cohabit peacefully.nnIn this talk we?ll discover how React Native works and how to integrate it with a Swift native application in order to get the best from both worlds.",
         "id": "17f4840814b89ac42ab2d99a08fc4f68e081dd6f",
         "speakerId": "4281e2a142e993317c22feca511fe748ef84b3b3",
         "videoId": "YfmYM-F0nXQ",
@@ -969,12 +969,12 @@
         "tags": [
             "Swift Heroes 2018,React Native"
         ],
-        "url": "https:\/\/www.youtube.com\/watch?v=YfmYM-F0nXQ"
+        "url": "https://www.youtube.com/watch?v=YfmYM-F0nXQ"
     },
     {
         "conferenceId": "172ae5f9736f23d63cc9a10edd6e99d6bd840c2f",
         "source": "youtube",
-        "details": "UITesting, is a great tool to automate testing of iOS applications and has been constantly improved by Apple since its introduction in 2015.\n\nIn this session we?ll share our experience leveraging this technology at a large scale. \n\nWe?ll provide a set of good reasons to start adopting it showing how we managed to solve its main pitfalls with some custom developed tools.",
+        "details": "UITesting, is a great tool to automate testing of iOS applications and has been constantly improved by Apple since its introduction in 2015.nnIn this session we?ll share our experience leveraging this technology at a large scale. nnWe?ll provide a set of good reasons to start adopting it showing how we managed to solve its main pitfalls with some custom developed tools.",
         "id": "aede41a473cbc18408a4f3d8f1746f5a3f801085",
         "speakerId": "4a060389b394e23e1255a18bac9334d73ce63012",
         "videoId": "kO2XwAd9RaA",
@@ -982,12 +982,12 @@
         "tags": [
             "Swift Heroes 2018,UI Testing"
         ],
-        "url": "https:\/\/www.youtube.com\/watch?v=kO2XwAd9RaA"
+        "url": "https://www.youtube.com/watch?v=kO2XwAd9RaA"
     },
     {
         "conferenceId": "172ae5f9736f23d63cc9a10edd6e99d6bd840c2f",
         "source": "youtube",
-        "details": "Machine learning (ML) is the science of giving computers the ability to learn without being explicitly programmed and it has become so pervasive in today?s technology that we often use it without even knowing it.\n\nIn the last two years, Apple put significant focus into his machine learning frameworks, facilitating the integration of ML in iOS with the introduction of Core ML and Create ML.\n\nWe will start with a high-level technical explanation of ML before exploring and demoing the new frameworks for ML integration provided by Apple.\n\nYou will learn how to start from scratch and end up with a full working ML integrated app.",
+        "details": "Machine learning (ML) is the science of giving computers the ability to learn without being explicitly programmed and it has become so pervasive in today?s technology that we often use it without even knowing it.nnIn the last two years, Apple put significant focus into his machine learning frameworks, facilitating the integration of ML in iOS with the introduction of Core ML and Create ML.nnWe will start with a high-level technical explanation of ML before exploring and demoing the new frameworks for ML integration provided by Apple.nnYou will learn how to start from scratch and end up with a full working ML integrated app.",
         "id": "f8f95a122e5a9b469abe4d094975b0dadbe4261b",
         "speakerId": "3f34cedd786d0dcbe97693d7e29e58a35ed024af",
         "videoId": "iX3UyyN_dnk",
@@ -995,7 +995,7 @@
         "tags": [
             "Swift Heroes 2018,CoreML"
         ],
-        "url": "https:\/\/www.youtube.com\/watch?v=iX3UyyN_dn"
+        "url": "https://www.youtube.com/watch?v=iX3UyyN_dn"
     },
     {
         "conferenceId": "d94c1614e73fc61dac7ef1cefbbb58b0e5c7a039",
@@ -1008,12 +1008,12 @@
         "tags": [
             "UIKonf 2018,"
         ],
-        "url": "https:\/\/www.youtube.com\/watch?v=fmzA7cLyKv0"
+        "url": "https://www.youtube.com/watch?v=fmzA7cLyKv0"
     },
     {
         "conferenceId": "d94c1614e73fc61dac7ef1cefbbb58b0e5c7a039",
         "source": "youtube",
-        "details": "\"Gotta Go Fast (A Performance and Instruments Talk)\nIf you?ve been working on an iOS app for a while, you may have noticed that over time your once snappy app has started to feel a little sluggish. Your feed limps along with the occasional stall or maybe you?re trying to build a camera app but it seems to lag quite a bit behind reality. Contrary to popular opinion, our software is becoming increasingly demanding at a rate that easily exceeds how quickly our devices are improving. The talk explains how to track overall performance, find performance problems and how to fix a few big ones. Sprinkled throughout are 10 Rules for Good Performance.\"",
+        "details": ""Gotta Go Fast (A Performance and Instruments Talk)nIf you?ve been working on an iOS app for a while, you may have noticed that over time your once snappy app has started to feel a little sluggish. Your feed limps along with the occasional stall or maybe you?re trying to build a camera app but it seems to lag quite a bit behind reality. Contrary to popular opinion, our software is becoming increasingly demanding at a rate that easily exceeds how quickly our devices are improving. The talk explains how to track overall performance, find performance problems and how to fix a few big ones. Sprinkled throughout are 10 Rules for Good Performance."",
         "id": "e1182740ad0f1b5817fea774b6a9d6f727da1c15",
         "speakerId": "e521dc7b126b0acd84f6c017f2d6e97630f6b9bb",
         "videoId": "gnGU5v3kVbI",
@@ -1021,7 +1021,7 @@
         "tags": [
             "UIKonf 2018,"
         ],
-        "url": "https:\/\/www.youtube.com\/watch?v=gnGU5v3kVbI"
+        "url": "https://www.youtube.com/watch?v=gnGU5v3kVbI"
     },
     {
         "conferenceId": "d94c1614e73fc61dac7ef1cefbbb58b0e5c7a039",
@@ -1034,12 +1034,12 @@
         "tags": [
             "UIKonf 2018,VIPER"
         ],
-        "url": "https:\/\/www.youtube.com\/watch?v=vGCCMgJW81g"
+        "url": "https://www.youtube.com/watch?v=vGCCMgJW81g"
     },
     {
         "conferenceId": "d94c1614e73fc61dac7ef1cefbbb58b0e5c7a039",
         "source": "youtube",
-        "details": "My talk is going to explain what end-to-end encryption (E2EE) is, the current state and the algorithms and protocols behind it as well as the challenges of implementing the truly E2EE application on the iOS platform and the future of the protocols.\n\nIn particular I would like to touch the following topics:\n\nBig Brother and why the privacy is important.\n\nVery brief historical overview of the encrypted messaging practices connected to the modern-day encryption improvements that enabled the real-time E2EE communication.",
+        "details": "My talk is going to explain what end-to-end encryption (E2EE) is, the current state and the algorithms and protocols behind it as well as the challenges of implementing the truly E2EE application on the iOS platform and the future of the protocols.nnIn particular I would like to touch the following topics:nnBig Brother and why the privacy is important.nnVery brief historical overview of the encrypted messaging practices connected to the modern-day encryption improvements that enabled the real-time E2EE communication.",
         "id": "3e0460d5d1e4a65035477b75f842376029d1c6ea",
         "speakerId": "94e9d00c0afd662773426c53ed85e2a702d402c6",
         "videoId": "uK0faqR3rOs",
@@ -1047,7 +1047,7 @@
         "tags": [
             "UIKonf 2018,"
         ],
-        "url": "https:\/\/www.youtube.com\/watch?v=uK0faqR3rOs"
+        "url": "https://www.youtube.com/watch?v=uK0faqR3rOs"
     },
     {
         "conferenceId": "d94c1614e73fc61dac7ef1cefbbb58b0e5c7a039",
@@ -1060,12 +1060,12 @@
         "tags": [
             "UIKonf 2018,"
         ],
-        "url": "https:\/\/www.youtube.com\/watch?v=1r7r-mqaSuI"
+        "url": "https://www.youtube.com/watch?v=1r7r-mqaSuI"
     },
     {
         "conferenceId": "d94c1614e73fc61dac7ef1cefbbb58b0e5c7a039",
         "source": "youtube",
-        "details": "MVC is Not Your Problem\nIn recent years, more and more criticism of the Model-View-Controller pattern (MVC) surfaced and MVC was often blamed for causing too much code in one place and too closely coupled code (?Massive View Controller?). Lots of different patterns were proposed to solve the ?MVC-Problem? from MVVM over MVP to VIPER and more. In this talk, we will see that most criticisms of MVC do not really understand what MVC does and does not prescribe. But more importantly, they miss the point: The architecture pattern is not the problem, how we use it is. We will see that other architectures are prone to the same problems as MVC and we will see how to address them in both MVC and other architectures.",
+        "details": "MVC is Not Your ProblemnIn recent years, more and more criticism of the Model-View-Controller pattern (MVC) surfaced and MVC was often blamed for causing too much code in one place and too closely coupled code (?Massive View Controller?). Lots of different patterns were proposed to solve the ?MVC-Problem? from MVVM over MVP to VIPER and more. In this talk, we will see that most criticisms of MVC do not really understand what MVC does and does not prescribe. But more importantly, they miss the point: The architecture pattern is not the problem, how we use it is. We will see that other architectures are prone to the same problems as MVC and we will see how to address them in both MVC and other architectures.",
         "id": "587a62d1d4ef529a282f425b3277a6346403f59e",
         "speakerId": "b78bf1cb3778bd93b4b5edbc04c79054bb07d925",
         "videoId": "A1vzcxR-Ss0",
@@ -1073,7 +1073,7 @@
         "tags": [
             "UIKonf 2018,"
         ],
-        "url": "https:\/\/www.youtube.com\/watch?v=A1vzcxR-Ss0"
+        "url": "https://www.youtube.com/watch?v=A1vzcxR-Ss0"
     },
     {
         "conferenceId": "d94c1614e73fc61dac7ef1cefbbb58b0e5c7a039",
@@ -1086,12 +1086,12 @@
         "tags": [
             "UIKonf 2018,"
         ],
-        "url": "https:\/\/www.youtube.com\/watch?v=e5qPfXfObnI"
+        "url": "https://www.youtube.com/watch?v=e5qPfXfObnI"
     },
     {
         "conferenceId": "d94c1614e73fc61dac7ef1cefbbb58b0e5c7a039",
         "source": "youtube",
-        "details": "Swift in Space ? The N-Body Problem\nThe N Body Problem is a computationally complex problem that we use to predict how planets and galaxies ? and everything in between ? move through space. I?ll show you some interesting ways to calculate it, and we?ll have a look at what to do, should you find yourself in a space ship?s pilot seat. When you leave this talk, you should have at least a general idea of analysis of complex algorithms as well as orbital mechanics.",
+        "details": "Swift in Space ? The N-Body ProblemnThe N Body Problem is a computationally complex problem that we use to predict how planets and galaxies ? and everything in between ? move through space. I?ll show you some interesting ways to calculate it, and we?ll have a look at what to do, should you find yourself in a space ship?s pilot seat. When you leave this talk, you should have at least a general idea of analysis of complex algorithms as well as orbital mechanics.",
         "id": "10640f1302a139cbe7bffba4aac95a35d3e80cd4",
         "speakerId": "41d273816efb2b221cad4448841834aff35bcce1",
         "videoId": "09iTidqkriw",
@@ -1099,12 +1099,12 @@
         "tags": [
             "UIKonf 2018,"
         ],
-        "url": "https:\/\/www.youtube.com\/watch?v=09iTidqkriw"
+        "url": "https://www.youtube.com/watch?v=09iTidqkriw"
     },
     {
         "conferenceId": "d94c1614e73fc61dac7ef1cefbbb58b0e5c7a039",
         "source": "youtube",
-        "details": "10 Things you Need to Know before Implementing Cryptography\n(Before we get deep into protocols vulnerabilities: things you should remember designing your app flow from a security point of view.) This talk will focus on copybook headings of infosec: what you need to know before exciting stuff like cryptography and AI-assisted incident detection. Like, choice of data you show in the background mode, choice of 3rd party SDKs, which logs we send and where? Even when developers create apps with security in minds, protect user secrets, and don?t reveal unencrypted data, attackers can find ways to bypass these security measures by exploiting architectural weaknesses and unobvious, yet very simple vulnerabilities. We will talk about all the tiny bits and pieces are necessary to make your app secure against simple attacks way before focusing on the hard things (like crypto).",
+        "details": "10 Things you Need to Know before Implementing Cryptographyn(Before we get deep into protocols vulnerabilities: things you should remember designing your app flow from a security point of view.) This talk will focus on copybook headings of infosec: what you need to know before exciting stuff like cryptography and AI-assisted incident detection. Like, choice of data you show in the background mode, choice of 3rd party SDKs, which logs we send and where? Even when developers create apps with security in minds, protect user secrets, and don?t reveal unencrypted data, attackers can find ways to bypass these security measures by exploiting architectural weaknesses and unobvious, yet very simple vulnerabilities. We will talk about all the tiny bits and pieces are necessary to make your app secure against simple attacks way before focusing on the hard things (like crypto).",
         "id": "991518f0cdc98b804f6e4eb3de519c04ccf9b69f",
         "speakerId": "4871242451c0da741bf6620d6d0f3fd8de557e39",
         "videoId": "_fKR-KZ4yJQ",
@@ -1112,12 +1112,12 @@
         "tags": [
             "UIKonf 2018,"
         ],
-        "url": "https:\/\/www.youtube.com\/watch?v=_fKR-KZ4yJQ"
+        "url": "https://www.youtube.com/watch?v=_fKR-KZ4yJQ"
     },
     {
         "conferenceId": "d94c1614e73fc61dac7ef1cefbbb58b0e5c7a039",
         "source": "youtube",
-        "details": "Compilers and LLVM Demystified\nHave compilers just seemed like a big black box for you? Have you ever wondered what happens on your code?s journey from the time you write it to when it gets executed? In this talk we want to take a close look at the LLVM compiler infrastructure used in the Swift compiler and also in many other languages. We will use a swift wrapper around LLVM called LLVMSwift to implement a toy compiler in Swift for an example language.",
+        "details": "Compilers and LLVM DemystifiednHave compilers just seemed like a big black box for you? Have you ever wondered what happens on your code?s journey from the time you write it to when it gets executed? In this talk we want to take a close look at the LLVM compiler infrastructure used in the Swift compiler and also in many other languages. We will use a swift wrapper around LLVM called LLVMSwift to implement a toy compiler in Swift for an example language.",
         "id": "550223e39a6d71540d76ecc9a21969f4d38bb793",
         "speakerId": "127d4d716041ae9d0f60586e4d9f00b817729735",
         "videoId": "Y9Br6uuimJI",
@@ -1125,7 +1125,7 @@
         "tags": [
             "UIKonf 2018,"
         ],
-        "url": "https:\/\/www.youtube.com\/watch?v=Y9Br6uuimJI"
+        "url": "https://www.youtube.com/watch?v=Y9Br6uuimJI"
     },
     {
         "conferenceId": "d94c1614e73fc61dac7ef1cefbbb58b0e5c7a039",
@@ -1138,7 +1138,7 @@
         "tags": [
             "UIKonf 2018,"
         ],
-        "url": "https:\/\/www.youtube.com\/watch?v=Nx0cKEQcbz4"
+        "url": "https://www.youtube.com/watch?v=Nx0cKEQcbz4"
     },
     {
         "conferenceId": "df7fee9bc3616b7d43a7359061a33222651e933a",
@@ -1151,7 +1151,7 @@
         "tags": [
             "NSSpain 2018,"
         ],
-        "url": "https:\/\/vimeo.com\/291592300"
+        "url": "https://vimeo.com/291592300"
     },
     {
         "conferenceId": "df7fee9bc3616b7d43a7359061a33222651e933a",
@@ -1164,12 +1164,12 @@
         "tags": [
             "NSSpain 2018,"
         ],
-        "url": "https:\/\/vimeo.com\/291591293"
+        "url": "https://vimeo.com/291591293"
     },
     {
         "conferenceId": "df7fee9bc3616b7d43a7359061a33222651e933a",
         "source": "vimeo",
-        "details": "Working with legacy code can be challenging and sometimes a little frustrating. In this talk, I would like to explore the positive side of it and how it can help to grow your skills and become a better developer.\n",
+        "details": "Working with legacy code can be challenging and sometimes a little frustrating. In this talk, I would like to explore the positive side of it and how it can help to grow your skills and become a better developer.n",
         "id": "3477f701c26a45ba5550a9040a843d312bfa8705",
         "speakerId": "b4591e786ad2b2ba534caea5f66d7b02caddcabe",
         "videoId": "291601850",
@@ -1177,7 +1177,7 @@
         "tags": [
             "NSSpain 2018,"
         ],
-        "url": "https:\/\/vimeo.com\/291601850"
+        "url": "https://vimeo.com/291601850"
     },
     {
         "conferenceId": "df7fee9bc3616b7d43a7359061a33222651e933a",
@@ -1190,7 +1190,7 @@
         "tags": [
             "NSSpain 2018,"
         ],
-        "url": "https:\/\/vimeo.com\/291661648"
+        "url": "https://vimeo.com/291661648"
     },
     {
         "conferenceId": "df7fee9bc3616b7d43a7359061a33222651e933a",
@@ -1203,7 +1203,7 @@
         "tags": [
             "NSSpain 2018,"
         ],
-        "url": "https:\/\/vimeo.com\/290322018"
+        "url": "https://vimeo.com/290322018"
     },
     {
         "conferenceId": "df7fee9bc3616b7d43a7359061a33222651e933a",
@@ -1216,7 +1216,7 @@
         "tags": [
             "NSSpain 2018,"
         ],
-        "url": "https:\/\/vimeo.com\/290295358"
+        "url": "https://vimeo.com/290295358"
     },
     {
         "conferenceId": "df7fee9bc3616b7d43a7359061a33222651e933a",
@@ -1229,7 +1229,7 @@
         "tags": [
             "NSSpain 2018,"
         ],
-        "url": "https:\/\/vimeo.com\/290298402"
+        "url": "https://vimeo.com/290298402"
     },
     {
         "conferenceId": "df7fee9bc3616b7d43a7359061a33222651e933a",
@@ -1242,7 +1242,7 @@
         "tags": [
             "NSSpain 2018,"
         ],
-        "url": "https:\/\/vimeo.com\/292723588"
+        "url": "https://vimeo.com/292723588"
     },
     {
         "conferenceId": "df7fee9bc3616b7d43a7359061a33222651e933a",
@@ -1255,7 +1255,7 @@
         "tags": [
             "NSSpain 2018,"
         ],
-        "url": "https:\/\/vimeo.com\/291588126"
+        "url": "https://vimeo.com/291588126"
     },
     {
         "conferenceId": "df7fee9bc3616b7d43a7359061a33222651e933a",
@@ -1268,12 +1268,12 @@
         "tags": [
             "NSSpain 2018,"
         ],
-        "url": "https:\/\/vimeo.com\/292738016"
+        "url": "https://vimeo.com/292738016"
     },
     {
         "conferenceId": "df7fee9bc3616b7d43a7359061a33222651e933a",
         "source": "vimeo",
-        "details": "Most well known mobile architectures start to work against you after your engineering team grows large. A new architecture paradigm is needed to support the development of mobile applications with hundreds of mobile engineers.\n\nAt Uber, we?ve been through this journey, growing from one mobile developer to hundreds. After investigating many other mobile architectures, we created RIBs: a platform-agnostic mobile architecture designed with reliability, testability, isolation and maintainability in mind. We re-wrote the Uber application in 4 months with 200 engineers.",
+        "details": "Most well known mobile architectures start to work against you after your engineering team grows large. A new architecture paradigm is needed to support the development of mobile applications with hundreds of mobile engineers.nnAt Uber, we?ve been through this journey, growing from one mobile developer to hundreds. After investigating many other mobile architectures, we created RIBs: a platform-agnostic mobile architecture designed with reliability, testability, isolation and maintainability in mind. We re-wrote the Uber application in 4 months with 200 engineers.",
         "id": "c9a927277547c9359e2c4af4f33972f535709e38",
         "speakerId": "5cb8551740edbe8cf9690ef036156bcded2ed24d",
         "videoId": "292733041",
@@ -1281,7 +1281,7 @@
         "tags": [
             "NSSpain 2018,"
         ],
-        "url": "https:\/\/vimeo.com\/292733041"
+        "url": "https://vimeo.com/292733041"
     },
     {
         "conferenceId": "df7fee9bc3616b7d43a7359061a33222651e933a",
@@ -1294,7 +1294,7 @@
         "tags": [
             "NSSpain 2018,"
         ],
-        "url": "https:\/\/vimeo.com\/292710821"
+        "url": "https://vimeo.com/292710821"
     },
     {
         "conferenceId": "df7fee9bc3616b7d43a7359061a33222651e933a",
@@ -1307,7 +1307,7 @@
         "tags": [
             "NSSpain 2018,"
         ],
-        "url": "https:\/\/vimeo.com\/292689890"
+        "url": "https://vimeo.com/292689890"
     },
     {
         "conferenceId": "df7fee9bc3616b7d43a7359061a33222651e933a",
@@ -1320,7 +1320,7 @@
         "tags": [
             "NSSpain 2018,"
         ],
-        "url": "https:\/\/vimeo.com\/291708291"
+        "url": "https://vimeo.com/291708291"
     },
     {
         "conferenceId": "df7fee9bc3616b7d43a7359061a33222651e933a",
@@ -1333,12 +1333,12 @@
         "tags": [
             "NSSpain 2018,"
         ],
-        "url": "https:\/\/vimeo.com\/291708190"
+        "url": "https://vimeo.com/291708190"
     },
     {
         "conferenceId": "8d58f6aff18e64603981afce1422037f5e7c4899",
         "source": "youtube",
-        "details": "A mix of faster computers, a more mature artificial intelligence field and the growing collaboration of technologists and humanists is shaping the new generation of conversational interfaces. How much magic is there really involved and where are we in the practice? How are real chatbots from real brands performing?\n\nIn this talk Cristina Santamarina will review the 10 most important natural language challenges she faces when designing conversational interfaces. From slang and typos to rants and trolls she will provide examples and propose dialogue design techniques that can help mitigate them.",
+        "details": "A mix of faster computers, a more mature artificial intelligence field and the growing collaboration of technologists and humanists is shaping the new generation of conversational interfaces. How much magic is there really involved and where are we in the practice? How are real chatbots from real brands performing?nnIn this talk Cristina Santamarina will review the 10 most important natural language challenges she faces when designing conversational interfaces. From slang and typos to rants and trolls she will provide examples and propose dialogue design techniques that can help mitigate them.",
         "id": "222f63c2040a12252449bf6501b9f02f66f5f8d4",
         "speakerId": "5bfd7bc05ea292a5a318ca9d7464075f4b019b9f",
         "videoId": "Uc9Ei3Ax-qM",
@@ -1346,12 +1346,12 @@
         "tags": [
             "App Design & Development Conference 2018,"
         ],
-        "url": "https:\/\/www.youtube.com\/watch?v=Uc9Ei3Ax-qM"
+        "url": "https://www.youtube.com/watch?v=Uc9Ei3Ax-qM"
     },
     {
         "conferenceId": "8d58f6aff18e64603981afce1422037f5e7c4899",
         "source": "youtube",
-        "details": "Mobile has always been driven forward by a plentitude of sensors like GPS, motion, and camera. With the advent of depth sensing technologies new possibilities open up for apps.\n\nWatch and learn intricate details and loads of use cases through an immersive and interactive talk packed with 80s visuals and audio.",
+        "details": "Mobile has always been driven forward by a plentitude of sensors like GPS, motion, and camera. With the advent of depth sensing technologies new possibilities open up for apps.nnWatch and learn intricate details and loads of use cases through an immersive and interactive talk packed with 80s visuals and audio.",
         "id": "8cc9aebf312219483c29bf1346cba45b03ab13d9",
         "speakerId": "35bb0a41effa941d65b85591eb931ada985f08fb",
         "videoId": "XfEBtxhhI0g",
@@ -1359,7 +1359,7 @@
         "tags": [
             "App Design & Development Conference 2018,"
         ],
-        "url": "https:\/\/www.youtube.com\/watch?v=XfEBtxhhI0g"
+        "url": "https://www.youtube.com/watch?v=XfEBtxhhI0g"
     },
     {
         "conferenceId": "8d58f6aff18e64603981afce1422037f5e7c4899",
@@ -1368,11 +1368,11 @@
         "id": "b0b2d088b3d006b72851bc328ec9e7adfdbb6653",
         "speakerId": "652f17a4c1b2239863b28cbb3c407d0118d929ba",
         "videoId": "ZLI_QmASfkE",
-        "title": "\"Remote Control\"",
+        "title": ""Remote Control"",
         "tags": [
             "App Design & Development Conference 2018,"
         ],
-        "url": "https:\/\/www.youtube.com\/watch?v=ZLI_QmASfkE"
+        "url": "https://www.youtube.com/watch?v=ZLI_QmASfkE"
     },
     {
         "conferenceId": "8d58f6aff18e64603981afce1422037f5e7c4899",
@@ -1385,12 +1385,12 @@
         "tags": [
             "App Design & Development Conference 2018,Design"
         ],
-        "url": "https:\/\/www.youtube.com\/watch?v=eDwKnB4CAP8"
+        "url": "https://www.youtube.com/watch?v=eDwKnB4CAP8"
     },
     {
         "conferenceId": "8d58f6aff18e64603981afce1422037f5e7c4899",
         "source": "youtube",
-        "details": "We push buttons to play games. In return, they push ours.\n\nIn this talk I'll discuss five lessons learned on the relationship between games, digital products and humans.\n\nThrough vivid examples I will provide key takeaways from the gaming world to apply in almost every digital product design.",
+        "details": "We push buttons to play games. In return, they push ours.nnIn this talk I'll discuss five lessons learned on the relationship between games, digital products and humans.nnThrough vivid examples I will provide key takeaways from the gaming world to apply in almost every digital product design.",
         "id": "4441908b28fa8c2e372184156e235e16e4a374f1",
         "speakerId": "173bb8e7287560068e028214000524caf5fb1a20",
         "videoId": "xu5UA-Ft6Kk",
@@ -1398,7 +1398,7 @@
         "tags": [
             "App Design & Development Conference 2018,Design"
         ],
-        "url": "https:\/\/www.youtube.com\/watch?v=xu5UA-Ft6Kk"
+        "url": "https://www.youtube.com/watch?v=xu5UA-Ft6Kk"
     },
     {
         "conferenceId": "8d58f6aff18e64603981afce1422037f5e7c4899",
@@ -1411,7 +1411,7 @@
         "tags": [
             "App Design & Development Conference 2018,Design"
         ],
-        "url": "https:\/\/www.youtube.com\/watch?v=G2NH9z03p1A"
+        "url": "https://www.youtube.com/watch?v=G2NH9z03p1A"
     },
     {
         "conferenceId": "8d58f6aff18e64603981afce1422037f5e7c4899",
@@ -1424,7 +1424,7 @@
         "tags": [
             "App Design & Development Conference 2018,Marketing"
         ],
-        "url": "https:\/\/www.youtube.com\/watch?v=fHloU3AkiaU"
+        "url": "https://www.youtube.com/watch?v=fHloU3AkiaU"
     },
     {
         "conferenceId": "8d58f6aff18e64603981afce1422037f5e7c4899",
@@ -1437,12 +1437,12 @@
         "tags": [
             "App Design & Development Conference 2018,Design"
         ],
-        "url": "https:\/\/www.youtube.com\/watch?v=oMRyPSaotm8"
+        "url": "https://www.youtube.com/watch?v=oMRyPSaotm8"
     },
     {
         "conferenceId": "8d58f6aff18e64603981afce1422037f5e7c4899",
         "source": "youtube",
-        "details": "Many teams are designed so that engineers can take an abstract view of the customer and focus on implementation. But when the customers are other engineers, that entire dynamic is thrown on it's head.\n\nIn this talk, Ty will walk you through the best practices of building great products for developers, from team processes to the technical delivery.\n\nTopics covered will include: Building customer personas and product strategies, Developer Experience research and analytics, customer empathy and support structures, API Design and usability, testing, code distribution, and creating great documentation.",
+        "details": "Many teams are designed so that engineers can take an abstract view of the customer and focus on implementation. But when the customers are other engineers, that entire dynamic is thrown on it's head.nnIn this talk, Ty will walk you through the best practices of building great products for developers, from team processes to the technical delivery.nnTopics covered will include: Building customer personas and product strategies, Developer Experience research and analytics, customer empathy and support structures, API Design and usability, testing, code distribution, and creating great documentation.",
         "id": "18be0b87ad16dbffdad6f8b61e1e8948de9bf9eb",
         "speakerId": "caee81e07588e699409c160abab5d29208ff432a",
         "videoId": "1cuhWSZqDCM",
@@ -1450,12 +1450,12 @@
         "tags": [
             "App Design & Development Conference 2018,"
         ],
-        "url": "https:\/\/www.youtube.com\/watch?v=1cuhWSZqDCM"
+        "url": "https://www.youtube.com/watch?v=1cuhWSZqDCM"
     },
     {
         "conferenceId": "8d58f6aff18e64603981afce1422037f5e7c4899",
         "source": "youtube",
-        "details": "Over the last couple of years there?s been significant advancement in the technology of Augmented Reality (AR), allowing it to become the next big thing in human-computer interaction.\n\nGiants like Apple and Google have now created their own AR frameworks and released them to developers, providing the foundations of this technology, allowing us to easily innovate and solve problems with it..\n\nIn this talk, we will go over the fundamentals of building an AR app, both with using Google?s ARCore and Apple?s ARKit, as well as some basic guidelines on designing accurate and realistic 3D objects, which will augment our real world.\n\nThe session will include a demo app with ARKit and ARCore to showcase how AR translates into code, as well as using 3D design software to create models, set up the scene with lights and shadows, and even animations.",
+        "details": "Over the last couple of years there?s been significant advancement in the technology of Augmented Reality (AR), allowing it to become the next big thing in human-computer interaction.nnGiants like Apple and Google have now created their own AR frameworks and released them to developers, providing the foundations of this technology, allowing us to easily innovate and solve problems with it..nnIn this talk, we will go over the fundamentals of building an AR app, both with using Google?s ARCore and Apple?s ARKit, as well as some basic guidelines on designing accurate and realistic 3D objects, which will augment our real world.nnThe session will include a demo app with ARKit and ARCore to showcase how AR translates into code, as well as using 3D design software to create models, set up the scene with lights and shadows, and even animations.",
         "id": "3a75c07574bfebe680abadb24faa7b112b66291d",
         "speakerId": "668a276f4e09fd5d6454f6e7b1ab773b215f7aed",
         "videoId": "azP6ejWXeu4",
@@ -1463,12 +1463,12 @@
         "tags": [
             "App Design & Development Conference 2018,AR"
         ],
-        "url": "https:\/\/www.youtube.com\/watch?v=azP6ejWXeu4"
+        "url": "https://www.youtube.com/watch?v=azP6ejWXeu4"
     },
     {
         "conferenceId": "8d58f6aff18e64603981afce1422037f5e7c4899",
         "source": "youtube",
-        "details": "Users increasingly demand apps that are location-aware, but working with location services can be frustrating. Accuracy can vary wildly, and users complain loudly if your app destroys their battery. Even worse, location services APIs often feel like black boxes, leaving even experienced developers scratching their heads how to debug them.\n\nSo how does it all actually work? How can your phone, solely using the position of a few satellites, figure out where you are to within a few meters? How, dare we ask, is the location technology sitting in our pockets indebted not only to the Cold War but to the navigational needs of 18th century sailors?\n\nWe'll explore the underlying technology behind GPS and location services, helping you better understand why things fail when they do, and how you can best design around the limitations of the technology.",
+        "details": "Users increasingly demand apps that are location-aware, but working with location services can be frustrating. Accuracy can vary wildly, and users complain loudly if your app destroys their battery. Even worse, location services APIs often feel like black boxes, leaving even experienced developers scratching their heads how to debug them.nnSo how does it all actually work? How can your phone, solely using the position of a few satellites, figure out where you are to within a few meters? How, dare we ask, is the location technology sitting in our pockets indebted not only to the Cold War but to the navigational needs of 18th century sailors?nnWe'll explore the underlying technology behind GPS and location services, helping you better understand why things fail when they do, and how you can best design around the limitations of the technology.",
         "id": "53b5ec74d6dd9918fe28e768b6c16640755687cb",
         "speakerId": "d58c29eb755fd3409f283defd66436a3ea037da1",
         "videoId": "cN6LcipVsic",
@@ -1476,7 +1476,7 @@
         "tags": [
             "App Design & Development Conference 2018,Design"
         ],
-        "url": "https:\/\/www.youtube.com\/watch?v=cN6LcipVsic"
+        "url": "https://www.youtube.com/watch?v=cN6LcipVsic"
     },
     {
         "conferenceId": "8d58f6aff18e64603981afce1422037f5e7c4899",
@@ -1489,12 +1489,12 @@
         "tags": [
             "App Design & Development Conference 2018,Design"
         ],
-        "url": "https:\/\/www.youtube.com\/watch?v=rkC3JCntSVU"
+        "url": "https://www.youtube.com/watch?v=rkC3JCntSVU"
     },
     {
         "conferenceId": "8d58f6aff18e64603981afce1422037f5e7c4899",
         "source": "youtube",
-        "details": "Emerging markets will account for over 90% of new mobile subscribers globally by 2020. If you're not currently building your products with these users in mind then you're missing out on a huge growth lever.\n\nIn this talk Eli will describe the characteristics of these markets, the challenges his team faced when building Facebook Lite and their biggest wins. You'll hear about common assumptions that don't hold in emerging markets and some dos and don'ts.",
+        "details": "Emerging markets will account for over 90% of new mobile subscribers globally by 2020. If you're not currently building your products with these users in mind then you're missing out on a huge growth lever.nnIn this talk Eli will describe the characteristics of these markets, the challenges his team faced when building Facebook Lite and their biggest wins. You'll hear about common assumptions that don't hold in emerging markets and some dos and don'ts.",
         "id": "dba1dfcd1cae33df5eb96a2d0be0084dd27251d3",
         "speakerId": "3cff5ad214bee2767e011e56fc75b348740f7506",
         "videoId": "XwwodpQnNeE",
@@ -1502,7 +1502,7 @@
         "tags": [
             "App Design & Development Conference 2018,"
         ],
-        "url": "https:\/\/www.youtube.com\/watch?v=XwwodpQnNeE"
+        "url": "https://www.youtube.com/watch?v=XwwodpQnNeE"
     },
     {
         "conferenceId": "b9b5fc4734b9d7880030fdadedd41be749342921",
@@ -1515,7 +1515,7 @@
         "tags": [
             "iOS Astronauts 2018,"
         ],
-        "url": "https:\/\/www.youtube.com\/watch?v=iXrRI2PrCpk"
+        "url": "https://www.youtube.com/watch?v=iXrRI2PrCpk"
     },
     {
         "conferenceId": "b9b5fc4734b9d7880030fdadedd41be749342921",
@@ -1528,7 +1528,7 @@
         "tags": [
             "iOS Astronauts 2018,"
         ],
-        "url": "https:\/\/www.youtube.com\/watch?v=GL4DkAJ9K40"
+        "url": "https://www.youtube.com/watch?v=GL4DkAJ9K40"
     },
     {
         "conferenceId": "b9b5fc4734b9d7880030fdadedd41be749342921",
@@ -1541,7 +1541,7 @@
         "tags": [
             "iOS Astronauts 2018,"
         ],
-        "url": "https:\/\/www.youtube.com\/watch?v=eIOUxYuFz_8"
+        "url": "https://www.youtube.com/watch?v=eIOUxYuFz_8"
     },
     {
         "conferenceId": "b9b5fc4734b9d7880030fdadedd41be749342921",
@@ -1554,7 +1554,7 @@
         "tags": [
             "iOS Astronauts 2018,"
         ],
-        "url": "https:\/\/www.youtube.com\/watch?v=_42QNWDHDzY"
+        "url": "https://www.youtube.com/watch?v=_42QNWDHDzY"
     },
     {
         "conferenceId": "b9b5fc4734b9d7880030fdadedd41be749342921",
@@ -1567,7 +1567,7 @@
         "tags": [
             "iOS Astronauts 2018,"
         ],
-        "url": "https:\/\/www.youtube.com\/watch?v=bEu2aUmUZNM"
+        "url": "https://www.youtube.com/watch?v=bEu2aUmUZNM"
     },
     {
         "conferenceId": "b9b5fc4734b9d7880030fdadedd41be749342921",
@@ -1580,7 +1580,7 @@
         "tags": [
             "iOS Astronauts 2018,"
         ],
-        "url": "https:\/\/www.youtube.com\/watch?v=c87GQpXBcZg"
+        "url": "https://www.youtube.com/watch?v=c87GQpXBcZg"
     },
     {
         "conferenceId": "b9b5fc4734b9d7880030fdadedd41be749342921",
@@ -1593,7 +1593,7 @@
         "tags": [
             "iOS Astronauts 2018,"
         ],
-        "url": "https:\/\/www.youtube.com\/watch?v=2cjJKcIiMP8"
+        "url": "https://www.youtube.com/watch?v=2cjJKcIiMP8"
     },
     {
         "conferenceId": "b9b5fc4734b9d7880030fdadedd41be749342921",
@@ -1606,7 +1606,7 @@
         "tags": [
             "iOS Astronauts 2018,"
         ],
-        "url": "https:\/\/www.youtube.com\/watch?v=IR_vVmCJl4A"
+        "url": "https://www.youtube.com/watch?v=IR_vVmCJl4A"
     },
     {
         "conferenceId": "b9b5fc4734b9d7880030fdadedd41be749342921",
@@ -1619,7 +1619,7 @@
         "tags": [
             "iOS Astronauts 2018,"
         ],
-        "url": "https:\/\/www.youtube.com\/watch?v=59WmOb6TMhk"
+        "url": "https://www.youtube.com/watch?v=59WmOb6TMhk"
     },
     {
         "conferenceId": "004dd6899fb3f559e69cd7d18ba01d823405a046",
@@ -1632,12 +1632,12 @@
         "tags": [
             "try! Swift NYC 2018,"
         ],
-        "url": "https:\/\/www.youtube.com\/watch?v=M9kEtkhEjQ8"
+        "url": "https://www.youtube.com/watch?v=M9kEtkhEjQ8"
     },
     {
         "conferenceId": "004dd6899fb3f559e69cd7d18ba01d823405a046",
         "source": "youtube",
-        "details": "A look back at Swift when it was still in development (and how it rapidly changed), when in was in its beta stages, through to Swift 1 and 2 ? and what is to come.\n\nI want to explore interesting parts of the evolution of the Swift language, and what that can bring now that we have a stable Swift 4, with Swift 5 around the corner - while also taking a look at the various long-term goals, like concurrency, regex, and an ownership model. How open source Swift has changed the language (particularly focusing on the involvement of the Swift evolution process) and the community that has formed around it.",
+        "details": "A look back at Swift when it was still in development (and how it rapidly changed), when in was in its beta stages, through to Swift 1 and 2 ? and what is to come.nnI want to explore interesting parts of the evolution of the Swift language, and what that can bring now that we have a stable Swift 4, with Swift 5 around the corner - while also taking a look at the various long-term goals, like concurrency, regex, and an ownership model. How open source Swift has changed the language (particularly focusing on the involvement of the Swift evolution process) and the community that has formed around it.",
         "id": "a56b9afff570dceff9304548c71c84f7adc3f937",
         "speakerId": "290d784ade2a3f2e9997f9a514151fe02d3248ee",
         "videoId": "ePuOrCbIW-o",
@@ -1645,7 +1645,7 @@
         "tags": [
             "try! Swift NYC 2018,"
         ],
-        "url": "https:\/\/www.youtube.com\/watch?v=ePuOrCbIW-o"
+        "url": "https://www.youtube.com/watch?v=ePuOrCbIW-o"
     },
     {
         "conferenceId": "004dd6899fb3f559e69cd7d18ba01d823405a046",
@@ -1658,7 +1658,7 @@
         "tags": [
             "try! Swift NYC 2018,"
         ],
-        "url": "https:\/\/www.youtube.com\/watch?v=bhQJKRSStuE"
+        "url": "https://www.youtube.com/watch?v=bhQJKRSStuE"
     },
     {
         "conferenceId": "004dd6899fb3f559e69cd7d18ba01d823405a046",
@@ -1671,7 +1671,7 @@
         "tags": [
             "try! Swift NYC 2018,"
         ],
-        "url": "https:\/\/www.youtube.com\/watch?v=b7bVgnbgGyI"
+        "url": "https://www.youtube.com/watch?v=b7bVgnbgGyI"
     },
     {
         "conferenceId": "004dd6899fb3f559e69cd7d18ba01d823405a046",
@@ -1684,7 +1684,7 @@
         "tags": [
             "try! Swift NYC 2018,"
         ],
-        "url": "https:\/\/www.youtube.com\/watch?v=BXePggcWpuE"
+        "url": "https://www.youtube.com/watch?v=BXePggcWpuE"
     },
     {
         "conferenceId": "004dd6899fb3f559e69cd7d18ba01d823405a046",
@@ -1697,12 +1697,12 @@
         "tags": [
             "try! Swift NYC 2018,"
         ],
-        "url": "https:\/\/www.youtube.com\/watch?v=7pEATK6PgXs"
+        "url": "https://www.youtube.com/watch?v=7pEATK6PgXs"
     },
     {
         "conferenceId": "004dd6899fb3f559e69cd7d18ba01d823405a046",
         "source": "youtube",
-        "details": "Core Data brings a lot of power to an app and continues to evolve, but it can have rough spots when you're working in Swift. What if you want to save an enum pr a struct? Does it help if your data is Codable? What's the best way to create Swift-friendly model classes?\n\nThis session will cover techniques and gotchas for integrating Core Data with your Swift code",
+        "details": "Core Data brings a lot of power to an app and continues to evolve, but it can have rough spots when you're working in Swift. What if you want to save an enum pr a struct? Does it help if your data is Codable? What's the best way to create Swift-friendly model classes?nnThis session will cover techniques and gotchas for integrating Core Data with your Swift code",
         "id": "194dde4dbd17d4d31e726cd7ad627ff3948dd6d8",
         "speakerId": "dc647acff9ac56b7e6d0c6c14b1746e9ac5e2e63",
         "videoId": "w7tFF7IfKVk",
@@ -1710,7 +1710,7 @@
         "tags": [
             "try! Swift NYC 2018,"
         ],
-        "url": "https:\/\/www.youtube.com\/watch?v=w7tFF7IfKVk"
+        "url": "https://www.youtube.com/watch?v=w7tFF7IfKVk"
     },
     {
         "conferenceId": "004dd6899fb3f559e69cd7d18ba01d823405a046",
@@ -1723,7 +1723,7 @@
         "tags": [
             "try! Swift NYC 2018,"
         ],
-        "url": "https:\/\/www.youtube.com\/watch?v=4ELsSqgVA_Y"
+        "url": "https://www.youtube.com/watch?v=4ELsSqgVA_Y"
     },
     {
         "conferenceId": "004dd6899fb3f559e69cd7d18ba01d823405a046",
@@ -1736,7 +1736,7 @@
         "tags": [
             "try! Swift NYC 2018,"
         ],
-        "url": "https:\/\/www.youtube.com\/watch?v=cVFMRRQIZG4"
+        "url": "https://www.youtube.com/watch?v=cVFMRRQIZG4"
     },
     {
         "conferenceId": "004dd6899fb3f559e69cd7d18ba01d823405a046",
@@ -1749,12 +1749,12 @@
         "tags": [
             "try! Swift NYC 2018,"
         ],
-        "url": "https:\/\/www.youtube.com\/watch?v=S73T0TdE9SI"
+        "url": "https://www.youtube.com/watch?v=S73T0TdE9SI"
     },
     {
         "conferenceId": "004dd6899fb3f559e69cd7d18ba01d823405a046",
         "source": "youtube",
-        "details": "Code reviews are essential for maintaining code quality and helping developers sharpen their coding skills. However, code reviews are also difficult to get right. Many code review comments end up being unclear, trivial, or condescending.\n\nWith compassion as a guideline, though, we can work to establish code review practices that minimize suffering for everyone involved?the code authors, the code reviewers, the code maintainers, and even the end users.\n\nIn this talk, you?ll learn that Compassionate Code Reviews are not about ?sugarcoating? feedback and actually demand a considerable degree of candor. Equipped with a set of guidelines for executing Compassionate Code Reviews, you?ll leave inspired to apply them on your team to create better code and happier coders.",
+        "details": "Code reviews are essential for maintaining code quality and helping developers sharpen their coding skills. However, code reviews are also difficult to get right. Many code review comments end up being unclear, trivial, or condescending.nnWith compassion as a guideline, though, we can work to establish code review practices that minimize suffering for everyone involved?the code authors, the code reviewers, the code maintainers, and even the end users.nnIn this talk, you?ll learn that Compassionate Code Reviews are not about ?sugarcoating? feedback and actually demand a considerable degree of candor. Equipped with a set of guidelines for executing Compassionate Code Reviews, you?ll leave inspired to apply them on your team to create better code and happier coders.",
         "id": "f62329751477a7bf64c301245cac1d80d17ff37e",
         "speakerId": "df2defc63826492d999c2648a42302f881ba9028",
         "videoId": "Ea8EiIPZvh0",
@@ -1762,12 +1762,12 @@
         "tags": [
             "try! Swift NYC 2018,"
         ],
-        "url": "https:\/\/www.youtube.com\/watch?v=Ea8EiIPZvh0"
+        "url": "https://www.youtube.com/watch?v=Ea8EiIPZvh0"
     },
     {
         "conferenceId": "004dd6899fb3f559e69cd7d18ba01d823405a046",
         "source": "youtube",
-        "details": "Siri Shortcuts help to improve your user experience by making actions available with Siri in iOS, watchOS, CarPlay and HomePod. We can set up our apps to give easy access to frequent actions without needing to open the app. Even better, iOS can suggest frequently used actions pro-actively using notifications or the lock screen.\n\nWe?ll see how to add custom Siri Shortcuts to our apps, how to expose them so that Siri can recommend them, and how to let users set up their own voice commands to access their favourite Shortcuts.",
+        "details": "Siri Shortcuts help to improve your user experience by making actions available with Siri in iOS, watchOS, CarPlay and HomePod. We can set up our apps to give easy access to frequent actions without needing to open the app. Even better, iOS can suggest frequently used actions pro-actively using notifications or the lock screen.nnWe?ll see how to add custom Siri Shortcuts to our apps, how to expose them so that Siri can recommend them, and how to let users set up their own voice commands to access their favourite Shortcuts.",
         "id": "3863d4b7569239abf492745c26fb57969fbd613e",
         "speakerId": "804226871f69e27e79c855dd07699e00a9e94175",
         "videoId": "_0PzPj2VUVw",
@@ -1775,7 +1775,7 @@
         "tags": [
             "try! Swift NYC 2018,"
         ],
-        "url": "https:\/\/www.youtube.com\/watch?v=_0PzPj2VUVw"
+        "url": "https://www.youtube.com/watch?v=_0PzPj2VUVw"
     },
     {
         "conferenceId": "004dd6899fb3f559e69cd7d18ba01d823405a046",
@@ -1788,12 +1788,12 @@
         "tags": [
             "try! Swift NYC 2018,"
         ],
-        "url": "https:\/\/www.youtube.com\/watch?v=xpqVVenP8ok"
+        "url": "https://www.youtube.com/watch?v=xpqVVenP8ok"
     },
     {
         "conferenceId": "004dd6899fb3f559e69cd7d18ba01d823405a046",
         "source": "youtube",
-        "details": "You want to add ML to your apps but you think you need to study a lot of math and write Python and you can?t find the time? Think again: Apple?s Create ML gets you started in the comfort of Xcode and Swift! No math needed :]. Create ML is brilliant for getting you started with ML. It makes it easy to try different datasets ? getting your data right is actually the hardest and most time consuming part of ML. Once you get started with ML, you won?t want to wait \/ hope for Apple to add more models to Create ML.\n\nTo help you explore the ML universe that?s written in Python, I?ll reduce the fright factor by comparing Create ML Swift with Turi Create Python, and showing you how to quick-start your exploration of Turi Create. And I?ll point you to Keras and scikit-learn, in case you want to roll your own models.",
+        "details": "You want to add ML to your apps but you think you need to study a lot of math and write Python and you can?t find the time? Think again: Apple?s Create ML gets you started in the comfort of Xcode and Swift! No math needed :]. Create ML is brilliant for getting you started with ML. It makes it easy to try different datasets ? getting your data right is actually the hardest and most time consuming part of ML. Once you get started with ML, you won?t want to wait / hope for Apple to add more models to Create ML.nnTo help you explore the ML universe that?s written in Python, I?ll reduce the fright factor by comparing Create ML Swift with Turi Create Python, and showing you how to quick-start your exploration of Turi Create. And I?ll point you to Keras and scikit-learn, in case you want to roll your own models.",
         "id": "945db578b1529741c5bb72eb5c0c09332d482711",
         "speakerId": "b51989be26f2e676573db5ce87838a0ea3c13cf4",
         "videoId": "ZDWu9DUmD9s",
@@ -1801,7 +1801,7 @@
         "tags": [
             "try! Swift NYC 2018,"
         ],
-        "url": "https:\/\/www.youtube.com\/watch?v=ZDWu9DUmD9s"
+        "url": "https://www.youtube.com/watch?v=ZDWu9DUmD9s"
     },
     {
         "conferenceId": "004dd6899fb3f559e69cd7d18ba01d823405a046",
@@ -1814,7 +1814,7 @@
         "tags": [
             "try! Swift NYC 2018,"
         ],
-        "url": "https:\/\/www.youtube.com\/watch?v=qpDiXZRADfE"
+        "url": "https://www.youtube.com/watch?v=qpDiXZRADfE"
     },
     {
         "conferenceId": "004dd6899fb3f559e69cd7d18ba01d823405a046",
@@ -1827,12 +1827,12 @@
         "tags": [
             "try! Swift NYC 2018,"
         ],
-        "url": "https:\/\/www.youtube.com\/watch?v=tBogAmEzJCk"
+        "url": "https://www.youtube.com/watch?v=tBogAmEzJCk"
     },
     {
         "conferenceId": "004dd6899fb3f559e69cd7d18ba01d823405a046",
         "source": "youtube",
-        "details": "A 16-year-old inspired me to learn to code. This lit the fuse that would take me on an amazing journey through challenges and victories while creating an app to help victims escape domestic violence and abuse.\n",
+        "details": "A 16-year-old inspired me to learn to code. This lit the fuse that would take me on an amazing journey through challenges and victories while creating an app to help victims escape domestic violence and abuse.n",
         "id": "4090e257ffdb04d88f9452a7759f65243595a74c",
         "speakerId": "97ab40b9996a3c972821e5638a1e8258ace9f8c2",
         "videoId": "_4Wof3sIKqc",
@@ -1840,7 +1840,7 @@
         "tags": [
             "try! Swift NYC 2018,"
         ],
-        "url": "https:\/\/www.youtube.com\/watch?v=_4Wof3sIKqc"
+        "url": "https://www.youtube.com/watch?v=_4Wof3sIKqc"
     },
     {
         "conferenceId": "004dd6899fb3f559e69cd7d18ba01d823405a046",
@@ -1853,7 +1853,7 @@
         "tags": [
             "try! Swift NYC 2018,"
         ],
-        "url": "https:\/\/www.youtube.com\/watch?v=U_Rq8UvGYzc"
+        "url": "https://www.youtube.com/watch?v=U_Rq8UvGYzc"
     },
     {
         "conferenceId": "f507db0f94bfea5e332417a0f2d4160b030e7a78",
@@ -1866,7 +1866,7 @@
         "tags": [
             "Teki Con 2018,"
         ],
-        "url": "https:\/\/www.youtube.com\/watch?v=54NWgXTrtUQ"
+        "url": "https://www.youtube.com/watch?v=54NWgXTrtUQ"
     },
     {
         "conferenceId": "f507db0f94bfea5e332417a0f2d4160b030e7a78",
@@ -1879,7 +1879,7 @@
         "tags": [
             "Teki Con 2018,"
         ],
-        "url": "https:\/\/www.youtube.com\/watch?v=1WECZX57eqI"
+        "url": "https://www.youtube.com/watch?v=1WECZX57eqI"
     },
     {
         "conferenceId": "f507db0f94bfea5e332417a0f2d4160b030e7a78",
@@ -1892,7 +1892,7 @@
         "tags": [
             "Teki Con 2018,"
         ],
-        "url": "https:\/\/www.youtube.com\/watch?v=VcCB2g6oNiM"
+        "url": "https://www.youtube.com/watch?v=VcCB2g6oNiM"
     },
     {
         "conferenceId": "f507db0f94bfea5e332417a0f2d4160b030e7a78",
@@ -1905,7 +1905,7 @@
         "tags": [
             "Teki Con 2018,"
         ],
-        "url": "https:\/\/www.youtube.com\/watch?v=KHzN2wfvMEI"
+        "url": "https://www.youtube.com/watch?v=KHzN2wfvMEI"
     },
     {
         "conferenceId": "f507db0f94bfea5e332417a0f2d4160b030e7a78",
@@ -1918,7 +1918,7 @@
         "tags": [
             "Teki Con 2018,"
         ],
-        "url": "https:\/\/www.youtube.com\/watch?v=BXg6VLJiwqM"
+        "url": "https://www.youtube.com/watch?v=BXg6VLJiwqM"
     },
     {
         "conferenceId": "f507db0f94bfea5e332417a0f2d4160b030e7a78",
@@ -1931,7 +1931,7 @@
         "tags": [
             "Teki Con 2018,"
         ],
-        "url": "https:\/\/www.youtube.com\/watch?v=6caO3mFBGwE"
+        "url": "https://www.youtube.com/watch?v=6caO3mFBGwE"
     },
     {
         "conferenceId": "f507db0f94bfea5e332417a0f2d4160b030e7a78",
@@ -1944,12 +1944,12 @@
         "tags": [
             "Teki Con 2018,"
         ],
-        "url": "https:\/\/www.youtube.com\/watch?v=bsPR0LqetYU"
+        "url": "https://www.youtube.com/watch?v=bsPR0LqetYU"
     },
     {
         "conferenceId": "1ed247dbaf5c41ae94f81536f8c8d3a9551b88e7",
         "source": "youtube",
-        "details": "Is your app written in Swift or are you considering rewriting your app in Swift? Are you adding more and more features to your app, and getting worried about your app size blowing up? If so, reducing your app size should be on your radar.\n\nThis talk will go over binary size analysis and optimizations we used at Uber, as well as general tips and tricks you might be able to apply to your app.",
+        "details": "Is your app written in Swift or are you considering rewriting your app in Swift? Are you adding more and more features to your app, and getting worried about your app size blowing up? If so, reducing your app size should be on your radar.nnThis talk will go over binary size analysis and optimizations we used at Uber, as well as general tips and tricks you might be able to apply to your app.",
         "id": "b0c88e7d9685280cf2e2592b0f172ab06fe0b688",
         "speakerId": "45e92e85c636ddc77dc39254462cbcd7a6eafd00",
         "videoId": "KDuhh5epXLo",
@@ -1957,7 +1957,7 @@
         "tags": [
             "Swift Language User Group 2018,"
         ],
-        "url": "https:\/\/www.youtube.com\/watch?v=KDuhh5epXLo"
+        "url": "https://www.youtube.com/watch?v=KDuhh5epXLo"
     },
     {
         "conferenceId": "1ed247dbaf5c41ae94f81536f8c8d3a9551b88e7",
@@ -1970,7 +1970,7 @@
         "tags": [
             "Swift Language User Group 2018,Debugging"
         ],
-        "url": "https:\/\/www.youtube.com\/watch?v=9Io2_W1iDLQ"
+        "url": "https://www.youtube.com/watch?v=9Io2_W1iDLQ"
     },
     {
         "conferenceId": "1ed247dbaf5c41ae94f81536f8c8d3a9551b88e7",
@@ -1983,7 +1983,7 @@
         "tags": [
             "Swift Language User Group 2018,"
         ],
-        "url": "https:\/\/www.youtube.com\/watch?v=jki130apVhI"
+        "url": "https://www.youtube.com/watch?v=jki130apVhI"
     },
     {
         "conferenceId": "1ed247dbaf5c41ae94f81536f8c8d3a9551b88e7",
@@ -1996,7 +1996,7 @@
         "tags": [
             "Swift Language User Group 2018,"
         ],
-        "url": "https:\/\/www.youtube.com\/watch?v=MKIk8rH1OUQ"
+        "url": "https://www.youtube.com/watch?v=MKIk8rH1OUQ"
     },
     {
         "conferenceId": "1ed247dbaf5c41ae94f81536f8c8d3a9551b88e7",
@@ -2009,7 +2009,7 @@
         "tags": [
             "Swift Language User Group 2018,"
         ],
-        "url": "https:\/\/www.youtube.com\/watch?v=PZA9DS4LBAQ"
+        "url": "https://www.youtube.com/watch?v=PZA9DS4LBAQ"
     },
     {
         "conferenceId": "1ed247dbaf5c41ae94f81536f8c8d3a9551b88e7",
@@ -2022,12 +2022,12 @@
         "tags": [
             "Swift Language User Group 2018,"
         ],
-        "url": "https:\/\/www.youtube.com\/watch?v=Go3_72i8bjI"
+        "url": "https://www.youtube.com/watch?v=Go3_72i8bjI"
     },
     {
         "conferenceId": "1ed247dbaf5c41ae94f81536f8c8d3a9551b88e7",
         "source": "youtube",
-        "details": "Writing dependable code at scale means writing tests, and writing tests means using Dependency Injection. The concept of DI is absurdly simple -- yet DI frameworks often end up being quite complex. At Lyft, we developed a minimalist, opinionated DI solution for our Swift codebase. It provides compile-time safety, decentralized configuration, and a clean syntax. And by having preferences about state and \"magic\", it remains absurdly simple.",
+        "details": "Writing dependable code at scale means writing tests, and writing tests means using Dependency Injection. The concept of DI is absurdly simple -- yet DI frameworks often end up being quite complex. At Lyft, we developed a minimalist, opinionated DI solution for our Swift codebase. It provides compile-time safety, decentralized configuration, and a clean syntax. And by having preferences about state and "magic", it remains absurdly simple.",
         "id": "54d89895c846ede32d37726c8aaeab228646c4e8",
         "speakerId": "6406d4a646e30dc85d1f732b04fb8a9d223cd896",
         "videoId": "dA9rGQRwHGs",
@@ -2035,7 +2035,7 @@
         "tags": [
             "Swift Language User Group 2018,Dependency Injection"
         ],
-        "url": "https:\/\/www.youtube.com\/watch?v=dA9rGQRwHGs"
+        "url": "https://www.youtube.com/watch?v=dA9rGQRwHGs"
     },
     {
         "conferenceId": "1ed247dbaf5c41ae94f81536f8c8d3a9551b88e7",
@@ -2048,7 +2048,7 @@
         "tags": [
             "Swift Language User Group 2018,"
         ],
-        "url": "https:\/\/www.youtube.com\/watch?v=h3CMMbgozG0"
+        "url": "https://www.youtube.com/watch?v=h3CMMbgozG0"
     },
     {
         "conferenceId": "1ed247dbaf5c41ae94f81536f8c8d3a9551b88e7",
@@ -2061,12 +2061,12 @@
         "tags": [
             "Swift Language User Group 2018,"
         ],
-        "url": "https:\/\/www.youtube.com\/watch?v=xB36hr7FQis"
+        "url": "https://www.youtube.com/watch?v=xB36hr7FQis"
     },
     {
         "conferenceId": "9f90019a12ccbde5ad37e1ea0b5896ba2d656791",
         "source": "youtube",
-        "details": "RxSwift has been one of the most prominent and upcoming frameworks in the iOS & Swift community in the past years. Its usage is becoming widespread and popular with many companies moving their code base to the Reactive world across iOS, Android, Web and Backend - making it a valuable skill to comprehend.\nAlong with that fact thought, it seems the learning curve for RxSwift and Rx in general always seems \"hard\" to most people, or too hard to get started with. In this lecture I hope to debunk the myth and misconception of RxSwift being a hard concept, and put developers on the right path to start building Reactive Mobile applications for the modern world.",
+        "details": "RxSwift has been one of the most prominent and upcoming frameworks in the iOS & Swift community in the past years. Its usage is becoming widespread and popular with many companies moving their code base to the Reactive world across iOS, Android, Web and Backend - making it a valuable skill to comprehend.nAlong with that fact thought, it seems the learning curve for RxSwift and Rx in general always seems "hard" to most people, or too hard to get started with. In this lecture I hope to debunk the myth and misconception of RxSwift being a hard concept, and put developers on the right path to start building Reactive Mobile applications for the modern world.",
         "id": "cadcdf0b75d0266b7f3bc893bc6223b335567e86",
         "speakerId": "07c840cd0e2bd502e1d76b304d9b6ae860b41220",
         "videoId": "GdvLP0ZAhhc",
@@ -2074,7 +2074,7 @@
         "tags": [
             "SwiftConf 2018,RxSwift,"
         ],
-        "url": "https:\/\/www.youtube.com\/watch?v=GdvLP0ZAhhc"
+        "url": "https://www.youtube.com/watch?v=GdvLP0ZAhhc"
     },
     {
         "conferenceId": "9f90019a12ccbde5ad37e1ea0b5896ba2d656791",
@@ -2087,12 +2087,12 @@
         "tags": [
             "SwiftConf 2018,ARKit,"
         ],
-        "url": "https:\/\/www.youtube.com\/watch?v=Y5Ki-MKVP_0"
+        "url": "https://www.youtube.com/watch?v=Y5Ki-MKVP_0"
     },
     {
         "conferenceId": "9f90019a12ccbde5ad37e1ea0b5896ba2d656791",
         "source": "youtube",
-        "details": "Wouldn't it be great to \"just\" have an own machine learning model to detect if cats are smiling or just looking evil? Or detect the own handwriting in a split of a second - completely offline? It's easy, but not simple - so let's dive into it! This talk shows how to get started with ML by training your own model which then can be used with CoreML.",
+        "details": "Wouldn't it be great to "just" have an own machine learning model to detect if cats are smiling or just looking evil? Or detect the own handwriting in a split of a second - completely offline? It's easy, but not simple - so let's dive into it! This talk shows how to get started with ML by training your own model which then can be used with CoreML.",
         "id": "996b98d19ed91a7e56a980d1198cb3bfb707784e",
         "speakerId": "b245b9edcc3f56759f2a9ada80edad6f65bb700c",
         "videoId": "nIUXzpp78k8",
@@ -2100,12 +2100,12 @@
         "tags": [
             "SwiftConf 2018,CoreML,"
         ],
-        "url": "https:\/\/www.youtube.com\/watch?v=nIUXzpp78k8"
+        "url": "https://www.youtube.com/watch?v=nIUXzpp78k8"
     },
     {
         "conferenceId": "9f90019a12ccbde5ad37e1ea0b5896ba2d656791",
         "source": "youtube",
-        "details": "The talk is about unit testing and developing iOS apps in TDD with Swift. It will cover a plethora of tips and techniques that me and the team has discovered en route to the app with 200K lines of Swift at nearly 100% code coverage.\nThe talk will highlight the techniques of structuring the code so that it is easily testable. It will demonstrate how to overcome common pain points, such as testing view controllers or the test-first approach for views built entirely in code. It will also show how to refactor the test code for better readability, for example using Sourcery code generation tool.\nIt doesn't matter whether you have never written a single test case or are a veteran looking to push the testing to the limit. If you are like me and want the days of debugging through piles of unmaintainable code to be over, this talk is definitely for you!",
+        "details": "The talk is about unit testing and developing iOS apps in TDD with Swift. It will cover a plethora of tips and techniques that me and the team has discovered en route to the app with 200K lines of Swift at nearly 100% code coverage.nThe talk will highlight the techniques of structuring the code so that it is easily testable. It will demonstrate how to overcome common pain points, such as testing view controllers or the test-first approach for views built entirely in code. It will also show how to refactor the test code for better readability, for example using Sourcery code generation tool.nIt doesn't matter whether you have never written a single test case or are a veteran looking to push the testing to the limit. If you are like me and want the days of debugging through piles of unmaintainable code to be over, this talk is definitely for you!",
         "id": "83ef181e1c0fdea30b6b76aaaac8f6a322102b5f",
         "speakerId": "c8fc971d7b562566b96328e9858acdc9184a478b",
         "videoId": "aPnT-n-igEI",
@@ -2113,12 +2113,12 @@
         "tags": [
             "SwiftConf 2018,Code Coverage,"
         ],
-        "url": "https:\/\/www.youtube.com\/watch?v=aPnT-n-igEI"
+        "url": "https://www.youtube.com/watch?v=aPnT-n-igEI"
     },
     {
         "conferenceId": "9f90019a12ccbde5ad37e1ea0b5896ba2d656791",
         "source": "youtube",
-        "details": "Function as a service (FaaS) a.k.a. the mysterious ?Serverless? is the latest frontier for cloud platforms like AWS, Azure, IBM Cloud. It promises to run your backend Swift code without having to worry about infrastructure or server maintenance. But what about your existing Kitura\/Vapor applications? In this talk we?ll explore running Swift in the cloud without having to provision servers or containers. How Serverless can allow us to focus on doing what we love - writing Swift code - and sleep better at night without worrying about server uptime.",
+        "details": "Function as a service (FaaS) a.k.a. the mysterious ?Serverless? is the latest frontier for cloud platforms like AWS, Azure, IBM Cloud. It promises to run your backend Swift code without having to worry about infrastructure or server maintenance. But what about your existing Kitura/Vapor applications? In this talk we?ll explore running Swift in the cloud without having to provision servers or containers. How Serverless can allow us to focus on doing what we love - writing Swift code - and sleep better at night without worrying about server uptime.",
         "id": "201df50d90c98b7affd86713d5ce7913bd9d176c",
         "speakerId": "1e63636feb4c354b5c7a1b8c136f485a851b2a2a",
         "videoId": "OSweJ0ybnUI",
@@ -2126,7 +2126,7 @@
         "tags": [
             "SwiftConf 2018,Server,"
         ],
-        "url": "https:\/\/www.youtube.com\/watch?v=OSweJ0ybnUI"
+        "url": "https://www.youtube.com/watch?v=OSweJ0ybnUI"
     },
     {
         "conferenceId": "9f90019a12ccbde5ad37e1ea0b5896ba2d656791",
@@ -2139,12 +2139,12 @@
         "tags": [
             "SwiftConf 2018,Swift,"
         ],
-        "url": "https:\/\/www.youtube.com\/watch?v=GzP2oaZRi7Q"
+        "url": "https://www.youtube.com/watch?v=GzP2oaZRi7Q"
     },
     {
         "conferenceId": "9f90019a12ccbde5ad37e1ea0b5896ba2d656791",
         "source": "youtube",
-        "details": "The importance of privacy ? a look at the karma-oriented APIs\n\nA lot of time Privacy of my data as a user is not a priority for Developers. \n\nWether it?s my calendar, my contacts, my location, I want as a user to be able to use an app without all of those attacks in my privacy.\n\nI want to sumarize some things an iOS developer should do to ensure the most critical user can still use my app in some regards, and not just say ?I need all your information? like on other platforms. \n\nThis is the beauty of iOS, being able to fine grained (although not enough) so let?s do this all together, as a beautiful community concerned by Privacy.",
+        "details": "The importance of privacy ? a look at the karma-oriented APIsnnA lot of time Privacy of my data as a user is not a priority for Developers. nnWether it?s my calendar, my contacts, my location, I want as a user to be able to use an app without all of those attacks in my privacy.nnI want to sumarize some things an iOS developer should do to ensure the most critical user can still use my app in some regards, and not just say ?I need all your information? like on other platforms. nnThis is the beauty of iOS, being able to fine grained (although not enough) so let?s do this all together, as a beautiful community concerned by Privacy.",
         "id": "fb2248838ba6a50e7fd03f5c1898d3dc9b4eaf35",
         "speakerId": "01af3ccdb44fc87166a5821eb3a5beca1740046c",
         "videoId": "MM3elvG9edY",
@@ -2152,7 +2152,7 @@
         "tags": [
             "SwiftConf 2018,Privacy,"
         ],
-        "url": "https:\/\/www.youtube.com\/watch?v=MM3elvG9edY"
+        "url": "https://www.youtube.com/watch?v=MM3elvG9edY"
     },
     {
         "conferenceId": "9f90019a12ccbde5ad37e1ea0b5896ba2d656791",
@@ -2165,7 +2165,7 @@
         "tags": [
             "SwiftConf 2018,Swift,"
         ],
-        "url": "https:\/\/www.youtube.com\/watch?v=vesAhaiaujA"
+        "url": "https://www.youtube.com/watch?v=vesAhaiaujA"
     },
     {
         "conferenceId": "2c6b06bdb9fe0512e00a5e2254303ab11827a7f5",
@@ -2178,7 +2178,7 @@
         "tags": [
             "iOS Conf SG 2019,"
         ],
-        "url": "https:\/\/www.youtube.com\/watch?v=fP5EGObW-NY"
+        "url": "https://www.youtube.com/watch?v=fP5EGObW-NY"
     },
     {
         "conferenceId": "2c6b06bdb9fe0512e00a5e2254303ab11827a7f5",
@@ -2191,7 +2191,7 @@
         "tags": [
             "iOS Conf SG 2019,Swift"
         ],
-        "url": "https:\/\/www.youtube.com\/watch?v=_F9KcXSLc_s"
+        "url": "https://www.youtube.com/watch?v=_F9KcXSLc_s"
     },
     {
         "conferenceId": "2c6b06bdb9fe0512e00a5e2254303ab11827a7f5",
@@ -2204,7 +2204,7 @@
         "tags": [
             "iOS Conf SG 2019,"
         ],
-        "url": "https:\/\/www.youtube.com\/watch?v=X9wyuht5BLs"
+        "url": "https://www.youtube.com/watch?v=X9wyuht5BLs"
     },
     {
         "conferenceId": "2c6b06bdb9fe0512e00a5e2254303ab11827a7f5",
@@ -2217,7 +2217,7 @@
         "tags": [
             "iOS Conf SG 2019,SDK"
         ],
-        "url": "https:\/\/www.youtube.com\/watch?v=_g1mqG5tA0s"
+        "url": "https://www.youtube.com/watch?v=_g1mqG5tA0s"
     },
     {
         "conferenceId": "2c6b06bdb9fe0512e00a5e2254303ab11827a7f5",
@@ -2230,7 +2230,7 @@
         "tags": [
             "iOS Conf SG 2019,"
         ],
-        "url": "https:\/\/www.youtube.com\/watch?v=_qKlb7MbeKA"
+        "url": "https://www.youtube.com/watch?v=_qKlb7MbeKA"
     },
     {
         "conferenceId": "2c6b06bdb9fe0512e00a5e2254303ab11827a7f5",
@@ -2243,7 +2243,7 @@
         "tags": [
             "iOS Conf SG 2019,Auto Layout"
         ],
-        "url": "https:\/\/www.youtube.com\/watch?v=gxfyb3ipUFg"
+        "url": "https://www.youtube.com/watch?v=gxfyb3ipUFg"
     },
     {
         "conferenceId": "2c6b06bdb9fe0512e00a5e2254303ab11827a7f5",
@@ -2256,7 +2256,7 @@
         "tags": [
             "iOS Conf SG 2019,Xcode"
         ],
-        "url": "https:\/\/www.youtube.com\/watch?v=JRsWi8KC2Sw"
+        "url": "https://www.youtube.com/watch?v=JRsWi8KC2Sw"
     },
     {
         "conferenceId": "2c6b06bdb9fe0512e00a5e2254303ab11827a7f5",
@@ -2269,7 +2269,7 @@
         "tags": [
             "iOS Conf SG 2019,UITest"
         ],
-        "url": "https:\/\/www.youtube.com\/watch?v=9JMVszZfFwk"
+        "url": "https://www.youtube.com/watch?v=9JMVszZfFwk"
     },
     {
         "conferenceId": "2c6b06bdb9fe0512e00a5e2254303ab11827a7f5",
@@ -2282,7 +2282,7 @@
         "tags": [
             "iOS Conf SG 2019,Snowflake"
         ],
-        "url": "https:\/\/www.youtube.com\/watch?v=RajJJnpTcf0"
+        "url": "https://www.youtube.com/watch?v=RajJJnpTcf0"
     },
     {
         "conferenceId": "2c6b06bdb9fe0512e00a5e2254303ab11827a7f5",
@@ -2295,7 +2295,7 @@
         "tags": [
             "iOS Conf SG 2019,ARKit"
         ],
-        "url": "https:\/\/www.youtube.com\/watch?v=Q91z42kTJFM"
+        "url": "https://www.youtube.com/watch?v=Q91z42kTJFM"
     },
     {
         "conferenceId": "2c6b06bdb9fe0512e00a5e2254303ab11827a7f5",
@@ -2308,7 +2308,7 @@
         "tags": [
             "iOS Conf SG 2019,Data Types"
         ],
-        "url": "https:\/\/www.youtube.com\/watch?v=2d6_vOfwnDk"
+        "url": "https://www.youtube.com/watch?v=2d6_vOfwnDk"
     },
     {
         "conferenceId": "aa0bc271a15d0c8bcb999b7443e768a02367fe50",
@@ -2321,7 +2321,7 @@
         "tags": [
             "NSLondon 2018,"
         ],
-        "url": "https:\/\/vimeo.com\/307415518"
+        "url": "https://vimeo.com/307415518"
     },
     {
         "conferenceId": "aa0bc271a15d0c8bcb999b7443e768a02367fe50",
@@ -2334,7 +2334,7 @@
         "tags": [
             "NSLondon 2018,"
         ],
-        "url": "https:\/\/vimeo.com\/307416711"
+        "url": "https://vimeo.com/307416711"
     },
     {
         "conferenceId": "5e36202840c6cb460a41e8410c341d71186f007d",
@@ -2347,7 +2347,7 @@
         "tags": [
             "Server-Side Swift 2018,Vapor,"
         ],
-        "url": "https:\/\/www.youtube.com\/watch?v=_615REC32Ts"
+        "url": "https://www.youtube.com/watch?v=_615REC32Ts"
     },
     {
         "conferenceId": "5e36202840c6cb460a41e8410c341d71186f007d",
@@ -2360,7 +2360,7 @@
         "tags": [
             "Server-Side Swift 2018,"
         ],
-        "url": "https:\/\/www.youtube.com\/watch?v=yL5Ff5p1hyc"
+        "url": "https://www.youtube.com/watch?v=yL5Ff5p1hyc"
     },
     {
         "conferenceId": "5e36202840c6cb460a41e8410c341d71186f007d",
@@ -2373,7 +2373,7 @@
         "tags": [
             "Server-Side Swift 2018,"
         ],
-        "url": "https:\/\/www.youtube.com\/watch?v=il7W28Ekor4"
+        "url": "https://www.youtube.com/watch?v=il7W28Ekor4"
     },
     {
         "conferenceId": "5e36202840c6cb460a41e8410c341d71186f007d",
@@ -2386,7 +2386,7 @@
         "tags": [
             "Server-Side Swift 2018,"
         ],
-        "url": "https:\/\/www.youtube.com\/watch?v=ti4UhT7EPAA"
+        "url": "https://www.youtube.com/watch?v=ti4UhT7EPAA"
     },
     {
         "conferenceId": "5e36202840c6cb460a41e8410c341d71186f007d",
@@ -2399,7 +2399,7 @@
         "tags": [
             "Server-Side Swift 2018,"
         ],
-        "url": "https:\/\/www.youtube.com\/watch?v=GuhMpvNle64"
+        "url": "https://www.youtube.com/watch?v=GuhMpvNle64"
     },
     {
         "conferenceId": "5e36202840c6cb460a41e8410c341d71186f007d",
@@ -2412,7 +2412,7 @@
         "tags": [
             "Server-Side Swift 2018,"
         ],
-        "url": "https:\/\/www.youtube.com\/watch?v=vyW-a3N0odk\/hqdefault.jpg"
+        "url": "https://www.youtube.com/watch?v=vyW-a3N0odk/hqdefault.jpg"
     },
     {
         "conferenceId": "5e36202840c6cb460a41e8410c341d71186f007d",
@@ -2425,7 +2425,7 @@
         "tags": [
             "Server-Side Swift 2018,"
         ],
-        "url": "https:\/\/www.youtube.com\/watch?v=Bp8ekbxRRO8"
+        "url": "https://www.youtube.com/watch?v=Bp8ekbxRRO8"
     },
     {
         "conferenceId": "5e36202840c6cb460a41e8410c341d71186f007d",
@@ -2438,7 +2438,7 @@
         "tags": [
             "Server-Side Swift 2018,"
         ],
-        "url": "https:\/\/www.youtube.com\/watch?v=Z6vVWGZ6sTs"
+        "url": "https://www.youtube.com/watch?v=Z6vVWGZ6sTs"
     },
     {
         "conferenceId": "a09899aa24978b33875e1ce7a160593645d329b9",
@@ -2451,12 +2451,12 @@
         "tags": [
             "App Dev Con 2018,"
         ],
-        "url": "https:\/\/vimeo.com\/270512761"
+        "url": "https://vimeo.com/270512761"
     },
     {
         "conferenceId": "a09899aa24978b33875e1ce7a160593645d329b9",
         "source": "vimeo",
-        "details": "You?ve built and launched an app with a handful of engineers. It?s a success! So the app grows. And the team grows. Bugs seem to be more frequent. It?s starting to get harder to modify the code. What is happening? And how do we fix it?\n\nAt Uber, we?ve been through this journey, growing from one mobile developer to hundreds. In this talk we?ll share the history of how the app grew and came to a breaking point, how and why we decided to start anew, why we chose to create a new mobile architecture on the way and how it?s worked out for us. We will share our approach to making app development scale to very large apps and teams and what smaller teams can also take from this.",
+        "details": "You?ve built and launched an app with a handful of engineers. It?s a success! So the app grows. And the team grows. Bugs seem to be more frequent. It?s starting to get harder to modify the code. What is happening? And how do we fix it?nnAt Uber, we?ve been through this journey, growing from one mobile developer to hundreds. In this talk we?ll share the history of how the app grew and came to a breaking point, how and why we decided to start anew, why we chose to create a new mobile architecture on the way and how it?s worked out for us. We will share our approach to making app development scale to very large apps and teams and what smaller teams can also take from this.",
         "id": "2f11afba23249b152e2c6763f3de1044c7d205b4",
         "speakerId": "7885bd4ed3d21631f52ebaf522b6010cc2f4beff",
         "videoId": "267250296",
@@ -2464,7 +2464,7 @@
         "tags": [
             "App Dev Con 2018,"
         ],
-        "url": "https:\/\/vimeo.com\/267250296"
+        "url": "https://vimeo.com/267250296"
     },
     {
         "conferenceId": "a09899aa24978b33875e1ce7a160593645d329b9",
@@ -2477,12 +2477,12 @@
         "tags": [
             "App Dev Con 2018,"
         ],
-        "url": "https:\/\/vimeo.com\/275423731"
+        "url": "https://vimeo.com/275423731"
     },
     {
         "conferenceId": "a09899aa24978b33875e1ce7a160593645d329b9",
         "source": "vimeo",
-        "details": "It is the moment you have been working so hard for. You press the ?Submit? button. Your app is now on its way to the App Store. In just a few days, your app is going to be available globally. But? is it really?\n\nAny developer of an app with an aim of reaching a global audience needs to localise the app (most of us do that), but also to make it accessible! It is a team effort and everyone, from Developers to UX Designers or Product Managers, need to be involved, and therefore, to know its basics. In this talk we will try to provide a few techniques for improving those two areas of your apps from the points of view of the code, the use of tools we have available and the users? expected experience.\n\nA series of examples will be presented, showing how some of your users may perceive your app when localisation and accessibility are not correctly implemented or not implemented at all.\n\nYou would freak out if the ?Back? button was on the right side of the navigation bar, but that is what users that speak right-to-left written languages expect. If a modal view was presented without a ?Close\/Done? button, you would consider it a bug, but it may exactly be what you are giving to blind users.\n\nSmartphones, apps and the whole Apple ecosystem has helped us develop much more inclusive apps that anyone can use. But we can do better by building apps for everyone.",
+        "details": "It is the moment you have been working so hard for. You press the ?Submit? button. Your app is now on its way to the App Store. In just a few days, your app is going to be available globally. But? is it really?nnAny developer of an app with an aim of reaching a global audience needs to localise the app (most of us do that), but also to make it accessible! It is a team effort and everyone, from Developers to UX Designers or Product Managers, need to be involved, and therefore, to know its basics. In this talk we will try to provide a few techniques for improving those two areas of your apps from the points of view of the code, the use of tools we have available and the users? expected experience.nnA series of examples will be presented, showing how some of your users may perceive your app when localisation and accessibility are not correctly implemented or not implemented at all.nnYou would freak out if the ?Back? button was on the right side of the navigation bar, but that is what users that speak right-to-left written languages expect. If a modal view was presented without a ?Close/Done? button, you would consider it a bug, but it may exactly be what you are giving to blind users.nnSmartphones, apps and the whole Apple ecosystem has helped us develop much more inclusive apps that anyone can use. But we can do better by building apps for everyone.",
         "id": "c2df0c7c3919cb18e0a8d742c76bf0f3a0f088f0",
         "speakerId": "269030397f20b15f9e8d8f0599374cae3625255a",
         "videoId": "269275052",
@@ -2490,7 +2490,7 @@
         "tags": [
             "App Dev Con 2018,"
         ],
-        "url": "https:\/\/vimeo.com\/269275052"
+        "url": "https://vimeo.com/269275052"
     },
     {
         "conferenceId": "a09899aa24978b33875e1ce7a160593645d329b9",
@@ -2503,12 +2503,12 @@
         "tags": [
             "App Dev Con 2018,"
         ],
-        "url": "https:\/\/vimeo.com\/270512785"
+        "url": "https://vimeo.com/270512785"
     },
     {
         "conferenceId": "a09899aa24978b33875e1ce7a160593645d329b9",
         "source": "vimeo",
-        "details": "Swift introduced Optionals on day one, but some of us are still getting used to them. Used appropriately they can be very useful ? but they can also be abused!\nSwift 1 didn?t have a cohesive error handling strategy. Exception-like features were introduced with Swift 2, but remain widely misunderstood.\nShould you use Optionals for errors, or do-catch, or something else? Or not bother at all and rely on Bad Things never happening?\nHow can we make sense of all this when, really, we just want to focus our efforts on getting everything to *work*, not worry about optimising for failures?\nThis talk digs into what Swift really has to offer and shows it can all be much simpler than we?re making out ? and even fun!\nWhether you?re just starting out with Swift, or you?re a seasoned veteran, there will be something for everyone in this talk.\n",
+        "details": "Swift introduced Optionals on day one, but some of us are still getting used to them. Used appropriately they can be very useful ? but they can also be abused!nSwift 1 didn?t have a cohesive error handling strategy. Exception-like features were introduced with Swift 2, but remain widely misunderstood.nShould you use Optionals for errors, or do-catch, or something else? Or not bother at all and rely on Bad Things never happening?nHow can we make sense of all this when, really, we just want to focus our efforts on getting everything to *work*, not worry about optimising for failures?nThis talk digs into what Swift really has to offer and shows it can all be much simpler than we?re making out ? and even fun!nWhether you?re just starting out with Swift, or you?re a seasoned veteran, there will be something for everyone in this talk.n",
         "id": "bb35a0de822df7c1d9e642343fe06ad314065a7d",
         "speakerId": "b848352bb7d1c0213e1ac7bb136150201e425c38",
         "videoId": "269274995",
@@ -2516,7 +2516,7 @@
         "tags": [
             "App Dev Con 2018,"
         ],
-        "url": "https:\/\/vimeo.com\/269274995"
+        "url": "https://vimeo.com/269274995"
     },
     {
         "conferenceId": "6bea150f70c48de015ba31e4063f0b0e5658d711",
@@ -2529,7 +2529,7 @@
         "tags": [
             "Swift London 2017,"
         ],
-        "url": "https:\/\/www.youtube.com\/watch?v=d7nmt4GcC2k"
+        "url": "https://www.youtube.com/watch?v=d7nmt4GcC2k"
     },
     {
         "conferenceId": "6bea150f70c48de015ba31e4063f0b0e5658d711",
@@ -2542,7 +2542,7 @@
         "tags": [
             "Swift London 2017"
         ],
-        "url": "https:\/\/www.youtube.com\/watch?v=FgbTenGH-P0"
+        "url": "https://www.youtube.com/watch?v=FgbTenGH-P0"
     },
     {
         "conferenceId": "6bea150f70c48de015ba31e4063f0b0e5658d711",
@@ -2555,7 +2555,7 @@
         "tags": [
             "Swift London 2017,"
         ],
-        "url": "https:\/\/www.youtube.com\/watch?v=FM6Lv3d5fWo"
+        "url": "https://www.youtube.com/watch?v=FM6Lv3d5fWo"
     },
     {
         "conferenceId": "6bea150f70c48de015ba31e4063f0b0e5658d711",
@@ -2568,7 +2568,7 @@
         "tags": [
             "Swift London 2017,"
         ],
-        "url": "https:\/\/www.youtube.com\/watch?v=Eyx_qJ1ZAA8"
+        "url": "https://www.youtube.com/watch?v=Eyx_qJ1ZAA8"
     },
     {
         "conferenceId": "6bea150f70c48de015ba31e4063f0b0e5658d711",
@@ -2581,7 +2581,7 @@
         "tags": [
             "Swift London 2017,"
         ],
-        "url": "https:\/\/www.youtube.com\/watch?v=yFHX76NZPp4"
+        "url": "https://www.youtube.com/watch?v=yFHX76NZPp4"
     },
     {
         "conferenceId": "6bea150f70c48de015ba31e4063f0b0e5658d711",
@@ -2594,7 +2594,7 @@
         "tags": [
             "Swift London 2017,"
         ],
-        "url": "https:\/\/www.youtube.com\/watch?v=phYSrobg140"
+        "url": "https://www.youtube.com/watch?v=phYSrobg140"
     },
     {
         "conferenceId": "6bea150f70c48de015ba31e4063f0b0e5658d711",
@@ -2607,7 +2607,7 @@
         "tags": [
             "Swift London 2017,"
         ],
-        "url": "https:\/\/www.youtube.com\/watch?v=aOulr-A-O0M"
+        "url": "https://www.youtube.com/watch?v=aOulr-A-O0M"
     },
     {
         "conferenceId": "6bea150f70c48de015ba31e4063f0b0e5658d711",
@@ -2620,7 +2620,7 @@
         "tags": [
             "Swift London 2017,"
         ],
-        "url": "https:\/\/www.youtube.com\/watch?v=OvAeClGPhNI"
+        "url": "https://www.youtube.com/watch?v=OvAeClGPhNI"
     },
     {
         "conferenceId": "6bea150f70c48de015ba31e4063f0b0e5658d711",
@@ -2633,7 +2633,7 @@
         "tags": [
             "Swift London 2017,"
         ],
-        "url": "https:\/\/www.youtube.com\/watch?v=1ugxdQX3H-4"
+        "url": "https://www.youtube.com/watch?v=1ugxdQX3H-4"
     },
     {
         "conferenceId": "6bea150f70c48de015ba31e4063f0b0e5658d711",
@@ -2646,7 +2646,7 @@
         "tags": [
             "Swift London 2017,"
         ],
-        "url": "https:\/\/www.youtube.com\/watch?v=XYVB0qptKHo"
+        "url": "https://www.youtube.com/watch?v=XYVB0qptKHo"
     },
     {
         "conferenceId": "6bea150f70c48de015ba31e4063f0b0e5658d711",
@@ -2659,7 +2659,7 @@
         "tags": [
             "Swift London 2017,"
         ],
-        "url": "https:\/\/www.youtube.com\/watch?v=DB43I9xTbFg"
+        "url": "https://www.youtube.com/watch?v=DB43I9xTbFg"
     },
     {
         "conferenceId": "6bea150f70c48de015ba31e4063f0b0e5658d711",
@@ -2672,7 +2672,7 @@
         "tags": [
             "Swift London 2017,"
         ],
-        "url": "https:\/\/www.youtube.com\/watch?v=uR6ox-9VPAA"
+        "url": "https://www.youtube.com/watch?v=uR6ox-9VPAA"
     },
     {
         "conferenceId": "6bea150f70c48de015ba31e4063f0b0e5658d711",
@@ -2685,7 +2685,7 @@
         "tags": [
             "Swift London 2017,"
         ],
-        "url": "https:\/\/www.youtube.com\/watch?v=oCk2CvkPAQY"
+        "url": "https://www.youtube.com/watch?v=oCk2CvkPAQY"
     },
     {
         "conferenceId": "55773391b70ac98ca1d626b78ed1b54db70c1296",
@@ -2698,7 +2698,7 @@
         "tags": [
             "dotSwift 2019,UITableView"
         ],
-        "url": "https:\/\/www.youtube.com\/watch?v=dluKlOPPllY"
+        "url": "https://www.youtube.com/watch?v=dluKlOPPllY"
     },
     {
         "conferenceId": "55773391b70ac98ca1d626b78ed1b54db70c1296",
@@ -2711,7 +2711,7 @@
         "tags": [
             "dotSwift 2019, "
         ],
-        "url": "https:\/\/www.youtube.com\/watch?v=MPkMf7Pbp5c"
+        "url": "https://www.youtube.com/watch?v=MPkMf7Pbp5c"
     },
     {
         "conferenceId": "55773391b70ac98ca1d626b78ed1b54db70c1296",
@@ -2724,7 +2724,7 @@
         "tags": [
             "dotSwift 2019,Database"
         ],
-        "url": "https:\/\/www.youtube.com\/watch?v=2TEWlVTPE2k"
+        "url": "https://www.youtube.com/watch?v=2TEWlVTPE2k"
     },
     {
         "conferenceId": "55773391b70ac98ca1d626b78ed1b54db70c1296",
@@ -2737,7 +2737,7 @@
         "tags": [
             "dotSwift 2019,Marzipan"
         ],
-        "url": "https:\/\/www.youtube.com\/watch?v=XSbO1igDm_Y"
+        "url": "https://www.youtube.com/watch?v=XSbO1igDm_Y"
     },
     {
         "conferenceId": "55773391b70ac98ca1d626b78ed1b54db70c1296",
@@ -2750,12 +2750,12 @@
         "tags": [
             "dotSwift 2019,SwiftNIO"
         ],
-        "url": "https:\/\/www.youtube.com\/watch?v=Rlhlc6NaO4w"
+        "url": "https://www.youtube.com/watch?v=Rlhlc6NaO4w"
     },
     {
         "conferenceId": "55773391b70ac98ca1d626b78ed1b54db70c1296",
         "source": "youtube",
-        "details": "The game around apps has shifted. You should not expect the user to come to your app anymore. We now have to provide them with our features whenever and wherever they need it.\nLucky us, we can use a lot of extensions to deeply integrate our features into iOS.\n\nAfter this talk, you will understand the global architecture of iOS Extensions, the UX challenges, and the main technical challenges.",
+        "details": "The game around apps has shifted. You should not expect the user to come to your app anymore. We now have to provide them with our features whenever and wherever they need it.nLucky us, we can use a lot of extensions to deeply integrate our features into iOS.nnAfter this talk, you will understand the global architecture of iOS Extensions, the UX challenges, and the main technical challenges.",
         "id": "2f346c8acab2ce0dd1bd41980125922ec1dfccb1",
         "speakerId": "99fd059681f393c7f584060c69a72a7c8efd6740",
         "videoId": "XFtYX4kKy-4",
@@ -2763,12 +2763,12 @@
         "tags": [
             "dotSwift 2019,Extension"
         ],
-        "url": "https:\/\/www.youtube.com\/watch?v=XFtYX4kKy-4"
+        "url": "https://www.youtube.com/watch?v=XFtYX4kKy-4"
     },
     {
         "conferenceId": "55773391b70ac98ca1d626b78ed1b54db70c1296",
         "source": "youtube",
-        "details": "Swift offers a unique choice for creating scientific applications. Swift can be used to bridge creating readable and debuggable code, using clean scientific notation, with a backend of powerful high-performance libraries. Object, protocol and functional programming paradigms freely mix, and when combined with prudent operator overloading and unicode notation, one has a powerful system. Despite Swift's youth, it is already up to the task of quality professional scientific programming.\nJeff walks through several small examples.",
+        "details": "Swift offers a unique choice for creating scientific applications. Swift can be used to bridge creating readable and debuggable code, using clean scientific notation, with a backend of powerful high-performance libraries. Object, protocol and functional programming paradigms freely mix, and when combined with prudent operator overloading and unicode notation, one has a powerful system. Despite Swift's youth, it is already up to the task of quality professional scientific programming.nJeff walks through several small examples.",
         "id": "9c98e6c29535fb323cd2d3b4e57420bfe8961823",
         "speakerId": "9e013441faaf9d2e75c6320646228834386d5209",
         "videoId": "D2N7zvs-jms",
@@ -2776,12 +2776,12 @@
         "tags": [
             "dotSwift 2019,"
         ],
-        "url": "https:\/\/www.youtube.com\/watch?v=D2N7zvs-jms"
+        "url": "https://www.youtube.com/watch?v=D2N7zvs-jms"
     },
     {
         "conferenceId": "55773391b70ac98ca1d626b78ed1b54db70c1296",
         "source": "youtube",
-        "details": "Are your apps \"Pure Swift\"? Don't be so sure. Daniel demonstrates the extent to which Swift apps on iOS and Mac are dependent on legacy Objective-C conventions. He talks through scenarios where Swift facilitates interoperation, and how you can finesse the details. Stay tuned: he ends with a debugging trick that everybody will enjoy!",
+        "details": "Are your apps "Pure Swift"? Don't be so sure. Daniel demonstrates the extent to which Swift apps on iOS and Mac are dependent on legacy Objective-C conventions. He talks through scenarios where Swift facilitates interoperation, and how you can finesse the details. Stay tuned: he ends with a debugging trick that everybody will enjoy!",
         "id": "e4070d3b2df153a47b2fa29c1760f03a373ed109",
         "speakerId": "ad35883891b56148d523a303e5cd5fb1133e8740",
         "videoId": "eSxXmnmjYZk",
@@ -2789,7 +2789,7 @@
         "tags": [
             "dotSwift 2019,Objective-C"
         ],
-        "url": "https:\/\/www.youtube.com\/watch?v=eSxXmnmjYZk"
+        "url": "https://www.youtube.com/watch?v=eSxXmnmjYZk"
     },
     {
         "conferenceId": "903da0f84bc29db27f220b35a514fb9998162331",
@@ -2801,7 +2801,7 @@
         "tags": [
             "App Builders 2017,Xamarin"
         ],
-        "url": "https:\/\/www.youtube.com\/watch?v=igLEIi_GaBw"
+        "url": "https://www.youtube.com/watch?v=igLEIi_GaBw"
     },
     {
         "conferenceId": "903da0f84bc29db27f220b35a514fb9998162331",
@@ -2813,7 +2813,7 @@
         "tags": [
             "App Builders 2017,Architecture"
         ],
-        "url": "https:\/\/www.youtube.com\/watch?v=1e0aBCmdRAE"
+        "url": "https://www.youtube.com/watch?v=1e0aBCmdRAE"
     },
     {
         "conferenceId": "903da0f84bc29db27f220b35a514fb9998162331",
@@ -2825,7 +2825,7 @@
         "tags": [
             "App Builders 2017,CI"
         ],
-        "url": "https:\/\/www.youtube.com\/watch?v=hQcOrVJUbFg"
+        "url": "https://www.youtube.com/watch?v=hQcOrVJUbFg"
     },
     {
         "conferenceId": "903da0f84bc29db27f220b35a514fb9998162331",
@@ -2837,7 +2837,7 @@
         "tags": [
             "App Builders 2017,GraphQL"
         ],
-        "url": "https:\/\/www.youtube.com\/watch?v=i_lJ8kMPQDM"
+        "url": "https://www.youtube.com/watch?v=i_lJ8kMPQDM"
     },
     {
         "conferenceId": "903da0f84bc29db27f220b35a514fb9998162331",
@@ -2849,7 +2849,7 @@
         "tags": [
             "App Builders 2017,"
         ],
-        "url": "https:\/\/www.youtube.com\/watch?v=-P3xnKLLHmw"
+        "url": "https://www.youtube.com/watch?v=-P3xnKLLHmw"
     },
     {
         "conferenceId": "903da0f84bc29db27f220b35a514fb9998162331",
@@ -2861,7 +2861,7 @@
         "tags": [
             "App Builders 2017,Server"
         ],
-        "url": "https:\/\/www.youtube.com\/watch?v=7ClTsnCkWCM"
+        "url": "https://www.youtube.com/watch?v=7ClTsnCkWCM"
     },
     {
         "conferenceId": "903da0f84bc29db27f220b35a514fb9998162331",
@@ -2873,7 +2873,7 @@
         "tags": [
             "App Builders 2017,"
         ],
-        "url": "https:\/\/www.youtube.com\/watch?v=QJdTMLBoGm0"
+        "url": "https://www.youtube.com/watch?v=QJdTMLBoGm0"
     },
     {
         "conferenceId": "903da0f84bc29db27f220b35a514fb9998162331",
@@ -2885,7 +2885,7 @@
         "tags": [
             "App Builders 2017,"
         ],
-        "url": "https:\/\/www.youtube.com\/watch?v=7fFiifnbCik"
+        "url": "https://www.youtube.com/watch?v=7fFiifnbCik"
     },
     {
         "conferenceId": "eb080f02f8ec46e9a8615d8e383b87b4732d1a38",
@@ -2898,7 +2898,7 @@
         "tags": [
             "try Swift! Tokyo 2018,"
         ],
-        "url": "https:\/\/www.youtube.com\/watch?v=Mzb_wJU29Fo"
+        "url": "https://www.youtube.com/watch?v=Mzb_wJU29Fo"
     },
     {
         "conferenceId": "eb080f02f8ec46e9a8615d8e383b87b4732d1a38",
@@ -2911,7 +2911,7 @@
         "tags": [
             "try Swift! Tokyo 2018,"
         ],
-        "url": "https:\/\/www.youtube.com\/watch?v=sT0SNp-Tw-8"
+        "url": "https://www.youtube.com/watch?v=sT0SNp-Tw-8"
     },
     {
         "conferenceId": "eb080f02f8ec46e9a8615d8e383b87b4732d1a38",
@@ -2924,7 +2924,7 @@
         "tags": [
             "try Swift! Tokyo 2018,"
         ],
-        "url": "https:\/\/www.youtube.com\/watch?v=C-aHJt6ieXI"
+        "url": "https://www.youtube.com/watch?v=C-aHJt6ieXI"
     },
     {
         "conferenceId": "eb080f02f8ec46e9a8615d8e383b87b4732d1a38",
@@ -2937,7 +2937,7 @@
         "tags": [
             "try Swift! Tokyo 2018,"
         ],
-        "url": "https:\/\/www.youtube.com\/watch?v=LKKnmr3GKFM"
+        "url": "https://www.youtube.com/watch?v=LKKnmr3GKFM"
     },
     {
         "conferenceId": "eb080f02f8ec46e9a8615d8e383b87b4732d1a38",
@@ -2950,7 +2950,7 @@
         "tags": [
             "try Swift! Tokyo 2018,"
         ],
-        "url": "https:\/\/www.youtube.com\/watch?v=1f7sFJvJYqk"
+        "url": "https://www.youtube.com/watch?v=1f7sFJvJYqk"
     },
     {
         "conferenceId": "eb080f02f8ec46e9a8615d8e383b87b4732d1a38",
@@ -2963,7 +2963,7 @@
         "tags": [
             "try Swift! Tokyo 2018,"
         ],
-        "url": "https:\/\/www.youtube.com\/watch?v=QJ3WG9kRLMo"
+        "url": "https://www.youtube.com/watch?v=QJ3WG9kRLMo"
     },
     {
         "conferenceId": "eb080f02f8ec46e9a8615d8e383b87b4732d1a38",
@@ -2976,7 +2976,7 @@
         "tags": [
             "try Swift! Tokyo 2018,"
         ],
-        "url": "https:\/\/www.youtube.com\/watch?v=xnGOLSI45Mw"
+        "url": "https://www.youtube.com/watch?v=xnGOLSI45Mw"
     },
     {
         "conferenceId": "eb080f02f8ec46e9a8615d8e383b87b4732d1a38",
@@ -2989,7 +2989,7 @@
         "tags": [
             "try Swift! Tokyo 2018,"
         ],
-        "url": "https:\/\/www.youtube.com\/watch?v=Tef9pK84Tgg"
+        "url": "https://www.youtube.com/watch?v=Tef9pK84Tgg"
     },
     {
         "conferenceId": "eb080f02f8ec46e9a8615d8e383b87b4732d1a38",
@@ -3002,7 +3002,7 @@
         "tags": [
             "try Swift! Tokyo 2018,UI Testing"
         ],
-        "url": "https:\/\/www.youtube.com\/watch?v=Ie_MF8B5f6E"
+        "url": "https://www.youtube.com/watch?v=Ie_MF8B5f6E"
     },
     {
         "conferenceId": "eb080f02f8ec46e9a8615d8e383b87b4732d1a38",
@@ -3015,7 +3015,7 @@
         "tags": [
             "try Swift! Tokyo 2018,"
         ],
-        "url": "https:\/\/www.youtube.com\/watch?v=Y5X4MlgnJbY"
+        "url": "https://www.youtube.com/watch?v=Y5X4MlgnJbY"
     },
     {
         "conferenceId": "eb080f02f8ec46e9a8615d8e383b87b4732d1a38",
@@ -3028,7 +3028,7 @@
         "tags": [
             "try Swift! Tokyo 2018,"
         ],
-        "url": "https:\/\/www.youtube.com\/watch?v=e9o63D8PWCM"
+        "url": "https://www.youtube.com/watch?v=e9o63D8PWCM"
     },
     {
         "conferenceId": "eb080f02f8ec46e9a8615d8e383b87b4732d1a38",
@@ -3041,7 +3041,7 @@
         "tags": [
             "try Swift! Tokyo 2018,"
         ],
-        "url": "https:\/\/www.youtube.com\/watch?v=XG3yxw8lRJc"
+        "url": "https://www.youtube.com/watch?v=XG3yxw8lRJc"
     },
     {
         "conferenceId": "eb080f02f8ec46e9a8615d8e383b87b4732d1a38",
@@ -3054,7 +3054,7 @@
         "tags": [
             "try Swift! Tokyo 2018,"
         ],
-        "url": "https:\/\/www.youtube.com\/watch?v=A5ms8gsTa2U"
+        "url": "https://www.youtube.com/watch?v=A5ms8gsTa2U"
     },
     {
         "conferenceId": "eb080f02f8ec46e9a8615d8e383b87b4732d1a38",
@@ -3067,7 +3067,7 @@
         "tags": [
             "try Swift! Tokyo 2018,"
         ],
-        "url": "https:\/\/www.youtube.com\/watch?v=5ciZS7Cxyp0"
+        "url": "https://www.youtube.com/watch?v=5ciZS7Cxyp0"
     },
     {
         "conferenceId": "eb080f02f8ec46e9a8615d8e383b87b4732d1a38",
@@ -3080,7 +3080,7 @@
         "tags": [
             "try Swift! Tokyo 2018,"
         ],
-        "url": "https:\/\/www.youtube.com\/watch?v=RWotEyTeJhc"
+        "url": "https://www.youtube.com/watch?v=RWotEyTeJhc"
     },
     {
         "conferenceId": "eb080f02f8ec46e9a8615d8e383b87b4732d1a38",
@@ -3093,7 +3093,7 @@
         "tags": [
             "try Swift! Tokyo 2018,"
         ],
-        "url": "https:\/\/www.youtube.com\/watch?v=O1U1JQT5bG4"
+        "url": "https://www.youtube.com/watch?v=O1U1JQT5bG4"
     },
     {
         "conferenceId": "eb080f02f8ec46e9a8615d8e383b87b4732d1a38",
@@ -3106,7 +3106,7 @@
         "tags": [
             "try Swift! Tokyo 2018,"
         ],
-        "url": "https:\/\/www.youtube.com\/watch?v=TcTukRKHwnE"
+        "url": "https://www.youtube.com/watch?v=TcTukRKHwnE"
     },
     {
         "conferenceId": "eb080f02f8ec46e9a8615d8e383b87b4732d1a38",
@@ -3119,7 +3119,7 @@
         "tags": [
             "try Swift! Tokyo 2018,"
         ],
-        "url": "https:\/\/www.youtube.com\/watch?v=CU-xOXHXPJ0"
+        "url": "https://www.youtube.com/watch?v=CU-xOXHXPJ0"
     },
     {
         "conferenceId": "eb080f02f8ec46e9a8615d8e383b87b4732d1a38",
@@ -3128,11 +3128,11 @@
         "id": "e8f5259245ae09927038e2aa82f71142309b3a49",
         "speakerId": "5004b93b3c05ce1532a790cc256d0db2cdb0a8ff",
         "videoId": "NcYjfIeZgR8",
-        "title": "Creating conversational interfaces in iOS\/Swift",
+        "title": "Creating conversational interfaces in iOS/Swift",
         "tags": [
             "try Swift! Tokyo 2018,"
         ],
-        "url": "https:\/\/www.youtube.com\/watch?v=NcYjfIeZgR8"
+        "url": "https://www.youtube.com/watch?v=NcYjfIeZgR8"
     },
     {
         "conferenceId": "eb080f02f8ec46e9a8615d8e383b87b4732d1a38",
@@ -3145,7 +3145,7 @@
         "tags": [
             "try Swift! Tokyo 2018,"
         ],
-        "url": "https:\/\/www.youtube.com\/watch?v=mebKTCPZwLc"
+        "url": "https://www.youtube.com/watch?v=mebKTCPZwLc"
     },
     {
         "conferenceId": "eb080f02f8ec46e9a8615d8e383b87b4732d1a38",
@@ -3158,7 +3158,7 @@
         "tags": [
             "try Swift! Tokyo 2018,"
         ],
-        "url": "https:\/\/www.youtube.com\/watch?v=AVkKkl5ZlYo"
+        "url": "https://www.youtube.com/watch?v=AVkKkl5ZlYo"
     },
     {
         "conferenceId": "eb080f02f8ec46e9a8615d8e383b87b4732d1a38",
@@ -3171,7 +3171,7 @@
         "tags": [
             "try Swift! Tokyo 2018,"
         ],
-        "url": "https:\/\/www.youtube.com\/watch?v=ogQOzfO8pV8"
+        "url": "https://www.youtube.com/watch?v=ogQOzfO8pV8"
     },
     {
         "conferenceId": "fa122411e4b4a93629f73b2dcc598aaf0a1798f4",
@@ -3183,7 +3183,7 @@
         "tags": [
             "FrenchKit 2017,"
         ],
-        "url": "https:\/\/www.youtube.com\/watch?v=DrdxSNG-_DE"
+        "url": "https://www.youtube.com/watch?v=DrdxSNG-_DE"
     },
     {
         "conferenceId": "fa122411e4b4a93629f73b2dcc598aaf0a1798f4",
@@ -3195,7 +3195,7 @@
         "tags": [
             "FrenchKit 2017,"
         ],
-        "url": "https:\/\/www.youtube.com\/watch?v=nwYxwqhp6p4"
+        "url": "https://www.youtube.com/watch?v=nwYxwqhp6p4"
     },
     {
         "conferenceId": "fa122411e4b4a93629f73b2dcc598aaf0a1798f4",
@@ -3207,7 +3207,7 @@
         "tags": [
             "FrenchKit 2017,"
         ],
-        "url": "https:\/\/www.youtube.com\/watch?v=mRrjNzP6RAU"
+        "url": "https://www.youtube.com/watch?v=mRrjNzP6RAU"
     },
     {
         "conferenceId": "fa122411e4b4a93629f73b2dcc598aaf0a1798f4",
@@ -3219,7 +3219,7 @@
         "tags": [
             "FrenchKit 2017,Server"
         ],
-        "url": "https:\/\/www.youtube.com\/watch?v=4kQsuOiI6Ug"
+        "url": "https://www.youtube.com/watch?v=4kQsuOiI6Ug"
     },
     {
         "conferenceId": "fa122411e4b4a93629f73b2dcc598aaf0a1798f4",
@@ -3231,7 +3231,7 @@
         "tags": [
             "FrenchKit 2017,"
         ],
-        "url": "https:\/\/www.youtube.com\/watch?v=xbv-Q3ddOg4"
+        "url": "https://www.youtube.com/watch?v=xbv-Q3ddOg4"
     },
     {
         "conferenceId": "fa122411e4b4a93629f73b2dcc598aaf0a1798f4",
@@ -3243,7 +3243,7 @@
         "tags": [
             "FrenchKit 2017,CoreData"
         ],
-        "url": "https:\/\/www.youtube.com\/watch?v=dYWE2d4_IPY"
+        "url": "https://www.youtube.com/watch?v=dYWE2d4_IPY"
     },
     {
         "conferenceId": "fa122411e4b4a93629f73b2dcc598aaf0a1798f4",
@@ -3255,7 +3255,7 @@
         "tags": [
             "FrenchKit 2017,"
         ],
-        "url": "https:\/\/www.youtube.com\/watch?v=LuYA8HCcWps"
+        "url": "https://www.youtube.com/watch?v=LuYA8HCcWps"
     },
     {
         "conferenceId": "fa122411e4b4a93629f73b2dcc598aaf0a1798f4",
@@ -3267,7 +3267,7 @@
         "tags": [
             "FrenchKit 2017,"
         ],
-        "url": "https:\/\/www.youtube.com\/watch?v=Vs9f3QBnYTo"
+        "url": "https://www.youtube.com/watch?v=Vs9f3QBnYTo"
     },
     {
         "conferenceId": "fa122411e4b4a93629f73b2dcc598aaf0a1798f4",
@@ -3279,7 +3279,7 @@
         "tags": [
             "FrenchKit 2017,CoreML"
         ],
-        "url": "https:\/\/www.youtube.com\/watch?v=AaoM1h32Xvs"
+        "url": "https://www.youtube.com/watch?v=AaoM1h32Xvs"
     },
     {
         "conferenceId": "fa122411e4b4a93629f73b2dcc598aaf0a1798f4",
@@ -3291,7 +3291,7 @@
         "tags": [
             "FrenchKit 2017,CI"
         ],
-        "url": "https:\/\/www.youtube.com\/watch?v=XLFQ40EqG64"
+        "url": "https://www.youtube.com/watch?v=XLFQ40EqG64"
     },
     {
         "conferenceId": "fa122411e4b4a93629f73b2dcc598aaf0a1798f4",
@@ -3303,7 +3303,7 @@
         "tags": [
             "FrenchKit 2017,"
         ],
-        "url": "https:\/\/www.youtube.com\/watch?v=3i1k6H2jzVQ"
+        "url": "https://www.youtube.com/watch?v=3i1k6H2jzVQ"
     },
     {
         "conferenceId": "fa122411e4b4a93629f73b2dcc598aaf0a1798f4",
@@ -3315,7 +3315,7 @@
         "tags": [
             "FrenchKit 2017,"
         ],
-        "url": "https:\/\/www.youtube.com\/watch?v=-ZKYdDJruss"
+        "url": "https://www.youtube.com/watch?v=-ZKYdDJruss"
     },
     {
         "conferenceId": "fa122411e4b4a93629f73b2dcc598aaf0a1798f4",
@@ -3327,7 +3327,7 @@
         "tags": [
             "FrenchKit 2017,Vision,ARKit"
         ],
-        "url": "https:\/\/www.youtube.com\/watch?v=J2Hyhh9fN2U"
+        "url": "https://www.youtube.com/watch?v=J2Hyhh9fN2U"
     },
     {
         "conferenceId": "c88f2abcb105e627432ed73370bd2125479ac6bb",
@@ -3479,7 +3479,7 @@
         "id": "41752ef7923b5cf99c73714a0c907b157c46d6f2",
         "speakerId": "6155c2211ff26629bdc89f64e18c110aa6ea83d3",
         "videoId": "CnxgzgLP7xE",
-        "title": "The Realities of A\/B Testing - Aydar Mukhametzyanov - App Builders 2019",
+        "title": "The Realities of A/B Testing - Aydar Mukhametzyanov - App Builders 2019",
         "tags": [
             ""
         ],
@@ -3668,7 +3668,7 @@
         "source": "youtube",
         "id": "ee53b198-3fb3-4002-a7ab-7ead1694fbb8",
         "speakerId": "6155c2211ff26629bdc89f64e18c110aa6ea83d3",
-        "title": "The Realities of A\/B Testing - Aydar Mukhametzyanov - App Builders 2019",
+        "title": "The Realities of A/B Testing - Aydar Mukhametzyanov - App Builders 2019",
         "videoId": "CnxgzgLP7xE",
         "tags": []
     },
@@ -4568,7 +4568,7 @@
         "source": "youtube",
         "id": "e3f8f4ee-37a8-4fc1-afd6-8a44a3d28ef0",
         "speakerId": "66bcfc85f546a5b7dff6d521c07e03b37f6d983e",
-        "title": "Kotlin\/Native",
+        "title": "Kotlin/Native",
         "videoId": "dMm6zyW2i9I",
         "tags": []
     },
