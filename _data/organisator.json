@@ -106,5 +106,11 @@
         "name": "NSLondon",
         "twitter": "NSLondonMeetup",
         "nextEvent": null
-    }
+    },
+    {
+        "id": "7a2aba0da64846a6b67fe764c64f9604",
+        "name": "Hacking with Swift Live",
+        "twitter": "twostraws",
+        "nextEvent": null
+    },
 ]
