@@ -4979,7 +4979,7 @@
         "conferenceId": "888276fd2d9540af877cfb6c3ed078e8",
         "source": "youtube",
         "id": "d6a1a9d1-ad88-496e-999b-c18d97dc0fea",
-        "speakerId": "3749cf822e569e48f64217004000f062bda47169",
+        "speakerId": null,
         "title": "Swift Server Update",
         "videoId": "ZefmzgLabCA",
         "tags": []
@@ -4988,7 +4988,7 @@
         "conferenceId": "888276fd2d9540af877cfb6c3ed078e8",
         "source": "youtube",
         "id": "5466ec4e-75a9-4cdd-ae33-d5faa6e0b794",
-        "speakerId": "3749cf822e569e48f64217004000f062bda47169",
+        "speakerId": null,
         "title": "The Philosopher's String",
         "videoId": "lMhGnTFA9CI",
         "tags": []
@@ -4997,7 +4997,7 @@
         "conferenceId": "888276fd2d9540af877cfb6c3ed078e8",
         "source": "youtube",
         "id": "77d96754-220e-4c12-b9ef-08600d6f44cd",
-        "speakerId": "3749cf822e569e48f64217004000f062bda47169",
+        "speakerId": null,
         "title": "Building a Social Network in Swift",
         "videoId": "u901qDvBuUU",
         "tags": []
@@ -5006,7 +5006,7 @@
         "conferenceId": "888276fd2d9540af877cfb6c3ed078e8",
         "source": "youtube",
         "id": "b2d4fdb0-cbe3-4e46-9544-6482cd6670dd",
-        "speakerId": "3749cf822e569e48f64217004000f062bda47169",
+        "speakerId": null,
         "title": "次へつなごう— Extending a hand to the next generation of Apple developers",
         "videoId": "bMMWf-Dr7kY",
         "tags": []
@@ -5015,7 +5015,7 @@
         "conferenceId": "888276fd2d9540af877cfb6c3ed078e8",
         "source": "youtube",
         "id": "aa56761d-5f52-464a-98c6-e2b503a21083",
-        "speakerId": "3749cf822e569e48f64217004000f062bda47169",
+        "speakerId": null,
         "title": "Psychology study background and prospects in iOS device",
         "videoId": "5XgV5vF6tiM",
         "tags": []
@@ -5024,7 +5024,7 @@
         "conferenceId": "888276fd2d9540af877cfb6c3ed078e8",
         "source": "youtube",
         "id": "40c163ee-103c-4800-82ff-9efcddbf89bd",
-        "speakerId": "3749cf822e569e48f64217004000f062bda47169",
+        "speakerId": null,
         "title": "Using C, C++ and Objective C frameworks in Swift apps",
         "videoId": "aVdJj0XC-Ko",
         "tags": []
@@ -5033,7 +5033,7 @@
         "conferenceId": "888276fd2d9540af877cfb6c3ed078e8",
         "source": "youtube",
         "id": "faac3ec0-ad8f-4793-b317-c2346876e2c5",
-        "speakerId": "3749cf822e569e48f64217004000f062bda47169",
+        "speakerId": null,
         "title": "Swift Hardware Hacking",
         "videoId": "b9EVb0jEt8E",
         "tags": []
@@ -5042,7 +5042,7 @@
         "conferenceId": "888276fd2d9540af877cfb6c3ed078e8",
         "source": "youtube",
         "id": "434575f1-2be5-4373-bfe8-e47a28ada2fe",
-        "speakerId": "3749cf822e569e48f64217004000f062bda47169",
+        "speakerId": null,
         "title": "Building a Mobile Design System",
         "videoId": "Fvq8PQKJj_k",
         "tags": []
@@ -5051,7 +5051,7 @@
         "conferenceId": "888276fd2d9540af877cfb6c3ed078e8",
         "source": "youtube",
         "id": "cb3248a5-5c09-440d-9d85-7c46b19d2b76",
-        "speakerId": "3749cf822e569e48f64217004000f062bda47169",
+        "speakerId": null,
         "title": "Swift type metadata",
         "videoId": "2fon4YFI9Ao",
         "tags": []
@@ -5060,7 +5060,7 @@
         "conferenceId": "888276fd2d9540af877cfb6c3ed078e8",
         "source": "youtube",
         "id": "3f50407a-469f-4922-af74-ebdeb6ce4467",
-        "speakerId": "3749cf822e569e48f64217004000f062bda47169",
+        "speakerId": null,
         "title": "Basics of Implement convenience with SwiftSyntax",
         "videoId": "nFtShzC0n6s",
         "tags": []
@@ -5069,7 +5069,7 @@
         "conferenceId": "888276fd2d9540af877cfb6c3ed078e8",
         "source": "youtube",
         "id": "63f70bb7-4b60-4617-9bf7-553fcfe93452",
-        "speakerId": "3749cf822e569e48f64217004000f062bda47169",
+        "speakerId": null,
         "title": "In defense of Core Data",
         "videoId": "aUoT5w4JOoM",
         "tags": []
@@ -5078,7 +5078,7 @@
         "conferenceId": "888276fd2d9540af877cfb6c3ed078e8",
         "source": "youtube",
         "id": "60eb3d74-a130-45d6-8b72-ce70a20658a0",
-        "speakerId": "3749cf822e569e48f64217004000f062bda47169",
+        "speakerId": null,
         "title": "Contributing to Swift Compiler",
         "videoId": "HAXJsgYniqE",
         "tags": []
@@ -5087,7 +5087,7 @@
         "conferenceId": "888276fd2d9540af877cfb6c3ed078e8",
         "source": "youtube",
         "id": "5c5b72f8-7911-4069-877e-8d8dd0883e4d",
-        "speakerId": "3749cf822e569e48f64217004000f062bda47169",
+        "speakerId": null,
         "title": "Assembly. You can do it!",
         "videoId": "nf0GXcvBlRY",
         "tags": []
@@ -5096,7 +5096,7 @@
         "conferenceId": "888276fd2d9540af877cfb6c3ed078e8",
         "source": "youtube",
         "id": "6d943133-7421-4011-99bc-e74235e531cb",
-        "speakerId": "3749cf822e569e48f64217004000f062bda47169",
+        "speakerId": null,
         "title": "All about linking libraries",
         "videoId": "EPLreKM5Dlc",
         "tags": []
@@ -5105,7 +5105,7 @@
         "conferenceId": "888276fd2d9540af877cfb6c3ed078e8",
         "source": "youtube",
         "id": "20dffd7a-6bd6-4dc2-8756-74c01e375bff",
-        "speakerId": "3749cf822e569e48f64217004000f062bda47169",
+        "speakerId": null,
         "title": "Property-based test beginning with SwiftCheck",
         "videoId": "PnnSQet2-Pg",
         "tags": []
@@ -5114,7 +5114,7 @@
         "conferenceId": "888276fd2d9540af877cfb6c3ed078e8",
         "source": "youtube",
         "id": "b8d86538-685d-4b51-b9cb-cfeff98963ac",
-        "speakerId": "3749cf822e569e48f64217004000f062bda47169",
+        "speakerId": null,
         "title": "Shaping Sounds in Swift",
         "videoId": "lDTw6YZBDGo",
         "tags": []
@@ -5123,7 +5123,7 @@
         "conferenceId": "888276fd2d9540af877cfb6c3ed078e8",
         "source": "youtube",
         "id": "90f46ba2-ac02-4663-8b26-59f8f11b5482",
-        "speakerId": "3749cf822e569e48f64217004000f062bda47169",
+        "speakerId": null,
         "title": "Making Portrait mode yourself",
         "videoId": "_Lq0iJirT-E",
         "tags": []
@@ -5132,7 +5132,7 @@
         "conferenceId": "888276fd2d9540af877cfb6c3ed078e8",
         "source": "youtube",
         "id": "e583fdf2-1bd9-42c2-9e6a-912ac29c2a87",
-        "speakerId": "3749cf822e569e48f64217004000f062bda47169",
+        "speakerId": null,
         "title": "The Laws of Magic",
         "videoId": "T9vRBioadYc",
         "tags": []
@@ -5141,7 +5141,7 @@
         "conferenceId": "888276fd2d9540af877cfb6c3ed078e8",
         "source": "youtube",
         "id": "dfe8bc5d-8790-4861-b44c-50b9d8699689",
-        "speakerId": "3749cf822e569e48f64217004000f062bda47169",
+        "speakerId": null,
         "title": "MachObfuscator",
         "videoId": "QTS2_CcnAgU",
         "tags": []
@@ -5150,7 +5150,7 @@
         "conferenceId": "888276fd2d9540af877cfb6c3ed078e8",
         "source": "youtube",
         "id": "074973a1-696e-4df6-9630-d264e1d9cf31",
-        "speakerId": "3749cf822e569e48f64217004000f062bda47169",
+        "speakerId": null,
         "title": "Introducing SourceKit-LSP",
         "videoId": "rQ7qArmbKOI",
         "tags": []
@@ -5159,7 +5159,7 @@
         "conferenceId": "888276fd2d9540af877cfb6c3ed078e8",
         "source": "youtube",
         "id": "ab9d7f80-a058-48b1-b7e1-236a045842ec",
-        "speakerId": "3749cf822e569e48f64217004000f062bda47169",
+        "speakerId": null,
         "title": "try Prototype!",
         "videoId": "TYOramNrprQ",
         "tags": []
@@ -5168,7 +5168,7 @@
         "conferenceId": "888276fd2d9540af877cfb6c3ed078e8",
         "source": "youtube",
         "id": "2a714728-0d26-460d-a3bd-24a092096d93",
-        "speakerId": "3749cf822e569e48f64217004000f062bda47169",
+        "speakerId": null,
         "title": "Driving Engagement with Siri Shortcuts and NSUserActivity",
         "videoId": "zm-Ayvm0oew",
         "tags": []
@@ -5177,7 +5177,7 @@
         "conferenceId": "888276fd2d9540af877cfb6c3ed078e8",
         "source": "youtube",
         "id": "61703beb-a32f-4f97-813c-43b9a0ca863c",
-        "speakerId": "3749cf822e569e48f64217004000f062bda47169",
+        "speakerId": null,
         "title": "Discover memory leak with Testcase",
         "videoId": "jseRwn8fTg4",
         "tags": []
@@ -5186,7 +5186,7 @@
         "conferenceId": "888276fd2d9540af877cfb6c3ed078e8",
         "source": "youtube",
         "id": "30c8fa6f-04e2-498b-8279-ce09dec4cedd",
-        "speakerId": "3749cf822e569e48f64217004000f062bda47169",
+        "speakerId": null,
         "title": "So you want to build an ARKit app",
         "videoId": "RpJJEvFGGCY",
         "tags": []
@@ -5195,7 +5195,7 @@
         "conferenceId": "888276fd2d9540af877cfb6c3ed078e8",
         "source": "youtube",
         "id": "1c6135b6-d9ee-44ed-a965-3020b2997ddf",
-        "speakerId": "3749cf822e569e48f64217004000f062bda47169",
+        "speakerId": null,
         "title": "Graphics like Pixar using Swift",
         "videoId": "jcshB5wM28Q",
         "tags": []
@@ -5204,7 +5204,7 @@
         "conferenceId": "888276fd2d9540af877cfb6c3ed078e8",
         "source": "youtube",
         "id": "a919d181-e7dc-41de-9f7e-8239e9a911d6",
-        "speakerId": "3749cf822e569e48f64217004000f062bda47169",
+        "speakerId": null,
         "title": "Color Contrast for Accessibility",
         "videoId": "V6YY0fmaocc",
         "tags": []
@@ -5213,7 +5213,7 @@
         "conferenceId": "888276fd2d9540af877cfb6c3ed078e8",
         "source": "youtube",
         "id": "b25ca46f-d84a-4c9b-9d56-9caba9a36196",
-        "speakerId": "3749cf822e569e48f64217004000f062bda47169",
+        "speakerId": null,
         "title": "Deep dive into Swift Literal",
         "videoId": "NpPLmSVWMAc",
         "tags": []
@@ -5222,7 +5222,7 @@
         "conferenceId": "888276fd2d9540af877cfb6c3ed078e8",
         "source": "youtube",
         "id": "f190f7ce-7623-44e1-9b11-515dd2fc978a",
-        "speakerId": "3749cf822e569e48f64217004000f062bda47169",
+        "speakerId": null,
         "title": "Native macOS application, or the world of AppKit",
         "videoId": "lSiwCAQVKQk",
         "tags": []
@@ -5231,7 +5231,7 @@
         "conferenceId": "888276fd2d9540af877cfb6c3ed078e8",
         "source": "youtube",
         "id": "24b7e9d9-4252-4976-ada7-a7321846e6ae",
-        "speakerId": "3749cf822e569e48f64217004000f062bda47169",
+        "speakerId": null,
         "title": "Introduction to Swift Keypaths",
         "videoId": "z4lTKBS0ZbQ",
         "tags": []
@@ -5240,7 +5240,7 @@
         "conferenceId": "888276fd2d9540af877cfb6c3ed078e8",
         "source": "youtube",
         "id": "8a696dab-3e19-4278-9cd4-b55603cc4277",
-        "speakerId": "3749cf822e569e48f64217004000f062bda47169",
+        "speakerId": null,
         "title": "Limited import clarification and its effect",
         "videoId": "8OMQ2DiS-zA",
         "tags": []
@@ -5249,7 +5249,7 @@
         "conferenceId": "888276fd2d9540af877cfb6c3ed078e8",
         "source": "youtube",
         "id": "52b5e3a3-927d-4198-be4c-8fdc4af19993",
-        "speakerId": "3749cf822e569e48f64217004000f062bda47169",
+        "speakerId": null,
         "title": "Swift as Light",
         "videoId": "XfDCGvnoLhs",
         "tags": []
@@ -5258,7 +5258,7 @@
         "conferenceId": "888276fd2d9540af877cfb6c3ed078e8",
         "source": "youtube",
         "id": "46cb722f-36c3-4484-9aea-b64146d7bb4b",
-        "speakerId": "3749cf822e569e48f64217004000f062bda47169",
+        "speakerId": null,
         "title": "Generics in protocol extension",
         "videoId": "Urt1VJShbL4",
         "tags": []
@@ -5267,7 +5267,7 @@
         "conferenceId": "b238b707926f4c81a4d1f65759156f0d",
         "source": "youtube",
         "id": "ed69a757-4847-436a-8377-1fce06f80730",
-        "speakerId": "3749cf822e569e48f64217004000f062bda47169",
+        "speakerId": null,
         "title": "Let's Play With Bitcoin Cash Using Swift",
         "videoId": "uwMSLT7KLD4",
         "tags": []
@@ -5276,7 +5276,7 @@
         "conferenceId": "b238b707926f4c81a4d1f65759156f0d",
         "source": "youtube",
         "id": "efa35cc1-002d-4efb-9c84-b1e1eb862f42",
-        "speakerId": "3749cf822e569e48f64217004000f062bda47169",
+        "speakerId": null,
         "title": "Getting Started with Combine",
         "videoId": "fejmsuxoIvA",
         "tags": []
@@ -5285,7 +5285,7 @@
         "conferenceId": "b238b707926f4c81a4d1f65759156f0d",
         "source": "youtube",
         "id": "12bcd52b-812e-4e69-a7ae-f5ce6a8e07e6",
-        "speakerId": "3749cf822e569e48f64217004000f062bda47169",
+        "speakerId": null,
         "title": "Building the Server-side Swift ecosystem",
         "videoId": "CzTikweGO3E",
         "tags": []
@@ -5294,7 +5294,7 @@
         "conferenceId": "b238b707926f4c81a4d1f65759156f0d",
         "source": "youtube",
         "id": "ae01f47b-4b91-4808-8a01-36d5f969ce48",
-        "speakerId": "3749cf822e569e48f64217004000f062bda47169",
+        "speakerId": null,
         "title": "try! Swift NCY 2019 - Truths Universally Acknowledged - Swift Design Patterns as Jane Austen Heroes",
         "videoId": "-gjtLq1QjZ8",
         "tags": []
@@ -5303,7 +5303,7 @@
         "conferenceId": "b238b707926f4c81a4d1f65759156f0d",
         "source": "youtube",
         "id": "9163da74-1d0d-4de8-baa2-bcee2ee39f81",
-        "speakerId": "3749cf822e569e48f64217004000f062bda47169",
+        "speakerId": null,
         "title": "A Deeper Deep dive into Swift Literal",
         "videoId": "z0iZH2iu7Lw",
         "tags": []
@@ -5312,7 +5312,7 @@
         "conferenceId": "b238b707926f4c81a4d1f65759156f0d",
         "source": "youtube",
         "id": "eeae4d97-dca8-4b41-80a0-855ae1596a8e",
-        "speakerId": "3749cf822e569e48f64217004000f062bda47169",
+        "speakerId": null,
         "title": "Parsing natural languages in Swift",
         "videoId": "BPEJ8Nif12E",
         "tags": []
@@ -5321,7 +5321,7 @@
         "conferenceId": "b238b707926f4c81a4d1f65759156f0d",
         "source": "youtube",
         "id": "d0c56dcb-b227-4922-a7e8-1539014d7096",
-        "speakerId": "3749cf822e569e48f64217004000f062bda47169",
+        "speakerId": null,
         "title": "SwiftUI for Production",
         "videoId": "rshXbwrrUxY",
         "tags": []
@@ -5330,7 +5330,7 @@
         "conferenceId": "b238b707926f4c81a4d1f65759156f0d",
         "source": "youtube",
         "id": "0462ae9a-cf81-456b-b3ef-f9e44b0cdb00",
-        "speakerId": "3749cf822e569e48f64217004000f062bda47169",
+        "speakerId": null,
         "title": "App Subscriptions - The Good, The Bad, and the Ugly",
         "videoId": "wtR3CacghWc",
         "tags": []
@@ -5339,7 +5339,7 @@
         "conferenceId": "b238b707926f4c81a4d1f65759156f0d",
         "source": "youtube",
         "id": "288927de-d736-4d8a-b7a9-b04da18ae26e",
-        "speakerId": "3749cf822e569e48f64217004000f062bda47169",
+        "speakerId": null,
         "title": "Making Your App Feel at Home in iOS 13",
         "videoId": "HbQVY2hfAEY",
         "tags": []
@@ -5348,7 +5348,7 @@
         "conferenceId": "b238b707926f4c81a4d1f65759156f0d",
         "source": "youtube",
         "id": "29bf90b4-afcc-4272-958e-c92a2c44968b",
-        "speakerId": "3749cf822e569e48f64217004000f062bda47169",
+        "speakerId": null,
         "title": "The Life of an Image on iOS",
         "videoId": "vl3aXaNPKE0",
         "tags": []
@@ -5357,7 +5357,7 @@
         "conferenceId": "b238b707926f4c81a4d1f65759156f0d",
         "source": "youtube",
         "id": "e15f6531-3455-4e02-b981-a0177c2b5123",
-        "speakerId": "3749cf822e569e48f64217004000f062bda47169",
+        "speakerId": null,
         "title": "Streamlining Mobile Releases",
         "videoId": "CcPdDwz116k",
         "tags": []
@@ -5366,7 +5366,7 @@
         "conferenceId": "b238b707926f4c81a4d1f65759156f0d",
         "source": "youtube",
         "id": "9405115b-daa4-407e-a03d-35c7a4de2d0f",
-        "speakerId": "3749cf822e569e48f64217004000f062bda47169",
+        "speakerId": null,
         "title": "Extending UIColor to Support Custom Styling",
         "videoId": "Nw0YaDVcA6U",
         "tags": []
@@ -5375,7 +5375,7 @@
         "conferenceId": "b238b707926f4c81a4d1f65759156f0d",
         "source": "youtube",
         "id": "0ba8e294-17e4-49f2-8030-7d671168c4f1",
-        "speakerId": "3749cf822e569e48f64217004000f062bda47169",
+        "speakerId": null,
         "title": "Designing Accessible APIs",
         "videoId": "gb6t56pzMJg",
         "tags": []
@@ -5384,7 +5384,7 @@
         "conferenceId": "b238b707926f4c81a4d1f65759156f0d",
         "source": "youtube",
         "id": "20497c1e-c510-4954-91f1-0521a2ab2e4c",
-        "speakerId": "3749cf822e569e48f64217004000f062bda47169",
+        "speakerId": null,
         "title": "Encoding and Decoding in Swift",
         "videoId": "9GZ8Hiq-Nbc",
         "tags": []
@@ -5393,7 +5393,7 @@
         "conferenceId": "b238b707926f4c81a4d1f65759156f0d",
         "source": "youtube",
         "id": "c9fabbd2-a48d-4cc1-a870-fd7f920860a9",
-        "speakerId": "3749cf822e569e48f64217004000f062bda47169",
+        "speakerId": null,
         "title": "Swift Without Screens - Powering Connected Devices",
         "videoId": "VILUaec-sCs",
         "tags": []
@@ -5402,7 +5402,7 @@
         "conferenceId": "b238b707926f4c81a4d1f65759156f0d",
         "source": "youtube",
         "id": "28209f88-3863-4ec8-aa2e-da8a5de3082a",
-        "speakerId": "3749cf822e569e48f64217004000f062bda47169",
+        "speakerId": null,
         "title": "Deeper into ARKit with CoreML and Turi Create",
         "videoId": "VBZve4cLH4E",
         "tags": []
@@ -5411,7 +5411,7 @@
         "conferenceId": "b238b707926f4c81a4d1f65759156f0d",
         "source": "youtube",
         "id": "0af807cd-79a6-40ea-a1a9-a05f67a383a3",
-        "speakerId": "3749cf822e569e48f64217004000f062bda47169",
+        "speakerId": null,
         "title": "SwiftUI in 25 Minutes",
         "videoId": "aK3TJW_nnio",
         "tags": []
@@ -5420,7 +5420,7 @@
         "conferenceId": "b238b707926f4c81a4d1f65759156f0d",
         "source": "youtube",
         "id": "db2c2d98-4240-47c1-849f-bc7fe13c8947",
-        "speakerId": "3749cf822e569e48f64217004000f062bda47169",
+        "speakerId": null,
         "title": "Swift for TensorFlow - Machine Learning with no Boundaries",
         "videoId": "xnwgifICYYA",
         "tags": []
@@ -5429,7 +5429,7 @@
         "conferenceId": "b238b707926f4c81a4d1f65759156f0d",
         "source": "youtube",
         "id": "721e04cf-5ca4-43e4-b19d-79c0162f66cb",
-        "speakerId": "3749cf822e569e48f64217004000f062bda47169",
+        "speakerId": null,
         "title": "It's Probably Fine",
         "videoId": "RhSUKU8zg8A",
         "tags": []
@@ -5438,7 +5438,7 @@
         "conferenceId": "b238b707926f4c81a4d1f65759156f0d",
         "source": "youtube",
         "id": "96836d64-89fe-4e4a-a616-ba89de5de7d8",
-        "speakerId": "3749cf822e569e48f64217004000f062bda47169",
+        "speakerId": null,
         "title": "Body Hacking Using Ayurveda",
         "videoId": "ulFFTBGOpl0",
         "tags": []
@@ -5447,7 +5447,7 @@
         "conferenceId": "b238b707926f4c81a4d1f65759156f0d",
         "source": "youtube",
         "id": "c21f35c8-f452-400e-b5a5-3f224176a094",
-        "speakerId": "3749cf822e569e48f64217004000f062bda47169",
+        "speakerId": null,
         "title": "What Swift Devs can Learn from C++",
         "videoId": "CZOVnlwWPZk",
         "tags": []
@@ -5456,7 +5456,7 @@
         "conferenceId": "b238b707926f4c81a4d1f65759156f0d",
         "source": "youtube",
         "id": "78152dde-15dd-4c67-86b4-71c5bcac9afe",
-        "speakerId": "3749cf822e569e48f64217004000f062bda47169",
+        "speakerId": null,
         "title": "Introduction to AsyncHTTPClient",
         "videoId": "Zy-uIszhYO8",
         "tags": []
@@ -5573,7 +5573,7 @@
         "conferenceId": "7fc9e26d957641a6b949bdf55615ab3e",
         "source": "youtube",
         "id": "d0544fb9-611f-49ec-90c9-94d4d09532f5",
-        "speakerId": "3749cf822e569e48f64217004000f062bda47169",
+        "speakerId": null,
         "title": "Advanced Colors in iOS",
         "videoId": "r67wKzRViio",
         "tags": []
