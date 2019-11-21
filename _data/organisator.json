@@ -1,114 +1,108 @@
 [
     {
-        "id": "7a2aba0da64846a6b67fe764c64f9604",
-        "name": "Hacking with Swift Live",
-        "twitter": "twostraws",
-        "nextEvent": null
-    },
-    {
-        "id": "a7e13bcb66ba4ded82d62eed06061491",
+        "id": "37c5acc62fa66212860c64376fab7b07d0e543f4",
         "name": "dotSwift",
         "twitter": "dotSwift",
         "nextEvent": null
     },
     {
-        "id": "5ab51360a55e4c90b947be3b8fd0aaf8",
+        "id": "4cc08c79268ec8826580933b08da8377e0e6e6bd",
         "name": "FrenchKit",
         "twitter": "frenchkitconf",
         "nextEvent": null
     },
     {
-        "id": "a95b6ec6c41c41b483d17c1ecfc996ff",
+        "id": "c95192db9bbbb3161a2bce577161084c07e01554",
         "name": "Swift & Fika",
         "twitter": "swiftandfika",
         "nextEvent": null
     },
     {
-        "id": "8df1f7b4ede54583a29f00a44cf87d59",
+        "id": "0da1dd312b4a3f1c09df327d6ec6a1133fe62013",
         "name": "App Builders",
         "twitter": "appbuilders_ch",
         "nextEvent": "2019-04-29 13:00:00.000000"
     },
     {
-        "id": "d39d4e605331426993e6aedd3d0e4792",
+        "id": "c20d016ae5f9088d4ee03bb7f29e513d9f9f3bf4",
         "name": "Swift Heros",
         "twitter": "swiftheroes_it",
         "nextEvent": null
     },
     {
-        "id": "4f6e815758754f889126d4667ddeb7a0",
+        "id": "4902900ea1a624e83dfa34788643b34fc298b48b",
         "name": "ServerSide.swift",
         "twitter": "swiftserverconf",
         "nextEvent": null
     },
     {
-        "id": "c1df8dc22ac243b0816d6fb0d4551a1a",
+        "id": "e3f8b318970049b1d6635d25014e05d7dd17e0b4",
         "name": "NSSpain",
         "twitter": "NSSpain",
         "nextEvent": null
     },
     {
-        "id": "52fbc71a531945e2808b525405b555e5",
+        "id": "7b05130d91c1b24522bbab1c7e47ffa5cf6b1c3e",
         "name": "UIKonf",
         "twitter": "uikonf",
         "nextEvent": "2019-05-26 13:00:00.000000"
     },
     {
-        "id": "5762cb6f787040369196c561d81969c6",
+        "id": "803f1cf0d5b1d6c6c07f396a8f1e23b23f2f6853",
         "name": "App Design & Development Conference",
         "twitter": "addconf",
         "nextEvent": "2019-06-26 13:00:00.000000"
     },
     {
-        "id": "00aab9ad7a264893995a6024e3dc8eab",
+        "id": "adc9caadb8f53fc33ec3202a5266e957f5e721c0",
         "name": "AppDevCon",
         "twitter": "appdevconnl",
         "nextEvent": "2019-03-14 13:00:00.000000"
     },
     {
-        "id": "6626302c8fa84ec3ad4b37c9502d05af",
+        "id": "c79a07d7e296aed3ce583b76158a35a7686b243e",
         "name": "Teki Con",
         "twitter": "teki_con",
         "nextEvent": null
     },
     {
-        "id": "426157eb44f74814a289b85ba0df52e9",
+        "id": "43c11564ad788d5332893787c66d155973f45f81",
         "name": "Swift Language User Group",
         "twitter": null,
         "nextEvent": null
     },
     {
-        "id": "93d7a50f0e3f4fcab178cc1c0deac0e6",
+        "id": "78ea77531568420defb098e25ca82363f187e0c8",
         "name": "SwiftConf",
         "twitter": "SwiftConf",
         "nextEvent": null
     },
     {
-        "id": "bb96e60044af48f3baaaf60174cc0646",
+        "id": "2b6756f84e5722a81944abe15215084b772ef4c0",
         "name": "try! Swift",
         "twitter": "tryswiftconf",
         "nextEvent": null
     },
     {
-        "id": "5bece57a4a27452aa2d4e4b36a32f737",
+        "id": "febc187b383303c15c47edf404e746c2539a1c4a",
         "name": "iOS Astronauts",
         "twitter": "astronautsios",
         "nextEvent": null
     },
     {
-        "id": "60e7d886191843f6a8622f77d34270dd",
+        "id": "d50f4ec2599f2916893470b5408cfae972af1ff9",
         "name": "Swift London",
         "twitter": null,
         "nextEvent": null
     },
     {
-        "id": "a84b99c0619241b1af4400cdcf52ff72",
+        "id": "d40143ae391b9a3caa2c3ef0890df3240d264fc4",
         "name": "iOS Conf SG",
         "twitter": "iosconfsg",
         "nextEvent": null
     },
     {
-        "id": "071e45db16dd4601982fe4aa7e92d38d",
+        "id": "e08f95faba5dd24a35c1a60a7688062a0243c832",
         "name": "NSLondon",
         "twitter": "NSLondonMeetup",
         "nextEvent": null
