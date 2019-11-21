@@ -1,5 +1,11 @@
 [
     {
+        "id": "7a2aba0da64846a6b67fe764c64f9604",
+        "name": "Hacking with Swift Live",
+        "twitter": "twostraws",
+        "nextEvent": null
+    },
+    {
         "id": "a7e13bcb66ba4ded82d62eed06061491",
         "name": "dotSwift",
         "twitter": "dotSwift",

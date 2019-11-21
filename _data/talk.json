@@ -4625,5 +4625,77 @@
         "title": "Mobile && Me == It's Complicated",
         "videoId": "cZnD6mpyNoo",
         "tags": []
+    },
+    {
+        "conferenceId": "f8a323d62da74bcca7656a188235b249",
+        "source": "youtube",
+        "id": "cac91a75-8c68-4780-b04f-bfdfdaddf047",
+        "speakerId": "b6f2860e9c2e440b4b46f6b9a6dd04af40cbfa17",
+        "title": "Gentle Generics",
+        "videoId": "y4qFRLp_JNM",
+        "tags": []
+    },
+    {
+        "conferenceId": "f8a323d62da74bcca7656a188235b249",
+        "source": "youtube",
+        "id": "f1fba20c-f550-4ed9-b30c-137e4f8b0f31",
+        "speakerId": "6952af2a-e1dd-4c09-a28e-49c9c5de012a",
+        "title": "Auditing your App with the Accessibility Inspector",
+        "videoId": "sqGSYGHJMVM",
+        "tags": []
+    },
+    {
+        "conferenceId": "f8a323d62da74bcca7656a188235b249",
+        "source": "youtube",
+        "id": "00d13b18-d385-4282-a931-a1d2a2189361",
+        "speakerId": "1f99d38f-1a41-4e04-af35-a3766ab0c472",
+        "title": "Extending UIColor to Support Custom Styling",
+        "videoId": "NV1AcxVIA2k",
+        "tags": []
+    },
+    {
+        "conferenceId": "f8a323d62da74bcca7656a188235b249",
+        "source": "youtube",
+        "id": "59073345-94d4-47af-9307-fac514211c6f",
+        "speakerId": "fe70f01d8e6c83931d24129288887e59f2607dc6",
+        "title": "The Swift Behind SwiftUI",
+        "videoId": "2eK8voQeokk",
+        "tags": []
+    },
+    {
+        "conferenceId": "f8a323d62da74bcca7656a188235b249",
+        "source": "youtube",
+        "id": "5c76cab8-1856-4c6d-a165-db684b3cfdac",
+        "speakerId": "66bcfc85f546a5b7dff6d521c07e03b37f6d983e",
+        "title": "Thinking Outside the Box with Swift Package Manager",
+        "videoId": "CqNPk9gSAaE",
+        "tags": []
+    },
+    {
+        "conferenceId": "f8a323d62da74bcca7656a188235b249",
+        "source": "youtube",
+        "id": "3a1d7a44-3380-4f65-ae42-42d4059882a7",
+        "speakerId": "0009e20d35678961fcff50600a3f7b10ce129024",
+        "title": "Swift Hardware Hacking",
+        "videoId": "rNWWqtm-tTk",
+        "tags": []
+    },
+    {
+        "conferenceId": "f8a323d62da74bcca7656a188235b249",
+        "source": "youtube",
+        "id": "181987a4-c533-46d1-ba23-76fa0a272016",
+        "speakerId": "4c53f3d9-7fc1-4d0c-99fc-01e8f3be4181",
+        "title": "High Performance Systems in Swift",
+        "videoId": "WCUj581Dpec",
+        "tags": []
+    },
+    {
+        "conferenceId": "f8a323d62da74bcca7656a188235b249",
+        "source": "youtube",
+        "id": "57120883-6fc3-4259-84c5-040fbb73875c",
+        "speakerId": "871fb000-15b5-4499-af48-f990538f272e",
+        "title": "An Illustrated History of Easter Eggs",
+        "videoId": "fAaqSr-yShc",
+        "tags": []
     }
 ]

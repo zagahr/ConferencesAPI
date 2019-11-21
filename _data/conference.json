@@ -1,5 +1,15 @@
 [
     {
+        "id": "f8a323d62da74bcca7656a188235b249",
+        "organisatorId": "7a2aba0da64846a6b67fe764c64f9604",
+        "name": "Hacking with Swift Live 2019",
+        "url": "https://hackingwithswift.com/",
+        "location": "Bath",
+        "date": null,
+        "highlightColor": "915B1F",
+        "about": ""
+    },
+    {
         "id": "2c6b06bdb9fe0512e00a5e2254303ab11827a7f5",
         "organisatorId": "a84b99c0619241b1af4400cdcf52ff72",
         "name": "iOS Conf SG 2019",
