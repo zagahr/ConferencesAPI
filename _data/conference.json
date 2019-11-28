@@ -6,7 +6,7 @@
         "url": "https://hackingwithswift.com/",
         "location": "Bath",
         "date": null,
-        "highlightColor": "915B1F",
+        "highlightColor": "CD2027",
         "about": ""
     },
     {
@@ -75,7 +75,7 @@
         "name": "dotSwift 2018",
         "url": "https://www.dotconferences.com/conference/dotswift-2018",
         "location": "Paris, France",
-        "date": "2018-01-26 13:00:00.000000",
+        "date": null,
         "highlightColor": "FADF1D",
         "about": "dotSwift is the European Swift Conference. We want to bring an unheard-of, TED-like level of quality to tech conferences. On stage, 8 of the most respected iOS and OS X developers will deliver their insights on Swift."
     },
