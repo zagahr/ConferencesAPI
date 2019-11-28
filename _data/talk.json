@@ -4607,7 +4607,7 @@
         "conferenceId": "f8a323d62da74bcca7656a188235b249",
         "source": "youtube",
         "id": "59073345-94d4-47af-9307-fac514211c6f",
-        "speakerId": "fe70f01d8e6c83931d24129288887e59f2607dc6",
+        "speakerId": "ab4571efaa89af24c920a29fe900019231a40485",
         "title": "The Swift Behind SwiftUI",
         "videoId": "2eK8voQeokk",
         "tags": []
@@ -4616,7 +4616,7 @@
         "conferenceId": "f8a323d62da74bcca7656a188235b249",
         "source": "youtube",
         "id": "5c76cab8-1856-4c6d-a165-db684b3cfdac",
-        "speakerId": "66bcfc85f546a5b7dff6d521c07e03b37f6d983e",
+        "speakerId": "2c11f28a18c1732942490658acaadb1016330e73",
         "title": "Thinking Outside the Box with Swift Package Manager",
         "videoId": "CqNPk9gSAaE",
         "tags": []
@@ -4680,7 +4680,7 @@
         "source": "youtube",
         "details": "iOS Developers are often afraid of the filesystem partly because we?ve been raised in an era of short-lived processes, JSON-driven user interfaces, and always-on cellular data connections. I intend to show that using Foundation API, its easy to use the filesystem to power lightweight view controllers, animated tableview updates, interprocess communication, and syncing without resorting to heavyweight solutions like Core Data and Realm.",
         "id": "93e1b3ad8f2d0e101755f30bf262146b396aa5f9",
-        "speakerId": "a05b16d899061d4fab70b0931b24020c97a367b2",
+        "speakerId": "0917803978375145bdd5bf603aa0542a046f14a8",
         "videoId": "X9wyuht5BLs",
         "title": "Fear not, for the filesystem is with you",
         "tags": [
