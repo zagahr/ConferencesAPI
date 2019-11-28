@@ -1,14 +1,5 @@
 [
     {
-        "id": "3749cf822e569e48f64217004000f062bda47169",
-        "firstname": "unknown",
-        "lastname": "",
-        "image": "https://via.placeholder.com/150",
-        "twitter": null,
-        "github": null,
-        "about": ""
-    },
-    {
         "id": "15818adc3ac54abae646186f3738d88547d7fc25",
         "firstname": "Chris",
         "lastname": "Eidhof",
