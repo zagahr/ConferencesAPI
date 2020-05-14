@@ -10,7 +10,7 @@ const json = require("../../_data/talk.json");
 
 var index
 var talk
-var min = 10;
+var min = 0;
 var max = 58;
 
 exec("ls ../../images/preview", { "shell": "/bin/zsh", maxBuffer: 1024 * 1024 }, function (error, files) {
@@ -33,7 +33,7 @@ exec("ls ../../images/preview", { "shell": "/bin/zsh", maxBuffer: 1024 * 1024 },
 
                         if (format) {
                             
-                            let command = `ffmpeg -i "${format.url}"  -r 1 -t 1 -ss  00:00:${random} ../../images/preview/previewImage-${id}.jpeg`
+                            let command = `ffmpeg -i "${format.url}"  -r 1 -t 1 -ss  00:02:${random} ../../images/preview/previewImage-${id}.jpeg`
                             
                             exec(command, { "shell": "/bin/zsh" }, function (error, done) {
                                 if (error) {
