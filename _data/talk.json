@@ -360,12 +360,12 @@
   },
   {
     "conferenceId" : "f8a323d62da74bcca7656a188235b249",
-    "details" : null,
+    "details" : "",
     "id" : "57120883-6fc3-4259-84c5-040fbb73875c",
     "source" : "youtube",
     "speakerId" : "871fb000-15b5-4499-af48-f990538f272e",
     "tags" : [
-
+      "Easter eggs"
     ],
     "title" : "An Illustrated History of Easter Eggs",
     "url" : null,
@@ -519,12 +519,12 @@
   },
   {
     "conferenceId" : "f8a323d62da74bcca7656a188235b249",
-    "details" : null,
+    "details" : "",
     "id" : "f1fba20c-f550-4ed9-b30c-137e4f8b0f31",
     "source" : "youtube",
     "speakerId" : "6952af2a-e1dd-4c09-a28e-49c9c5de012a",
     "tags" : [
-
+      "Accessibility"
     ],
     "title" : "Auditing your App with the Accessibility Inspector",
     "url" : null,
@@ -2231,12 +2231,12 @@
   },
   {
     "conferenceId" : "f8a323d62da74bcca7656a188235b249",
-    "details" : null,
+    "details" : "",
     "id" : "181987a4-c533-46d1-ba23-76fa0a272016",
     "source" : "youtube",
     "speakerId" : "4c53f3d9-7fc1-4d0c-99fc-01e8f3be4181",
     "tags" : [
-
+      "Swift"
     ],
     "title" : "High Performance Systems in Swift",
     "url" : null,
@@ -5626,12 +5626,12 @@
   },
   {
     "conferenceId" : "f8a323d62da74bcca7656a188235b249",
-    "details" : null,
+    "details" : "",
     "id" : "5c76cab8-1856-4c6d-a165-db684b3cfdac",
     "source" : "youtube",
     "speakerId" : "2c11f28a18c1732942490658acaadb1016330e73",
     "tags" : [
-
+      "Swift Package Manager"
     ],
     "title" : "Thinking Outside the Box with Swift Package Manager",
     "url" : null,
@@ -6320,7 +6320,7 @@
     "source" : "youtube",
     "speakerId" : "6342bbc7b41fbe9d1eb8530c077045ac96e0b346",
     "tags" : [
-
+      "Generics"
     ],
     "title" : "Gentle Generics",
     "url" : null,
