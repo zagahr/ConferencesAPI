@@ -27,12 +27,13 @@
   },
   {
     "conferenceId" : "d5e2a39ddfd8d89c3d566fb5350082f89bfbe165",
-    "details" : "10 Things you Need to Know before Implementing Cryptography\n(Before we get deep into protocols vulnerabilities: things you should remember designing your app flow from a security point of view.) This talk will focus on copybook headings of infosec: what you need to know before exciting stuff like cryptography and AI-assisted incident detection. Like, choice of data you show in the background mode, choice of 3rd party SDKs, which logs we send and where? Even when developers create apps with security in minds, protect user secrets, and don?t reveal unencrypted data, attackers can find ways to bypass these security measures by exploiting architectural weaknesses and unobvious, yet very simple vulnerabilities. We will talk about all the tiny bits and pieces are necessary to make your app secure against simple attacks way before focusing on the hard things (like crypto).",
+    "details" : "10 Things you Need to Know before Implementing Cryptography (Before we get deep into protocols vulnerabilities: things you should remember designing your app flow from a security point of view.) This talk will focus on copybook headings of infosec: what you need to know before exciting stuff like cryptography and AI-assisted incident detection. Like, choice of data you show in the background mode, choice of 3rd party SDKs, which logs we send and where? Even when developers create apps with security in minds, protect user secrets, and don?t reveal unencrypted data, attackers can find ways to bypass these security measures by exploiting architectural weaknesses and unobvious, yet very simple vulnerabilities. We will talk about all the tiny bits and pieces are necessary to make your app secure against simple attacks way before focusing on the hard things (like crypto).",
     "id" : "09abe563747a4675941f75e8c27b5a83",
     "source" : "youtube",
     "speakerId" : "b75e1de86d1c48a1442285be1e8739a3190776e2",
     "tags" : [
-      "UIKonf 2018"
+      "UIKonf 2018",
+      "Cryptography"
     ],
     "title" : "10 Things you Need to Know before Implementing Cryptography",
     "url" : "https://www.youtube.com/watch?v=_fKR-KZ4yJQ",
@@ -233,7 +234,7 @@
     "tags" : [
       "App Builders 2018"
     ],
-    "title" : "Advanced Debugging Techniques your senior hasn?t told you about",
+    "title" : "Advanced Debugging Techniques your senior hasn’t told you about",
     "url" : "https://www.youtube.com/watch?v=LbAlIzxSO6M",
     "videoId" : "LbAlIzxSO6M"
   },
@@ -354,7 +355,7 @@
     "tags" : [
       "UIKonf 2018"
     ],
-    "title" : "An Engineer?s Code of Ethics",
+    "title" : "An Engineer’s Code of Ethics",
     "url" : "https://www.youtube.com/watch?v=e5qPfXfObnI",
     "videoId" : "e5qPfXfObnI"
   },
@@ -413,12 +414,12 @@
   },
   {
     "conferenceId" : "c727a3ebfed4465ebe25a87c6b323ea2",
-    "details" : null,
+    "details" : "",
     "id" : "64cc6525-7099-4c6d-b9f4-af7ad92522f0",
     "source" : "youtube",
     "speakerId" : "7bc2abdcc08d5ca533bb0cf0c4f0f11fa447f8b4",
     "tags" : [
-
+      "SwiftUI"
     ],
     "title" : "Animations with SwiftUI - Chris Eidhof",
     "url" : null,
@@ -473,7 +474,7 @@
     "tags" : [
       "App Dev Con 2018"
     ],
-    "title" : "Applicatives ? The Forgotten Middle Child",
+    "title" : "Applicatives - The Forgotten Middle Child",
     "url" : "https://vimeo.com/269275064",
     "videoId" : "269275064"
   },
@@ -1081,14 +1082,14 @@
   },
   {
     "conferenceId" : "aff52e1e047c34e15ca69639a7c65eb00143756e",
-    "details" : "Code reviews are essential for maintaining code quality and helping developers sharpen their coding skills. However, code reviews are also difficult to get right. Many code review comments end up being unclear, trivial, or condescending.\n\nWith compassion as a guideline, though, we can work to establish code review practices that minimize suffering for everyone involved?the code authors, the code reviewers, the code maintainers, and even the end users.\n\nIn this talk, you?ll learn that Compassionate Code Reviews are not about ?sugarcoating? feedback and actually demand a considerable degree of candor. Equipped with a set of guidelines for executing Compassionate Code Reviews, you?ll leave inspired to apply them on your team to create better code and happier coders.",
+    "details" : "Code reviews are essential for maintaining code quality and helping developers sharpen their coding skills. However, code reviews are also difficult to get right. Many code review comments end up being unclear, trivial, or condescending.  With compassion as a guideline, though, we can work to establish code review practices that minimize suffering for everyone involved?the code authors, the code reviewers, the code maintainers, and even the end users.  In this talk, you?ll learn that Compassionate Code Reviews are not about ?sugarcoating? feedback and actually demand a considerable degree of candor. Equipped with a set of guidelines for executing Compassionate Code Reviews, you?ll leave inspired to apply them on your team to create better code and happier coders.",
     "id" : "3d7ae1204d9f44f09e69f49d3d5fbada",
     "source" : "youtube",
     "speakerId" : "3b745cbef8d21ad05b0a5d70956d667cc61bbb92",
     "tags" : [
       "try! Swift NYC 2018"
     ],
-    "title" : "Compassionate?Yet Candid?Code Reviews",
+    "title" : "Compassionate? Yet Candid? Code Reviews",
     "url" : "https://www.youtube.com/watch?v=Ea8EiIPZvh0",
     "videoId" : "Ea8EiIPZvh0"
   },
@@ -1125,7 +1126,7 @@
     "source" : "youtube",
     "speakerId" : "ae371ca1df88d8310db7b810908da36f6da650d2",
     "tags" : [
-
+      "Kotlin"
     ],
     "title" : "Computer Says No - Static Analysis and CI in a Kotlin Word - Sebastiano Poggi",
     "url" : "",
@@ -1285,7 +1286,8 @@
     "source" : "youtube",
     "speakerId" : "92c7cb19cb9454b26a4183f38a226851ee35e961",
     "tags" : [
-      "Swift Heroes 2018"
+      "Swift Heroes 2018",
+      "Debugging"
     ],
     "title" : "Debug like a Pro",
     "url" : "https://www.youtube.com/watch?v=RKEh640oFPM",
@@ -1551,7 +1553,7 @@
     "tags" : [
       "NSLondon 2018"
     ],
-    "title" : "Dynamic UITableViews: do?s and don?ts",
+    "title" : "Dynamic UITableViews: do’s and don’ts",
     "url" : "https://vimeo.com/307415518",
     "videoId" : "307415518"
   },
@@ -1977,6 +1979,19 @@
     "videoId" : "Urt1VJShbL4"
   },
   {
+    "conferenceId" : "f8a323d62da74bcca7656a188235b249",
+    "details" : "Generics are incredibly powerful, but can also quickly make a code base more complicated and harder to understand. In my second opening keynote, I wanted to address that, and talk about how I deploy generics in a more gentle fashion.",
+    "id" : "cac91a75-8c68-4780-b04f-bfdfdaddf047",
+    "source" : "youtube",
+    "speakerId" : "6342bbc7b41fbe9d1eb8530c077045ac96e0b346",
+    "tags" : [
+      "Generics"
+    ],
+    "title" : "Gentle Generics",
+    "url" : null,
+    "videoId" : "y4qFRLp_JNM"
+  },
+  {
     "conferenceId" : "8395a77ed001c03048eafe03b5c7b77e907d382d",
     "details" : "",
     "id" : "98dc879c71e9477399602ee7b76c107b",
@@ -2394,7 +2409,7 @@
     "source" : "youtube",
     "speakerId" : "4bea9a2dfab6fbcdea1f4d64c1871232c61323c8",
     "tags" : [
-
+      "Core Animation"
     ],
     "title" : "How to Tame Core Animation",
     "url" : "",
@@ -4662,6 +4677,19 @@
     "videoId" : "c-LAJKqyBCI"
   },
   {
+    "conferenceId" : "b238b707926f4c81a4d1f65759156f0d",
+    "details" : "",
+    "id" : "ae01f47b-4b91-4808-8a01-36d5f969ce48",
+    "source" : "youtube",
+    "speakerId" : null,
+    "tags" : [
+      ""
+    ],
+    "title" : "Swift Design Patterns as Jane Austen Heroes",
+    "url" : null,
+    "videoId" : "-gjtLq1QjZ8"
+  },
+  {
     "conferenceId" : "7d42590189bf80ba935d9a45b2061d24b381538f",
     "details" : "The Swift generics system is extremely powerful. Protocols with associated types are everywhere and allow us to abstract over types with hidden type information. But they come with their complexity tax. Join David Hart in a journey through Swift's generics to better understand PATs, discover ways to overcome them, and how future Swift might resolve most of those issues.",
     "id" : "026ac760efa34e6aaabb50b6052e369c",
@@ -4676,29 +4704,16 @@
   },
   {
     "conferenceId" : "f8a323d62da74bcca7656a188235b249",
-    "details" : null,
+    "details" : "",
     "id" : "3a1d7a44-3380-4f65-ae42-42d4059882a7",
     "source" : "youtube",
-    "speakerId" : "0009e20d35678961fcff50600a3f7b10ce129024",
+    "speakerId" : "9dc8ebb477cd71a6aea38f6b99586c253e2ff8bf",
     "tags" : [
-
+      ""
     ],
     "title" : "Swift Hardware Hacking",
     "url" : null,
     "videoId" : "rNWWqtm-tTk"
-  },
-  {
-    "conferenceId" : "888276fd2d9540af877cfb6c3ed078e8",
-    "details" : null,
-    "id" : "faac3ec0-ad8f-4793-b317-c2346876e2c5",
-    "source" : "youtube",
-    "speakerId" : null,
-    "tags" : [
-
-    ],
-    "title" : "Swift Hardware Hacking",
-    "url" : null,
-    "videoId" : "b9EVb0jEt8E"
   },
   {
     "conferenceId" : "aff52e1e047c34e15ca69639a7c65eb00143756e",
@@ -4950,12 +4965,12 @@
   },
   {
     "conferenceId" : "7fc9e26d957641a6b949bdf55615ab3e",
-    "details" : null,
+    "details" : "",
     "id" : "c2f0725e-1a62-4cbe-99de-6d4ce53ebe5d",
     "source" : "youtube",
-    "speakerId" : "0009e20d35678961fcff50600a3f7b10ce129024",
+    "speakerId" : "9dc8ebb477cd71a6aea38f6b99586c253e2ff8bf",
     "tags" : [
-
+      ""
     ],
     "title" : "Swift to Hack Hardware",
     "url" : null,
@@ -5002,25 +5017,25 @@
   },
   {
     "conferenceId" : "c727a3ebfed4465ebe25a87c6b323ea2",
-    "details" : null,
+    "details" : "",
     "id" : "2711021f-0ac4-4c63-b38b-83976331070d",
     "source" : "youtube",
     "speakerId" : "bf42229f-6c34-4a4e-9882-99486429cefd",
     "tags" : [
-
+      ""
     ],
-    "title" : "SwiftPM's New Resolver: Can it resolve the conflicts in my relationship? - Mert Buran",
+    "title" : "SwiftPM's New Resolver: Can it resolve the conflicts in my relationship?",
     "url" : null,
     "videoId" : "kmOkbj_64KY"
   },
   {
     "conferenceId" : "c727a3ebfed4465ebe25a87c6b323ea2",
-    "details" : null,
+    "details" : "",
     "id" : "e42bcafa-4d36-42d9-8de6-05e4e177bb4c",
     "source" : "youtube",
     "speakerId" : "fe70f01d8e6c83931d24129288887e59f2607dc6",
     "tags" : [
-
+      "SwiftUI"
     ],
     "title" : "SwiftUI & Combine - Daniel Steinberg",
     "url" : null,
@@ -5028,12 +5043,12 @@
   },
   {
     "conferenceId" : "c727a3ebfed4465ebe25a87c6b323ea2",
-    "details" : null,
+    "details" : "",
     "id" : "3b164589-3da6-4fea-a65f-fd46c24bf2e2",
     "source" : "youtube",
     "speakerId" : "7ff233cc-8a25-4186-91f8-674957997521",
     "tags" : [
-
+      "SwiftUI"
     ],
     "title" : "SwiftUI & Redux - Thomas Ricouard",
     "url" : null,
@@ -5041,12 +5056,12 @@
   },
   {
     "conferenceId" : "b238b707926f4c81a4d1f65759156f0d",
-    "details" : null,
+    "details" : "",
     "id" : "d0c56dcb-b227-4922-a7e8-1539014d7096",
     "source" : "youtube",
     "speakerId" : null,
     "tags" : [
-
+      "SwiftUI"
     ],
     "title" : "SwiftUI for Production",
     "url" : null,
@@ -5054,12 +5069,12 @@
   },
   {
     "conferenceId" : "b238b707926f4c81a4d1f65759156f0d",
-    "details" : null,
+    "details" : "",
     "id" : "0af807cd-79a6-40ea-a1a9-a05f67a383a3",
     "source" : "youtube",
     "speakerId" : null,
     "tags" : [
-
+      "SwiftUI"
     ],
     "title" : "SwiftUI in 25 Minutes",
     "url" : null,
@@ -5438,12 +5453,12 @@
   },
   {
     "conferenceId" : "f8a323d62da74bcca7656a188235b249",
-    "details" : null,
+    "details" : "",
     "id" : "59073345-94d4-47af-9307-fac514211c6f",
     "source" : "youtube",
     "speakerId" : "ab4571efaa89af24c920a29fe900019231a40485",
     "tags" : [
-
+      "SwiftUI"
     ],
     "title" : "The Swift Behind SwiftUI",
     "url" : null,
@@ -5524,7 +5539,7 @@
     "tags" : [
       "UIKonf 2018"
     ],
-    "title" : "The code you don?t have to write",
+    "title" : "The code you don’t have to write",
     "url" : "https://www.youtube.com/watch?v=1r7r-mqaSuI",
     "videoId" : "1r7r-mqaSuI"
   },
@@ -5978,7 +5993,7 @@
     "tags" : [
       "Teki Con 2018"
     ],
-    "title" : "We?re Doing It Wrong",
+    "title" : "We’re Doing It Wrong",
     "url" : "https://www.youtube.com/watch?v=KHzN2wfvMEI",
     "videoId" : "KHzN2wfvMEI"
   },
@@ -6192,7 +6207,7 @@
     "tags" : [
       "Teki Con 2018"
     ],
-    "title" : "Zeno?s Paradoxes",
+    "title" : "Zeno’s Paradoxes",
     "url" : "https://www.youtube.com/watch?v=54NWgXTrtUQ",
     "videoId" : "54NWgXTrtUQ"
   },
@@ -6288,19 +6303,6 @@
     "videoId" : "TYOramNrprQ"
   },
   {
-    "conferenceId" : "b238b707926f4c81a4d1f65759156f0d",
-    "details" : null,
-    "id" : "ae01f47b-4b91-4808-8a01-36d5f969ce48",
-    "source" : "youtube",
-    "speakerId" : null,
-    "tags" : [
-
-    ],
-    "title" : "try! Swift NCY 2019 - Truths Universally Acknowledged - Swift Design Patterns as Jane Austen Heroes",
-    "url" : null,
-    "videoId" : "-gjtLq1QjZ8"
-  },
-  {
     "conferenceId" : "888276fd2d9540af877cfb6c3ed078e8",
     "details" : null,
     "id" : "b2d4fdb0-cbe3-4e46-9544-6482cd6670dd",
@@ -6314,16 +6316,16 @@
     "videoId" : "bMMWf-Dr7kY"
   },
   {
-    "conferenceId" : "f8a323d62da74bcca7656a188235b249",
-    "details" : "Generics are incredibly powerful, but can also quickly make a code base more complicated and harder to understand. In my second opening keynote, I wanted to address that, and talk about how I deploy generics in a more gentle fashion.",
-    "id" : "cac91a75-8c68-4780-b04f-bfdfdaddf047",
+    "conferenceId" : "888276fd2d9540af877cfb6c3ed078e8",
+    "details" : "",
+    "id" : "faac3ec0-ad8f-4793-b317-c2346876e2c5",
     "source" : "youtube",
-    "speakerId" : "6342bbc7b41fbe9d1eb8530c077045ac96e0b346",
+    "speakerId" : "9dc8ebb477cd71a6aea38f6b99586c253e2ff8bf",
     "tags" : [
-      "Generics"
+      ""
     ],
-    "title" : "Gentle Generics",
+    "title" : "Swift Hardware Hacking",
     "url" : null,
-    "videoId" : "y4qFRLp_JNM"
+    "videoId" : "b9EVb0jEt8E"
   }
 ]
