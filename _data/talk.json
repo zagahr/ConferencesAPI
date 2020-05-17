@@ -4704,16 +4704,29 @@
   },
   {
     "conferenceId" : "f8a323d62da74bcca7656a188235b249",
-    "details" : "",
+    "details" : "In this talk, we’ll explore how to use Swift to hack hardware. We’ll look at expanding the functionality of a cat coin bank (the one where you place a coin on top and cat pulls it into the coin bank) using a micro-controller and various sensors.  We will:     - Count money as it is deposited     - Speak out the deposited amount/total balance     - Connect to a phone via Bluetooth LE to send information between devices The purpose of this talk is to understand how to get started working with Swift and hardware, it will provide enough of a foundation so you can try projects on your own.",
     "id" : "3a1d7a44-3380-4f65-ae42-42d4059882a7",
     "source" : "youtube",
     "speakerId" : "9dc8ebb477cd71a6aea38f6b99586c253e2ff8bf",
     "tags" : [
-      ""
+      "Hardware"
     ],
     "title" : "Swift Hardware Hacking",
     "url" : null,
     "videoId" : "rNWWqtm-tTk"
+  },
+  {
+    "conferenceId" : "888276fd2d9540af877cfb6c3ed078e8",
+    "details" : "In this talk, we’ll explore how to use Swift to hack hardware. We’ll look at expanding the functionality of a cat coin bank (the one where you place a coin on top and cat pulls it into the coin bank) using a micro-controller and various sensors.  We will:     - Count money as it is deposited     - Speak out the deposited amount/total balance     - Connect to a phone via Bluetooth LE to send information between devices The purpose of this talk is to understand how to get started working with Swift and hardware, it will provide enough of a foundation so you can try projects on your own.",
+    "id" : "faac3ec0-ad8f-4793-b317-c2346876e2c5",
+    "source" : "youtube",
+    "speakerId" : "9dc8ebb477cd71a6aea38f6b99586c253e2ff8bf",
+    "tags" : [
+      "Hardware"
+    ],
+    "title" : "Swift Hardware Hacking",
+    "url" : null,
+    "videoId" : "b9EVb0jEt8E"
   },
   {
     "conferenceId" : "aff52e1e047c34e15ca69639a7c65eb00143756e",
@@ -4962,19 +4975,6 @@
     "title" : "Swift scripting in practice",
     "url" : "https://www.youtube.com/watch?v=PFdh5G3BJqM",
     "videoId" : "PFdh5G3BJqM"
-  },
-  {
-    "conferenceId" : "7fc9e26d957641a6b949bdf55615ab3e",
-    "details" : "",
-    "id" : "c2f0725e-1a62-4cbe-99de-6d4ce53ebe5d",
-    "source" : "youtube",
-    "speakerId" : "9dc8ebb477cd71a6aea38f6b99586c253e2ff8bf",
-    "tags" : [
-      ""
-    ],
-    "title" : "Swift to Hack Hardware",
-    "url" : null,
-    "videoId" : "_LlNHWl7fqY"
   },
   {
     "conferenceId" : "888276fd2d9540af877cfb6c3ed078e8",
@@ -6316,16 +6316,16 @@
     "videoId" : "bMMWf-Dr7kY"
   },
   {
-    "conferenceId" : "888276fd2d9540af877cfb6c3ed078e8",
-    "details" : "",
-    "id" : "faac3ec0-ad8f-4793-b317-c2346876e2c5",
+    "conferenceId" : "7fc9e26d957641a6b949bdf55615ab3e",
+    "details" : "In this talk, we’ll explore how to use Swift to hack hardware. We’ll look at expanding the functionality of a cat coin bank (the one where you place a coin on top and cat pulls it into the coin bank) using a micro-controller and various sensors.  We will:     - Count money as it is deposited     - Speak out the deposited amount/total balance     - Connect to a phone via Bluetooth LE to send information between devices The purpose of this talk is to understand how to get started working with Swift and hardware, it will provide enough of a foundation so you can try projects on your own.",
+    "id" : "c2f0725e-1a62-4cbe-99de-6d4ce53ebe5d",
     "source" : "youtube",
     "speakerId" : "9dc8ebb477cd71a6aea38f6b99586c253e2ff8bf",
     "tags" : [
-      ""
+      "Hardware"
     ],
-    "title" : "Swift Hardware Hacking",
+    "title" : "Swift to Hack Hardware",
     "url" : null,
-    "videoId" : "b9EVb0jEt8E"
+    "videoId" : "_LlNHWl7fqY"
   }
 ]
