@@ -293,20 +293,6 @@
     "videoId" : "2d6_vOfwnDk"
   },
   {
-    "conferenceId" : "2c6b06bdb9fe0512e00a5e2254303ab11827a7f5",
-    "details" : "Immutable models are the here, everyone understands their benefits and are actively promoting it. Swift is great for it. But are we correctly representing our data with it? In this talk Heng Hong will walk through simple but effective steps to use algebraic data types to accurately represent data and reduce code complexity.",
-    "id" : "b0fddf2b6508d3e5bb5f6a4a27b6b93c385adc4f",
-    "source" : "youtube",
-    "speakerId" : "5ff717dde8c92830749d1a411d780a0a930ca684",
-    "tags" : [
-      "iOS Conf SG 2019",
-      "Data Types"
-    ],
-    "title" : "Algebraic Data Types in Swift",
-    "url" : "https://www.youtube.com/watch?v=2d6_vOfwnDk",
-    "videoId" : "2d6_vOfwnDk"
-  },
-  {
     "conferenceId" : "888276fd2d9540af877cfb6c3ed078e8",
     "details" : null,
     "id" : "6d943133-7421-4011-99bc-e74235e531cb",
@@ -546,20 +532,6 @@
     "videoId" : "Q91z42kTJFM"
   },
   {
-    "conferenceId" : "2c6b06bdb9fe0512e00a5e2254303ab11827a7f5",
-    "details" : "Christian has developed numerous Augmented and Virtual Reality apps for Enterprise scenarios for example to visualize big data in 3D and make data tangible. In this talk Christian will develop during the talk an Augmented Reality game based on Apples ARKit. The scenario is based in a galaxy far, far away. During the talk he will also describe how Augmented Reality works today and what the current limitations are. He will finish the talk with an outlook of what he expects to happen in the industry in the next years and what we can expect from future Augmented Reality technologies.",
-    "id" : "1de6324d9a09851bf285a1466dcc1310e6c7eb72",
-    "source" : "youtube",
-    "speakerId" : "93fcccc2e2edac2cace409bf7fb40ccb222816cf",
-    "tags" : [
-      "iOS Conf SG 2019",
-      "ARKit"
-    ],
-    "title" : "Augmented Reality Game with ARKit",
-    "url" : "https://www.youtube.com/watch?v=Q91z42kTJFM",
-    "videoId" : "Q91z42kTJFM"
-  },
-  {
     "conferenceId" : "ecb8994ddb42981ba1bb6a981b663428c596bb3a",
     "details" : "Over the last couple of years there?s been significant advancement in the technology of Augmented Reality (AR), allowing it to become the next big thing in human-computer interaction.\n\nGiants like Apple and Google have now created their own AR frameworks and released them to developers, providing the foundations of this technology, allowing us to easily innovate and solve problems with it..\n\nIn this talk, we will go over the fundamentals of building an AR app, both with using Google?s ARCore and Apple?s ARKit, as well as some basic guidelines on designing accurate and realistic 3D objects, which will augment our real world.\n\nThe session will include a demo app with ARKit and ARCore to showcase how AR translates into code, as well as using 3D design software to create models, set up the scene with lights and shadows, and even animations.",
     "id" : "c316052226c04cd79923648ad6ebf55c",
@@ -633,20 +605,6 @@
     "id" : "4b6084d821ed456fbef129a063889c0b",
     "source" : "youtube",
     "speakerId" : "f8150e4b3d03d4175458a0c996232af24fff4ae3",
-    "tags" : [
-      "iOS Conf SG 2019",
-      "Auto Layout"
-    ],
-    "title" : "Behind the Scenes with Auto Layout",
-    "url" : "https://www.youtube.com/watch?v=gxfyb3ipUFg",
-    "videoId" : "gxfyb3ipUFg"
-  },
-  {
-    "conferenceId" : "2c6b06bdb9fe0512e00a5e2254303ab11827a7f5",
-    "details" : "Auto Layout is the most powerful tool on iOS today, to support developers in creating adaptive user interfaces on iOS. The power of this great technology lies in how simple its foundations are. The engineers behind Auto Layout at Apple started to reveal more of the internals of their technology recently, to help us understand its principles better, in order to get the best performance out of our layout code.Let?s look more closely at how the Auto Layout engine solves constraints through exploring the Cassowary algorithm, that?s running under the hood, turning constraints into linear equations, and solving them. By doing the math ourselves, we?ll have a better understanding of what layouts are easier, or more difficult to satisfy. What coding practices can help us achieve best Auto Layout performance.",
-    "id" : "c4441819efa77a32120c57fceda8aacedd5ec789",
-    "source" : "youtube",
-    "speakerId" : "4b120c4ee8934f203a45d2d98336ea4a4d8a182c",
     "tags" : [
       "iOS Conf SG 2019",
       "Auto Layout"
@@ -965,20 +923,6 @@
     "id" : "f5fa22d17c644431814aaa2110f380ea",
     "source" : "youtube",
     "speakerId" : "9d9eba6908e2bd3a4f4d72f063e6839fcd794137",
-    "tags" : [
-      "iOS Conf SG 2019",
-      "Xcode"
-    ],
-    "title" : "Building iOS Apps without Xcode",
-    "url" : "https://www.youtube.com/watch?v=JRsWi8KC2Sw",
-    "videoId" : "JRsWi8KC2Sw"
-  },
-  {
-    "conferenceId" : "2c6b06bdb9fe0512e00a5e2254303ab11827a7f5",
-    "details" : "What do Uber, Facebook, and Airbnb all have in common?They use the Buck build system to manage millions of lines of code, across hundreds of iOS engineers, building many iOS apps.In this talk, Steven will share how Buck can make builds faster (smartly optimizing build hierarchies), consistent (hermetic build descriptions), and efficient (caching everything on the server except what code has changed locally).",
-    "id" : "4f31c5aa3aa52b0438eb466ac4a189492d8a2e16",
-    "source" : "youtube",
-    "speakerId" : "5918a0bd4414df28499dc1bed5642e8cd2488096",
     "tags" : [
       "iOS Conf SG 2019",
       "Xcode"
@@ -1798,19 +1742,6 @@
     "conferenceId" : "eb25aa60dd74fd42a7f8010212d5ab7c833dcbd6",
     "details" : "iOS Developers are often afraid of the filesystem partly because we?ve been raised in an era of short-lived processes, JSON-driven user interfaces, and always-on cellular data connections. I intend to show that using Foundation API, its easy to use the filesystem to power lightweight view controllers, animated tableview updates, interprocess communication, and syncing without resorting to heavyweight solutions like Core Data and Realm.",
     "id" : "6e2646c287974d85b9ea177c6fef8984",
-    "source" : "youtube",
-    "speakerId" : "0917803978375145bdd5bf603aa0542a046f14a8",
-    "tags" : [
-      "iOS Conf SG 2019"
-    ],
-    "title" : "Fear not, for the filesystem is with you",
-    "url" : "https://www.youtube.com/watch?v=X9wyuht5BLs",
-    "videoId" : "X9wyuht5BLs"
-  },
-  {
-    "conferenceId" : "2c6b06bdb9fe0512e00a5e2254303ab11827a7f5",
-    "details" : "iOS Developers are often afraid of the filesystem partly because we?ve been raised in an era of short-lived processes, JSON-driven user interfaces, and always-on cellular data connections. I intend to show that using Foundation API, its easy to use the filesystem to power lightweight view controllers, animated tableview updates, interprocess communication, and syncing without resorting to heavyweight solutions like Core Data and Realm.",
-    "id" : "93e1b3ad8f2d0e101755f30bf262146b396aa5f9",
     "source" : "youtube",
     "speakerId" : "0917803978375145bdd5bf603aa0542a046f14a8",
     "tags" : [
@@ -2893,20 +2824,6 @@
     "videoId" : "_g1mqG5tA0s"
   },
   {
-    "conferenceId" : "2c6b06bdb9fe0512e00a5e2254303ab11827a7f5",
-    "details" : "In this talk, Oscar will share what his experience has been in the transition from being an app developer to become an SDK developer at PSPDFKit: what it has taught him, the challenges he has faced, and how it made him a better engineer. He will outline some simple tips and tricks from the SDK developer perspective that can help any iOS developer, even if they?re not developing an SDK themselves.",
-    "id" : "be1e15d43d70b7ca0ea064f796b4f958732f9c51",
-    "source" : "youtube",
-    "speakerId" : "b241312a736583db57aecf36ee23c2fb9a3fff02",
-    "tags" : [
-      "iOS Conf SG 2019",
-      "SDK"
-    ],
-    "title" : "Lessons From Becoming an SDK Developer",
-    "url" : "https://www.youtube.com/watch?v=_g1mqG5tA0s",
-    "videoId" : "_g1mqG5tA0s"
-  },
-  {
     "conferenceId" : "7d42590189bf80ba935d9a45b2061d24b381538f",
     "details" : "A discussion about why App Stores have guidelines, how apps are reviewed, what reviewers are looking for, and what the common mistakes are. In this talk, I will give you tips and tricks necessary to avoid problems on the App Store and Google Play.",
     "id" : "559f6633e7194db4b26cec4112b3edb5",
@@ -3079,20 +2996,6 @@
     "videoId" : "9JMVszZfFwk"
   },
   {
-    "conferenceId" : "2c6b06bdb9fe0512e00a5e2254303ab11827a7f5",
-    "details" : "'If I don't have control over my environment dependencies, how can I test all edge cases?'End to end UITests are generally difficult to cover comprehensively. Complement your existing tests with localhost UI Tests. Kenneth Poon will share why and how you should write localhost UITest with just 4 simple steps.",
-    "id" : "022c995f678c0a7ba7425e335542bb91b22ae46f",
-    "source" : "youtube",
-    "speakerId" : "5724c0aa507cf054cf9154f3ad8ddaf2d0cd984a",
-    "tags" : [
-      "iOS Conf SG 2019",
-      "UITest"
-    ],
-    "title" : "Make UITest great again, using localhost",
-    "url" : "https://www.youtube.com/watch?v=9JMVszZfFwk",
-    "videoId" : "9JMVszZfFwk"
-  },
-  {
     "conferenceId" : "aff52e1e047c34e15ca69639a7c65eb00143756e",
     "details" : "It has been three years since Swift was first introduced. Yet there are still missing features and unfixed bugs. The good news is that Swift is open source and we, the community have the power to fix it. In this talk, I?ll discuss how to pitch an idea in Swift Forums, submit a Proposal, and how to build, test and benchmark Swift using the example of Dictionary.compactMapValues that I proposed and got merged for Swift 5.",
     "id" : "8413ecaaece4476f9a2a15c4192d2965",
@@ -3111,20 +3014,6 @@
     "id" : "4eb0a10912d24b6ead3756757ee8cc61",
     "source" : "youtube",
     "speakerId" : "de6952ef349e11e93ba05fb83af9c4e297249039",
-    "tags" : [
-      "iOS Conf SG 2019",
-      "Swift"
-    ],
-    "title" : "Make your own code formatter in Swift",
-    "url" : "https://www.youtube.com/watch?v=_F9KcXSLc_s",
-    "videoId" : "_F9KcXSLc_s"
-  },
-  {
-    "conferenceId" : "2c6b06bdb9fe0512e00a5e2254303ab11827a7f5",
-    "details" : "Code formatter is one of the most important tool to write a beautiful Swift code. If you are working with the team, 'code consistency' is always a problem, and your team's guideline and code review can probably ease a little. Since Xcode doesn't fully fix our problems, now it's a time to make our own automatic style-rule! In this talk, we will look into how Swift language forms a formal grammar and AST, how it can be parsed, and we will see the power of SwiftSyntax and it's structured editing that everyone can practice.",
-    "id" : "c058b18c695ff63f3ee2ee8c27739af845224661",
-    "source" : "youtube",
-    "speakerId" : "5f0b72f1d38aba9654334a1cc1f2ea83159271b5",
     "tags" : [
       "iOS Conf SG 2019",
       "Swift"
@@ -3550,19 +3439,6 @@
     "id" : "87ba5ad870a94970a22aab4f4db14060",
     "source" : "youtube",
     "speakerId" : "dd6f5f24010842eec159404807a36659a3a60b8a",
-    "tags" : [
-      "iOS Conf SG 2019"
-    ],
-    "title" : "Pedal to the Metal",
-    "url" : "https://www.youtube.com/watch?v=fP5EGObW-NY",
-    "videoId" : "fP5EGObW-NY"
-  },
-  {
-    "conferenceId" : "2c6b06bdb9fe0512e00a5e2254303ab11827a7f5",
-    "details" : "Esteban will share how he and his team has improved the startup time for the iOS SoundCloud app. He will share the dozens of techniques they used and what worked best for them and what did not.",
-    "id" : "ff8d1a91a5f187ae376d0a581d9836ac7ee71f98",
-    "source" : "youtube",
-    "speakerId" : "21bcd25b72a42c8b53ee1a52a524eea219a5a004",
     "tags" : [
       "iOS Conf SG 2019"
     ],
@@ -4375,20 +4251,6 @@
     "id" : "ac4e4659b3b549ec840df2270929f210",
     "source" : "youtube",
     "speakerId" : "a83039128994637136319fef0df3bbd87dbc9e47",
-    "tags" : [
-      "iOS Conf SG 2019",
-      "Snowflake"
-    ],
-    "title" : "Snowflake ID",
-    "url" : "https://www.youtube.com/watch?v=RajJJnpTcf0",
-    "videoId" : "RajJJnpTcf0"
-  },
-  {
-    "conferenceId" : "2c6b06bdb9fe0512e00a5e2254303ab11827a7f5",
-    "details" : "",
-    "id" : "65194a1680078373079ae79d6cb3c2c351c0d97b",
-    "source" : "youtube",
-    "speakerId" : "94021ce630c9ebdbf1f4b5890c9f13710964fea5",
     "tags" : [
       "iOS Conf SG 2019",
       "Snowflake"
@@ -5231,19 +5093,6 @@
     "id" : "f3e1e8c4d3e74f85b13fdf60cbfe10bc",
     "source" : "youtube",
     "speakerId" : "af8c3a01b15ff5fd0684a6bb2da1b88b7f2fb1ba",
-    "tags" : [
-      "iOS Conf SG 2019"
-    ],
-    "title" : "The Art of Designing Code",
-    "url" : "https://www.youtube.com/watch?v=_qKlb7MbeKA",
-    "videoId" : "_qKlb7MbeKA"
-  },
-  {
-    "conferenceId" : "2c6b06bdb9fe0512e00a5e2254303ab11827a7f5",
-    "details" : "There are many similarities between ?designing user interfaces? and ?designing code.? Both are a means of communication: A user interface needs to communicate the app?s functionality to the user, code needs to express what it does to other developers. As a consequence, code also needs to be well designed, and developers can learn a lot from designers in that respect. The goal of this talk is to give developers the tools in their hand to write better code that?s easy to read and understand.",
-    "id" : "581e91f0deb1d1f7f399a40865852ad7c1fb6bba",
-    "source" : "youtube",
-    "speakerId" : "474ea377f8c31b400c10b49316a38d1a3619de08",
     "tags" : [
       "iOS Conf SG 2019"
     ],
