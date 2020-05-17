@@ -234,6 +234,15 @@
     "twitter" : "aprilwensel"
   },
   {
+    "about" : "",
+    "firstname" : "Arpad",
+    "github" : "",
+    "id" : "79dfb122620c590eb5d474839316e8c509d32b3e",
+    "image" : "https://pbs.twimg.com/profile_images/1018963366335930368/pJHIxquT_400x400.jpg",
+    "lastname" : "Goretity",
+    "twitter" : ""
+  },
+  {
     "about" : "I am a world-class software developer living in New York?s East Village. For five years, I was focused on iOS development, but now I do many things. I?m keenly interested in TypeScript, ReactNative, and GraphQL. I?m married, with two cats. After contributing to open source so much, it brainwashed me. I?ve written books and I?ve made photos and now I?m playing guitar.",
     "firstname" : "Ash",
     "github" : "ashfurrow",
@@ -558,13 +567,13 @@
     "twitter" : ""
   },
   {
-    "about" : null,
+    "about" : "Professional open source developer with a long background in building networking tools. Creator of @python-hyper, core developer of Swift NIO. Everywhere.",
     "firstname" : "Cory",
-    "github" : null,
+    "github" : "Lukasa",
     "id" : "4c53f3d9-7fc1-4d0c-99fc-01e8f3be4181",
-    "image" : null,
+    "image" : "https://avatars3.githubusercontent.com/u/1382556?s=460&u=ec0626bca59533ff690c024ed92b314b1594de52",
     "lastname" : "Benfield",
-    "twitter" : null
+    "twitter" : "lukasaoz"
   },
   {
     "about" : "Cristina Santamarina is a technology consultant working for the human side. She combines her role as a project manager for Doctors Without Borders and her work on conversational interfaces and digital transformation advocacy with The Neon Project.",
@@ -1143,13 +1152,13 @@
     "twitter" : "jamesdempsey"
   },
   {
-    "about" : null,
+    "about" : "Indie iOS / Mac developer, maker of the PCalc scientific calculator. Occasional writer, conference speaker, and podcast pundit.",
     "firstname" : "James",
-    "github" : null,
+    "github" : "",
     "id" : "871fb000-15b5-4499-af48-f990538f272e",
-    "image" : null,
+    "image" : "https://pbs.twimg.com/profile_images/1187416051178508289/d-8CDOzb_400x400.jpg",
     "lastname" : "Thomson",
-    "twitter" : null
+    "twitter" : "jamestomson"
   },
   {
     "about" : null,
@@ -1485,13 +1494,13 @@
     "twitter" : "kenmaz"
   },
   {
-    "about" : null,
+    "about" : "",
     "firstname" : "Kilo",
-    "github" : null,
+    "github" : "",
     "id" : "6952af2a-e1dd-4c09-a28e-49c9c5de012a",
-    "image" : null,
+    "image" : "https://pbs.twimg.com/profile_images/1062112273404125185/f7cy54uk_400x400.jpg",
     "lastname" : "Loco",
-    "twitter" : null
+    "twitter" : "kilo_loco "
   },
   {
     "about" : "Chief iOS Engineer @ne_sdk. Anti-enthusiasm enthusiast.",
@@ -2259,15 +2268,6 @@
     "twitter" : "marmelroy"
   },
   {
-    "about" : null,
-    "firstname" : "Sally",
-    "github" : "mostgood",
-    "id" : "9dc8ebb477cd71a6aea38f6b99586c253e2ff8bf",
-    "image" : "https://pbs.twimg.com/profile_images/933407342661701633/v0ELZaCb_400x400.jpg",
-    "lastname" : "Shepard",
-    "twitter" : "mostgood"
-  },
-  {
     "about" : "makes games & apps | 50% of @comboldn | code, pop-punk, live music, photography, motorbikes aaand @salmikawolf ? #BAFTACrew",
     "firstname" : "Sam",
     "github" : "",
@@ -2836,11 +2836,11 @@
   },
   {
     "about" : "",
-    "firstname" : "Arpad",
-    "github" : "",
-    "id" : "79dfb122620c590eb5d474839316e8c509d32b3e",
-    "image" : "https://pbs.twimg.com/profile_images/1018963366335930368/pJHIxquT_400x400.jpg",
-    "lastname" : "Goretity",
-    "twitter" : ""
+    "firstname" : "Sally",
+    "github" : "mostgood",
+    "id" : "9dc8ebb477cd71a6aea38f6b99586c253e2ff8bf",
+    "image" : "https://pbs.twimg.com/profile_images/1106289844584615938/RWOvR7N9_400x400.jpg",
+    "lastname" : "Shepard",
+    "twitter" : "mostgood"
   }
 ]
