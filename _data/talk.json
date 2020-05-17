@@ -828,12 +828,12 @@
   },
   {
     "conferenceId" : "888276fd2d9540af877cfb6c3ed078e8",
-    "details" : null,
+    "details" : "",
     "id" : "434575f1-2be5-4373-bfe8-e47a28ada2fe",
     "source" : "youtube",
-    "speakerId" : null,
+    "speakerId" : "27368a75af0b213bbd75a5887bc52cde4e85401a",
     "tags" : [
-
+      ""
     ],
     "title" : "Building a Mobile Design System",
     "url" : null,
@@ -841,12 +841,12 @@
   },
   {
     "conferenceId" : "888276fd2d9540af877cfb6c3ed078e8",
-    "details" : null,
+    "details" : "",
     "id" : "77d96754-220e-4c12-b9ef-08600d6f44cd",
     "source" : "youtube",
-    "speakerId" : null,
+    "speakerId" : "836fbcc3367d12af9eec1a6499b1659e99aa9c0f",
     "tags" : [
-
+      ""
     ],
     "title" : "Building a Social Network in Swift",
     "url" : null,
@@ -933,12 +933,12 @@
   },
   {
     "conferenceId" : "b238b707926f4c81a4d1f65759156f0d",
-    "details" : null,
+    "details" : "",
     "id" : "12bcd52b-812e-4e69-a7ae-f5ce6a8e07e6",
     "source" : "youtube",
-    "speakerId" : null,
+    "speakerId" : "836fbcc3367d12af9eec1a6499b1659e99aa9c0f",
     "tags" : [
-
+      ""
     ],
     "title" : "Building the Server-side Swift ecosystem",
     "url" : null,
@@ -1104,12 +1104,12 @@
   },
   {
     "conferenceId" : "888276fd2d9540af877cfb6c3ed078e8",
-    "details" : null,
+    "details" : "",
     "id" : "60eb3d74-a130-45d6-8b72-ce70a20658a0",
     "source" : "youtube",
-    "speakerId" : null,
+    "speakerId" : "9536dbed6f17ce9c5f21e88681cefcd6f158a6ba",
     "tags" : [
-
+      ""
     ],
     "title" : "Contributing to Swift Compiler",
     "url" : null,
@@ -2561,19 +2561,6 @@
   {
     "conferenceId" : "7fc9e26d957641a6b949bdf55615ab3e",
     "details" : null,
-    "id" : "c0e86a8d-bf60-4557-bd59-29967f4f70fc",
-    "source" : "youtube",
-    "speakerId" : "2d7cffcc890147f03b86c395931c7081c04c5db6",
-    "tags" : [
-
-    ],
-    "title" : "Inclusive and Accessible App Development",
-    "url" : null,
-    "videoId" : "M7GOoZMMrnY"
-  },
-  {
-    "conferenceId" : "7fc9e26d957641a6b949bdf55615ab3e",
-    "details" : null,
     "id" : "fd640685-fb5f-4dfc-8e9d-7e9084e58620",
     "source" : "youtube",
     "speakerId" : "150e0bd849015776bdbe5549e573e57c03bb04e8",
@@ -2652,12 +2639,12 @@
   },
   {
     "conferenceId" : "b238b707926f4c81a4d1f65759156f0d",
-    "details" : null,
+    "details" : "",
     "id" : "78152dde-15dd-4c67-86b4-71c5bcac9afe",
     "source" : "youtube",
-    "speakerId" : null,
+    "speakerId" : "973d92cfbb37bc1ba2972246f16817721abf587c",
     "tags" : [
-
+      ""
     ],
     "title" : "Introduction to AsyncHTTPClient",
     "url" : null,
@@ -4076,12 +4063,12 @@
   },
   {
     "conferenceId" : "888276fd2d9540af877cfb6c3ed078e8",
-    "details" : null,
+    "details" : "",
     "id" : "b8d86538-685d-4b51-b9cb-cfeff98963ac",
     "source" : "youtube",
-    "speakerId" : null,
+    "speakerId" : "e813a5f9db5d60271b767f4cb6d1fba9b0e7afcd",
     "tags" : [
-
+      ""
     ],
     "title" : "Shaping Sounds in Swift",
     "url" : null,
@@ -4656,19 +4643,6 @@
     "videoId" : "97jUwK0TK34"
   },
   {
-    "conferenceId" : "888276fd2d9540af877cfb6c3ed078e8",
-    "details" : null,
-    "id" : "d6a1a9d1-ad88-496e-999b-c18d97dc0fea",
-    "source" : "youtube",
-    "speakerId" : null,
-    "tags" : [
-
-    ],
-    "title" : "Swift Server Update",
-    "url" : null,
-    "videoId" : "ZefmzgLabCA"
-  },
-  {
     "conferenceId" : "aff52e1e047c34e15ca69639a7c65eb00143756e",
     "details" : "Chris and Ian will explore what it?s like to build REST APIs in Kitura 2, using the built-in support for OpenAPI. Quickly generate an iOS and Android client SDK to use in your app, and deploy your server-side Swift app to the cloud. We?ll also provide an update on Kitura development and what the future might hold.",
     "id" : "e1839daea22a4e669ce08eccf40f5efd",
@@ -4837,6 +4811,19 @@
     "title" : "Swift scripting in practice",
     "url" : "https://www.youtube.com/watch?v=PFdh5G3BJqM",
     "videoId" : "PFdh5G3BJqM"
+  },
+  {
+    "conferenceId" : "7fc9e26d957641a6b949bdf55615ab3e",
+    "details" : "In this talk, we’ll explore how to use Swift to hack hardware. We’ll look at expanding the functionality of a cat coin bank (the one where you place a coin on top and cat pulls it into the coin bank) using a micro-controller and various sensors.  We will:     - Count money as it is deposited     - Speak out the deposited amount/total balance     - Connect to a phone via Bluetooth LE to send information between devices The purpose of this talk is to understand how to get started working with Swift and hardware, it will provide enough of a foundation so you can try projects on your own.",
+    "id" : "c2f0725e-1a62-4cbe-99de-6d4ce53ebe5d",
+    "source" : "youtube",
+    "speakerId" : "9dc8ebb477cd71a6aea38f6b99586c253e2ff8bf",
+    "tags" : [
+      "Hardware"
+    ],
+    "title" : "Swift to Hack Hardware",
+    "url" : null,
+    "videoId" : "_LlNHWl7fqY"
   },
   {
     "conferenceId" : "888276fd2d9540af877cfb6c3ed078e8",
@@ -6165,16 +6152,16 @@
     "videoId" : "bMMWf-Dr7kY"
   },
   {
-    "conferenceId" : "7fc9e26d957641a6b949bdf55615ab3e",
-    "details" : "In this talk, we’ll explore how to use Swift to hack hardware. We’ll look at expanding the functionality of a cat coin bank (the one where you place a coin on top and cat pulls it into the coin bank) using a micro-controller and various sensors.  We will:     - Count money as it is deposited     - Speak out the deposited amount/total balance     - Connect to a phone via Bluetooth LE to send information between devices The purpose of this talk is to understand how to get started working with Swift and hardware, it will provide enough of a foundation so you can try projects on your own.",
-    "id" : "c2f0725e-1a62-4cbe-99de-6d4ce53ebe5d",
+    "conferenceId" : "888276fd2d9540af877cfb6c3ed078e8",
+    "details" : "",
+    "id" : "d6a1a9d1-ad88-496e-999b-c18d97dc0fea",
     "source" : "youtube",
-    "speakerId" : "9dc8ebb477cd71a6aea38f6b99586c253e2ff8bf",
+    "speakerId" : "973d92cfbb37bc1ba2972246f16817721abf587c",
     "tags" : [
-      "Hardware"
+      ""
     ],
-    "title" : "Swift to Hack Hardware",
+    "title" : "Swift Server Update",
     "url" : null,
-    "videoId" : "_LlNHWl7fqY"
+    "videoId" : "ZefmzgLabCA"
   }
 ]
