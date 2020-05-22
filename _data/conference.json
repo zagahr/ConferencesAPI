@@ -1,5 +1,15 @@
 [
     {
+        "id": "637910fbe56dafadf242418f949a994f07369048a",
+        "organisatorId": "37c5acc62fa66212860c64376fab7b07d0e543f4",
+        "name": "dotSwift 2020",
+        "url": "https://www.dotconferences.com/conference/dotswift-2018",
+        "location": "Paris, France",
+        "date": null,
+        "highlightColor": "FADF1D",
+        "about": "dotSwift is the European Swift Conference. We want to bring an unheard-of, TED-like level of quality to tech conferences. On stage, 8 of the most respected iOS and OS X developers will deliver their insights on Swift."
+    },
+    {
         "id": "f8a323d62da74bcca7656a188235b249",
         "organisatorId": "7a2aba0da64846a6b67fe764c64f9604",
         "name": "Hacking with Swift Live 2019",

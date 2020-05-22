@@ -2842,5 +2842,59 @@
     "image" : "https://pbs.twimg.com/profile_images/1106289844584615938/RWOvR7N9_400x400.jpg",
     "lastname" : "Shepard",
     "twitter" : "mostgood"
+  },
+  {
+    "about" : null,
+    "firstname" : "Devlin",
+    "github" : null,
+    "id" : "17916999-2f90-40b0-afdf-22ed53572df3",
+    "image" : null,
+    "lastname" : "Duldulao",
+    "twitter" : null
+  },
+  {
+    "about" : null,
+    "firstname" : "Donny",
+    "github" : null,
+    "id" : "cbba4281-5833-4891-9972-587176c53efe",
+    "image" : null,
+    "lastname" : "Wals",
+    "twitter" : null
+  },
+  {
+    "about" : null,
+    "firstname" : "Erica",
+    "github" : null,
+    "id" : "c836e840-6328-41af-9050-c2cf0ee1922c",
+    "image" : null,
+    "lastname" : "Sadun",
+    "twitter" : null
+  },
+  {
+    "about" : null,
+    "firstname" : "Ishmael",
+    "github" : null,
+    "id" : "411bfdfe-c190-4a9d-88fd-539e47967295",
+    "image" : null,
+    "lastname" : "Shabazz",
+    "twitter" : null
+  },
+  {
+    "about" : null,
+    "firstname" : "Pavel",
+    "github" : null,
+    "id" : "6dce27cc-b4e0-4ef3-bef4-00215d4b6fe4",
+    "image" : null,
+    "lastname" : "Zak",
+    "twitter" : null
+  },
+  {
+    "about" : null,
+    "firstname" : "Tomas",
+    "github" : null,
+    "id" : "",
+    "image" : null,
+    "lastname" : "Ruiz-Lopez",
+    "twitter" : null
   }
 ]

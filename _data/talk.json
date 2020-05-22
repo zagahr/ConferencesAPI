@@ -399,6 +399,20 @@
     "videoId" : "cw95S8gwkEU"
   },
   {
+    "conferenceId" : "637910fbe56dafadf242418f949a994f07369048a",
+    "details" : "The animation capabilities of SwiftUI are simply great. Pavel briefly covers the basics of animations in SwiftUI and then discusses several techniques of animation tweaks that can either ease animation creation or take your eye candies to the next level. He talks about GeometryEffect and AnimatableModifier and adds the explanation of AnimatableData.",
+    "id" : "d949524c-6159-4f11-ae8b-8960e3317acf",
+    "source" : "youtube",
+    "speakerId" : "6dce27cc-b4e0-4ef3-bef4-00215d4b6fe4",
+    "tags" : [
+      "SwiftUI",
+      "Animation"
+    ],
+    "title" : "Animation juice in SwiftUI",
+    "url" : "url",
+    "videoId" : "A4Byyls7zww"
+  },
+  {
     "conferenceId" : "c727a3ebfed4465ebe25a87c6b323ea2",
     "details" : "",
     "id" : "64cc6525-7099-4c6d-b9f4-af7ad92522f0",
@@ -585,6 +599,19 @@
     "title" : "Avoiding the Kitchen Sink Database",
     "url" : "https://www.youtube.com/watch?v=2TEWlVTPE2k",
     "videoId" : "2TEWlVTPE2k"
+  },
+  {
+    "conferenceId" : "637910fbe56dafadf242418f949a994f07369048a",
+    "details" : "Many modern apps need to make 10s or even 100s or network calls just to populate the home screen. And they'll likely be calling multiple different APIs, all requiring different authentication methods, JSON parsing and aggregation. Not only does this increase battery drain and frustration for users on slow and unreliable networks, it places a huge burden on the developer that isn't easy to update or iterate on quickly. \n\nTim looks at the Backend for Frontend pattern and how we can leverage Swift in both our iOS applications and server applications to share code and make development faster. He shows clear examples of how BFFs can dramatically simplify your networking code and how a BFF in Swift can help you develop iOS applications quicker by reducing context switching and being able to share ",
+    "id" : "f921c650-73b3-4a0c-8b14-142603206d9d",
+    "source" : "youtube",
+    "speakerId" : "3cc696c1c8e99025de1c55de6d7768ea48a3154b",
+    "tags" : [
+      ""
+    ],
+    "title" : "BFFs for Swift",
+    "url" : "url",
+    "videoId" : "XqQJ6-l26QM"
   },
   {
     "conferenceId" : "888276fd2d9540af877cfb6c3ed078e8",
@@ -1209,6 +1236,19 @@
     "title" : "Creating great animations on iOS",
     "url" : "https://www.youtube.com/watch?v=1ANvelwta_Q",
     "videoId" : "1ANvelwta_Q"
+  },
+  {
+    "conferenceId" : "637910fbe56dafadf242418f949a994f07369048a",
+    "details" : "In this session, Cory discusses the tools for using cryptography in Swift, and introduces a new Apple open source project for working with cryptography on all platforms, Swift Crypto.\n",
+    "id" : "7867d07f-5475-4985-ba73-a414a15a1dd6",
+    "source" : "youtube",
+    "speakerId" : "4c53f3d9-7fc1-4d0c-99fc-01e8f3be4181",
+    "tags" : [
+      "Cryptography"
+    ],
+    "title" : "Cryptography in Swift",
+    "url" : "url",
+    "videoId" : "OUXC3DLY6QU"
   },
   {
     "conferenceId" : "aff52e1e047c34e15ca69639a7c65eb00143756e",
@@ -1870,6 +1910,19 @@
     "videoId" : "275423731"
   },
   {
+    "conferenceId" : "637910fbe56dafadf242418f949a994f07369048a",
+    "details" : "Writing networking code is a common task among many projects, but it poses several challenges. Functional programming can help us deal with them, leading to code that is easier to compose and test.",
+    "id" : "b7101406-e230-4022-8866-b91052222b77",
+    "source" : "youtube",
+    "speakerId" : "",
+    "tags" : [
+      ""
+    ],
+    "title" : "Functional Networking",
+    "url" : "url",
+    "videoId" : "-Ub4k0NunVU"
+  },
+  {
     "conferenceId" : "c727a3ebfed4465ebe25a87c6b323ea2",
     "details" : null,
     "id" : "e9306424-ebdd-477e-9e4f-13f1aa635c2e",
@@ -1950,12 +2003,12 @@
   },
   {
     "conferenceId" : "b238b707926f4c81a4d1f65759156f0d",
-    "details" : null,
+    "details" : "",
     "id" : "efa35cc1-002d-4efb-9c84-b1e1eb862f42",
     "source" : "youtube",
     "speakerId" : null,
     "tags" : [
-
+      "Combine"
     ],
     "title" : "Getting Started with Combine",
     "url" : null,
@@ -2494,6 +2547,19 @@
     "videoId" : "Rlhlc6NaO4w"
   },
   {
+    "conferenceId" : "637910fbe56dafadf242418f949a994f07369048a",
+    "details" : "Swift is a great language. But we’ve all met situations where a certain feature was missing, and we wished were part of it.\nSince programs are basically functions, and functions are first-class citizen in Swift, Vincent shows how we can implement “pseudo-keywords” at a short cost and to great value.",
+    "id" : "7650b2fd-9060-482c-8fb8-0a03e5f50154",
+    "source" : "youtube",
+    "speakerId" : "e693721abaad7eb58ac832a8e7eacadbdc1744f0",
+    "tags" : [
+      "Functional Programing"
+    ],
+    "title" : "Implementing pseudo-keywords through functional programing",
+    "url" : "url",
+    "videoId" : "CYkpF7COpVY"
+  },
+  {
     "conferenceId" : "d5e2a39ddfd8d89c3d566fb5350082f89bfbe165",
     "details" : "Improving Scrolling Performance through GPU Optimisation\n\nBeautiful smooth scrolling is key to building polished apps that delight users. While the newest devices are forgiving of unoptimised code, older devices bring performance issues to light, especially in apps that display many content-rich cells. In this talk I will discuss advanced techniques for improving scrolling performance in table/collection views, specifically by optimising the code for the GPU.",
     "id" : "601c657a13dc432b96b001250a37d78e",
@@ -2557,6 +2623,19 @@
     "title" : "Inclusive and Accessible App Development",
     "url" : null,
     "videoId" : "M7GOoZMMrnY"
+  },
+  {
+    "conferenceId" : "637910fbe56dafadf242418f949a994f07369048a",
+    "details" : "SwiftUI has become a topic of great interest this year. It really is fantastic. Unfortunately, it’s incomplete at the moment. Ishmael discusses the process of either starting with a new SwiftUI project and adding UIKit to fill in the gaps or starting with an existing UIKit project and augmenting it with SwiftUI.",
+    "id" : "7c9866ec-e110-46a0-8f25-4fd7246b82c0",
+    "source" : "youtube",
+    "speakerId" : "411bfdfe-c190-4a9d-88fd-539e47967295",
+    "tags" : [
+      "SwiftUI"
+    ],
+    "title" : "Integrating SwiftUI & UI Kit",
+    "url" : "url",
+    "videoId" : "ssz02HMEoR0"
   },
   {
     "conferenceId" : "7fc9e26d957641a6b949bdf55615ab3e",
@@ -2914,6 +2993,19 @@
     "title" : "MVC is Not Your Problem",
     "url" : "https://www.youtube.com/watch?v=A1vzcxR-Ss0",
     "videoId" : "A1vzcxR-Ss0"
+  },
+  {
+    "conferenceId" : "637910fbe56dafadf242418f949a994f07369048a",
+    "details" : "App architecture has been a topic of many discussions in the iOS development community. Many developers and companies propose novel architecture options to supposedly improve the development of iOS apps, while Apple keeps supporting the MVC architecture. Guilherme shows what causes people to have problems with that architecture, how to avoid the common pitfalls and why adopting a shiny new architecture might not be the best solution.",
+    "id" : "bd3c0c71-9547-488a-8d6e-e7924bea622b",
+    "source" : "youtube",
+    "speakerId" : "60d6411bd8c0b8586a954e6f4cdaabebf5880b4e",
+    "tags" : [
+      ""
+    ],
+    "title" : "MVC: Many View Controllers",
+    "url" : "url",
+    "videoId" : "ZShE3toDPIk"
   },
   {
     "conferenceId" : "888276fd2d9540af877cfb6c3ed078e8",
@@ -3539,6 +3631,19 @@
     "videoId" : "TAzbEpR8imo"
   },
   {
+    "conferenceId" : "637910fbe56dafadf242418f949a994f07369048a",
+    "details" : "It's a delight to discover new language features that enhance your Swift programming experience. Many of Swift's features adopt a style that \"reads\" as if they're native constructs but are actually created and maintained by third parties. Erica shows you Swift 5's new property wrappers (added in Swift 5.2), how they fit into this paradigm and why they're an exciting avenue for developers looking to create reusable property enhancements.",
+    "id" : "abcc09eb-f243-4275-86c5-fec8f1ee4382",
+    "source" : "youtube",
+    "speakerId" : "c836e840-6328-41af-9050-c2cf0ee1922c",
+    "tags" : [
+      "Property Wrappers"
+    ],
+    "title" : "Property Wrappers",
+    "url" : "url",
+    "videoId" : "ctNMf_qVXPg"
+  },
+  {
     "conferenceId" : "888276fd2d9540af877cfb6c3ed078e8",
     "details" : null,
     "id" : "20dffd7a-6bd6-4dc2-8756-74c01e375bff",
@@ -3658,6 +3763,19 @@
     "title" : "Prototype Everything",
     "url" : "https://www.youtube.com/watch?v=QJdTMLBoGm0",
     "videoId" : "QJdTMLBoGm0"
+  },
+  {
+    "conferenceId" : "637910fbe56dafadf242418f949a994f07369048a",
+    "details" : "Tobias shares a full story on how to build a prototype for a custom UI that visualizes instantaneous sound level as well as sound level over time. The talk is highly interactive and covers how Swift and SwiftUI are perfect for making prototypes, particularly when building custom UI.",
+    "id" : "b2d44ecd-f2a0-4961-8250-5cf8e3d52166",
+    "source" : "youtube",
+    "speakerId" : "e71aa9d2ab159892141606942ed74fb49a1d1681",
+    "tags" : [
+      "SwiftUI"
+    ],
+    "title" : "Prototyping Custom UI in SwiftUI",
+    "url" : "url",
+    "videoId" : "1BHHybRnHFE"
   },
   {
     "conferenceId" : "888276fd2d9540af877cfb6c3ed078e8",
@@ -4153,6 +4271,19 @@
     "videoId" : "GMpLa5Fa-Fk"
   },
   {
+    "conferenceId" : "637910fbe56dafadf242418f949a994f07369048a",
+    "details" : "Learn about Sign In with Apple, the new identity provider announced at Apple WWDC 2019.\n\nThis authentication option, which Apple has stated will be mandatory for all App Store apps soon, may present some challenges to application developers, but aims to provide a better user experience for those in the Apple ecosystem through enhanced privacy and seamless login across the web and native applications.",
+    "id" : "224fdaf3-6d54-4844-8fad-2a26db3027fc",
+    "source" : "youtube",
+    "speakerId" : "17916999-2f90-40b0-afdf-22ed53572df3",
+    "tags" : [
+      ""
+    ],
+    "title" : "Sign in with Apple",
+    "url" : "url",
+    "videoId" : "-jEbBkhaRSU"
+  },
+  {
     "conferenceId" : "9068c98d60cd45ebf03ecbe9b16046290ea9cddd",
     "details" : null,
     "id" : "aec4a2cd79a540e6aed646df134e79ab",
@@ -4643,6 +4774,19 @@
     "videoId" : "97jUwK0TK34"
   },
   {
+    "conferenceId" : "888276fd2d9540af877cfb6c3ed078e8",
+    "details" : "",
+    "id" : "d6a1a9d1-ad88-496e-999b-c18d97dc0fea",
+    "source" : "youtube",
+    "speakerId" : "973d92cfbb37bc1ba2972246f16817721abf587c",
+    "tags" : [
+      ""
+    ],
+    "title" : "Swift Server Update",
+    "url" : null,
+    "videoId" : "ZefmzgLabCA"
+  },
+  {
     "conferenceId" : "aff52e1e047c34e15ca69639a7c65eb00143756e",
     "details" : "Chris and Ian will explore what it?s like to build REST APIs in Kitura 2, using the built-in support for OpenAPI. Quickly generate an iOS and Android client SDK to use in your app, and deploy your server-side Swift app to the cloud. We?ll also provide an update on Kitura development and what the future might hold.",
     "id" : "e1839daea22a4e669ce08eccf40f5efd",
@@ -4706,6 +4850,19 @@
     "title" : "Swift Superpowers #3 - David Bonnet",
     "url" : null,
     "videoId" : "EEPKSdLOrt8"
+  },
+  {
+    "conferenceId" : "637910fbe56dafadf242418f949a994f07369048a",
+    "details" : "Kaya explains two unique techniques to help make your tests easier to read, write and understand. The first technique is using Swift enums to abstract XCUIElementQuery calls and to isolate UI element into cases with each enum representing one screen. The second technique uses function builders to allow you to group multiple calls to XCTAssertTrue() and XCTAssertFalse().",
+    "id" : "5fbdc2a1-dba4-4e7e-98c0-bd77682050e4",
+    "source" : "youtube",
+    "speakerId" : "99551bf24f0d566d5541cc546fe62140d03f914b",
+    "tags" : [
+      "Testing"
+    ],
+    "title" : "Swift Techniques for Testing",
+    "url" : "url",
+    "videoId" : "Or6xjaCUCd4"
   },
   {
     "conferenceId" : "b238b707926f4c81a4d1f65759156f0d",
@@ -4884,7 +5041,8 @@
     "source" : "youtube",
     "speakerId" : "fe70f01d8e6c83931d24129288887e59f2607dc6",
     "tags" : [
-      "SwiftUI"
+      "SwiftUI",
+      "Combine"
     ],
     "title" : "SwiftUI & Combine - Daniel Steinberg",
     "url" : null,
@@ -4902,6 +5060,19 @@
     "title" : "SwiftUI & Redux - Thomas Ricouard",
     "url" : null,
     "videoId" : "dHKswhJmYrA"
+  },
+  {
+    "conferenceId" : "637910fbe56dafadf242418f949a994f07369048a",
+    "details" : "This talk from Thomas aimed to be an eye-opener on how easily you can use the Redux architecture with SwiftUI.\n",
+    "id" : "36d7862f-ad28-4aec-a5f9-c86f4136483e",
+    "source" : "youtube",
+    "speakerId" : "7ff233cc-8a25-4186-91f8-674957997521",
+    "tags" : [
+      "SwiftUI"
+    ],
+    "title" : "SwiftUI Data Flow with Redux",
+    "url" : "url",
+    "videoId" : "xZeuRolzlGY"
   },
   {
     "conferenceId" : "b238b707926f4c81a4d1f65759156f0d",
@@ -5113,6 +5284,19 @@
     "title" : "The Bright Future of Swift",
     "url" : "https://www.dotconferences.com/2016/01/thomas-visser-the-bright-future-of-swift",
     "videoId" : "vjGvsJv4Wos"
+  },
+  {
+    "conferenceId" : "637910fbe56dafadf242418f949a994f07369048a",
+    "details" : "Combine is Apple's own Functional Reactive Programming framework. Donny explains three of the main pillars that Combine is built on. By re-implementing Combine's sink subscriber we explore every aspect Combine's subscription stream.",
+    "id" : "121672d3-df51-40c5-8ffc-442dd5a13e53",
+    "source" : "youtube",
+    "speakerId" : "cbba4281-5833-4891-9972-587176c53efe",
+    "tags" : [
+      "Combine"
+    ],
+    "title" : "The Combine Triad",
+    "url" : "url",
+    "videoId" : "0AmNvcxVpKk"
   },
   {
     "conferenceId" : "9068c98d60cd45ebf03ecbe9b16046290ea9cddd",
@@ -6152,16 +6336,16 @@
     "videoId" : "bMMWf-Dr7kY"
   },
   {
-    "conferenceId" : "888276fd2d9540af877cfb6c3ed078e8",
-    "details" : "",
-    "id" : "d6a1a9d1-ad88-496e-999b-c18d97dc0fea",
+    "conferenceId" : "637910fbe56dafadf242418f949a994f07369048a",
+    "details" : "Denis explains how conforming most of your entities to simple protocols can turn out to be really useful. Especially those protocols that require no more work than just stating your given entity conforms to it. Hashable, Identifiable I am looking at you. Once most of your entities do conform to those protocols, you can now enjoy the full power of mixins and other protocol extensions.",
+    "id" : "69518ddc-bd35-44a2-9f25-cdd4790c9862",
     "source" : "youtube",
-    "speakerId" : "973d92cfbb37bc1ba2972246f16817721abf587c",
+    "speakerId" : "a52fa61b-5f5f-4e06-8caf-941b5490bd05",
     "tags" : [
       ""
     ],
-    "title" : "Swift Server Update",
-    "url" : null,
-    "videoId" : "ZefmzgLabCA"
+    "title" : "Stating the obvious",
+    "url" : "url",
+    "videoId" : "IkWtN8v7EiU"
   }
 ]
