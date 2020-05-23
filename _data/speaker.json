@@ -135,33 +135,6 @@
     "twitter" : "Fineblkwoman"
   },
   {
-    "about" : "Security product engineer @cossacklabs. Making cryptography easy to use and hard to mis-use. Speaker. @wwcodekyiv chapter lead. Past: mobile dev lead",
-    "firstname" : "Anastasia",
-    "github" : "vixentael",
-    "id" : "b75e1de86d1c48a1442285be1e8739a3190776e2",
-    "image" : "https://pbs.twimg.com/profile_images/3438150390/36b3e936fc61169415f3c20c7ee2a556_400x400.png",
-    "lastname" : "Voitova",
-    "twitter" : "vixentael"
-  },
-  {
-    "about" : "Anastasiia has been developing  mobile apps for seven years and has been making them more secure in the last three. She is currently maintaining the open-source security library Themis, which allows developers to easily integrate encryption into their apps and infrastructures. Beside that she is conducting workshops and consulting teams about data protection design.\n\nAnastasiia never tried coding on F#.",
-    "firstname" : "Anastasiia",
-    "github" : "vixentael",
-    "id" : "8299a9ac78984fe804829f3cd2daa05982889ada",
-    "image" : "https://avatars1.githubusercontent.com/u/2877920",
-    "lastname" : "Vixentael",
-    "twitter" : "vixentael"
-  },
-  {
-    "about" : null,
-    "firstname" : "Anastasiia",
-    "github" : null,
-    "id" : "1c0f9e09-16fe-4309-9d29-3bdcefe09c51",
-    "image" : null,
-    "lastname" : "Voitova",
-    "twitter" : null
-  },
-  {
     "about" : "My terminal?s background color is #f5abb5 currently @blueapron previously @americanexpress, @uva/@hoohacks, @?, @willowtreeapps. i don?t speak for ",
     "firstname" : "Anat",
     "github" : null,
@@ -766,6 +739,15 @@
   },
   {
     "about" : null,
+    "firstname" : "Devlin",
+    "github" : null,
+    "id" : "17916999-2f90-40b0-afdf-22ed53572df3",
+    "image" : null,
+    "lastname" : "Duldulao",
+    "twitter" : null
+  },
+  {
+    "about" : null,
     "firstname" : "Dimitri",
     "github" : "DimDL",
     "id" : "fcf9997368fe121c770280094480f6330042b1dc",
@@ -780,6 +762,15 @@
     "id" : "f38d2ac81b1641555cdc2514afb3985768bd6e37",
     "image" : "https://avatars2.githubusercontent.com/u/7569279",
     "lastname" : "Nutautas",
+    "twitter" : null
+  },
+  {
+    "about" : null,
+    "firstname" : "Donny",
+    "github" : null,
+    "id" : "cbba4281-5833-4891-9972-587176c53efe",
+    "image" : null,
+    "lastname" : "Wals",
     "twitter" : null
   },
   {
@@ -871,6 +862,15 @@
     "image" : "https://pbs.twimg.com/profile_images/1037373436279107585/H9H4f_og_400x400.jpg",
     "lastname" : "Correa",
     "twitter" : "CodeWithCooties"
+  },
+  {
+    "about" : null,
+    "firstname" : "Erica",
+    "github" : null,
+    "id" : "c836e840-6328-41af-9050-c2cf0ee1922c",
+    "image" : null,
+    "lastname" : "Sadun",
+    "twitter" : null
   },
   {
     "about" : "Core Clients Engineer @ SoundCloud; working as a liaison between the mobile clients and the backend services the Core Clients team @ SoundCloud helps both sides by developing tools, abstracting implementations and maintaining BFFs to help encapsulate bits of code from the org into smaller and more manageable parts.",
@@ -1114,6 +1114,15 @@
     "image" : "https://2018.nsspain.com/images/speakers/isabel.jpeg",
     "lastname" : "Barrera",
     "twitter" : "ifbarrera"
+  },
+  {
+    "about" : null,
+    "firstname" : "Ishmael",
+    "github" : null,
+    "id" : "411bfdfe-c190-4a9d-88fd-539e47967295",
+    "image" : null,
+    "lastname" : "Shabazz",
+    "twitter" : null
   },
   {
     "about" : "JP is an iOS engineer at Lyft working on bikes, scooters and public transit.",
@@ -2106,6 +2115,15 @@
     "twitter" : "pmazurin"
   },
   {
+    "about" : null,
+    "firstname" : "Pavel",
+    "github" : null,
+    "id" : "6dce27cc-b4e0-4ef3-bef4-00215d4b6fe4",
+    "image" : null,
+    "lastname" : "Zak",
+    "twitter" : null
+  },
+  {
     "about" : "Founder/CEO @PSPDFKit & @pdfviewerapp. I tweet about iOS hacks & running a remote company. Really just here to confuse people with animated gif reactions.",
     "firstname" : "Peter",
     "github" : "steipete",
@@ -2266,6 +2284,15 @@
     "image" : "https://avatars3.githubusercontent.com/u/889949",
     "lastname" : "Marmelstein",
     "twitter" : "marmelroy"
+  },
+  {
+    "about" : "",
+    "firstname" : "Sally",
+    "github" : "mostgood",
+    "id" : "9dc8ebb477cd71a6aea38f6b99586c253e2ff8bf",
+    "image" : "https://pbs.twimg.com/profile_images/1106289844584615938/RWOvR7N9_400x400.jpg",
+    "lastname" : "Shepard",
+    "twitter" : "mostgood"
   },
   {
     "about" : "makes games & apps | 50% of @comboldn | code, pop-punk, live music, photography, motorbikes aaand @salmikawolf ? #BAFTACrew",
@@ -2610,6 +2637,15 @@
     "twitter" : null
   },
   {
+    "about" : null,
+    "firstname" : "Tomas",
+    "github" : null,
+    "id" : "",
+    "image" : null,
+    "lastname" : "Ruiz-Lopez",
+    "twitter" : null
+  },
+  {
     "about" : "Toru Kuriyama is an iOS application engineer at Sansan Inc, which handles business card management service, and develops 'Sansan' iOS app for corporations.",
     "firstname" : "Toru",
     "github" : null,
@@ -2835,66 +2871,12 @@
     "twitter" : "ynzc"
   },
   {
-    "about" : "",
-    "firstname" : "Sally",
-    "github" : "mostgood",
-    "id" : "9dc8ebb477cd71a6aea38f6b99586c253e2ff8bf",
-    "image" : "https://pbs.twimg.com/profile_images/1106289844584615938/RWOvR7N9_400x400.jpg",
-    "lastname" : "Shepard",
-    "twitter" : "mostgood"
-  },
-  {
-    "about" : null,
-    "firstname" : "Devlin",
-    "github" : null,
-    "id" : "17916999-2f90-40b0-afdf-22ed53572df3",
-    "image" : null,
-    "lastname" : "Duldulao",
-    "twitter" : null
-  },
-  {
-    "about" : null,
-    "firstname" : "Donny",
-    "github" : null,
-    "id" : "cbba4281-5833-4891-9972-587176c53efe",
-    "image" : null,
-    "lastname" : "Wals",
-    "twitter" : null
-  },
-  {
-    "about" : null,
-    "firstname" : "Erica",
-    "github" : null,
-    "id" : "c836e840-6328-41af-9050-c2cf0ee1922c",
-    "image" : null,
-    "lastname" : "Sadun",
-    "twitter" : null
-  },
-  {
-    "about" : null,
-    "firstname" : "Ishmael",
-    "github" : null,
-    "id" : "411bfdfe-c190-4a9d-88fd-539e47967295",
-    "image" : null,
-    "lastname" : "Shabazz",
-    "twitter" : null
-  },
-  {
-    "about" : null,
-    "firstname" : "Pavel",
-    "github" : null,
-    "id" : "6dce27cc-b4e0-4ef3-bef4-00215d4b6fe4",
-    "image" : null,
-    "lastname" : "Zak",
-    "twitter" : null
-  },
-  {
-    "about" : null,
-    "firstname" : "Tomas",
-    "github" : null,
-    "id" : "",
-    "image" : null,
-    "lastname" : "Ruiz-Lopez",
-    "twitter" : null
+    "about" : "Anastasiia has been developing  mobile apps for seven years and has been making them more secure in the last three. She is currently maintaining the open-source security library Themis, which allows developers to easily integrate encryption into their apps and infrastructures. Beside that she is conducting workshops and consulting teams about data protection design.\n\nAnastasiia never tried coding on F#.",
+    "firstname" : "Anastasiia",
+    "github" : "vixentael",
+    "id" : "8299a9ac78984fe804829f3cd2daa05982889ada",
+    "image" : "https://avatars1.githubusercontent.com/u/2877920",
+    "lastname" : "Voitova",
+    "twitter" : "vixentael"
   }
 ]

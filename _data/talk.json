@@ -30,7 +30,7 @@
     "details" : "10 Things you Need to Know before Implementing Cryptography (Before we get deep into protocols vulnerabilities: things you should remember designing your app flow from a security point of view.) This talk will focus on copybook headings of infosec: what you need to know before exciting stuff like cryptography and AI-assisted incident detection. Like, choice of data you show in the background mode, choice of 3rd party SDKs, which logs we send and where? Even when developers create apps with security in minds, protect user secrets, and don?t reveal unencrypted data, attackers can find ways to bypass these security measures by exploiting architectural weaknesses and unobvious, yet very simple vulnerabilities. We will talk about all the tiny bits and pieces are necessary to make your app secure against simple attacks way before focusing on the hard things (like crypto).",
     "id" : "09abe563747a4675941f75e8c27b5a83",
     "source" : "youtube",
-    "speakerId" : "b75e1de86d1c48a1442285be1e8739a3190776e2",
+    "speakerId" : "8299a9ac78984fe804829f3cd2daa05982889ada",
     "tags" : [
       "UIKonf 2018",
       "Cryptography"
@@ -161,12 +161,12 @@
   },
   {
     "conferenceId" : "7fc9e26d957641a6b949bdf55615ab3e",
-    "details" : null,
+    "details" : "",
     "id" : "0a28b1cf-6725-4f0d-a84a-b2f1265f4635",
     "source" : "youtube",
     "speakerId" : "e36add1e-6d08-4c9c-9104-cf41c1324def",
     "tags" : [
-
+      "Accessibility"
     ],
     "title" : "A11y-oop Adding new Accessibility Features to not-so-new Apps",
     "url" : null,
@@ -360,14 +360,14 @@
   },
   {
     "conferenceId" : "c727a3ebfed4465ebe25a87c6b323ea2",
-    "details" : null,
+    "details" : "",
     "id" : "6b491e55-0ad1-48f1-9555-4ebf88fd55f1",
     "source" : "youtube",
-    "speakerId" : "bf5a8f22869ee93d5f6eb852a76aa1886663c8de",
+    "speakerId" : "e693721abaad7eb58ac832a8e7eacadbdc1744f0",
     "tags" : [
-
+      "Testing"
     ],
-    "title" : "An introduction to property based testing - Vincent Pradeilles",
+    "title" : "An introduction to property based testing",
     "url" : null,
     "videoId" : "SCSk-Bwvb-U"
   },
@@ -417,11 +417,12 @@
     "details" : "",
     "id" : "64cc6525-7099-4c6d-b9f4-af7ad92522f0",
     "source" : "youtube",
-    "speakerId" : "7bc2abdcc08d5ca533bb0cf0c4f0f11fa447f8b4",
+    "speakerId" : "15818adc3ac54abae646186f3738d88547d7fc25",
     "tags" : [
-      "SwiftUI"
+      "SwiftUI",
+      "Animation"
     ],
-    "title" : "Animations with SwiftUI - Chris Eidhof",
+    "title" : "Animations with SwiftUI",
     "url" : null,
     "videoId" : "RjCrZWeCPZU"
   },
@@ -829,14 +830,14 @@
   },
   {
     "conferenceId" : "c727a3ebfed4465ebe25a87c6b323ea2",
-    "details" : null,
+    "details" : "",
     "id" : "47f0a1c7-1f45-4727-8ad7-d531da2db8c0",
     "source" : "youtube",
     "speakerId" : "d81b6ef0-4607-4133-a32a-6cc6922e80fc",
     "tags" : [
-
+      ""
     ],
-    "title" : "Building Voice First Apps - Elaine Dias Batista",
+    "title" : "Building Voice First Apps",
     "url" : null,
     "videoId" : "H3EzG9vw1dw"
   },
@@ -1027,12 +1028,12 @@
   },
   {
     "conferenceId" : "888276fd2d9540af877cfb6c3ed078e8",
-    "details" : null,
+    "details" : "",
     "id" : "a919d181-e7dc-41de-9f7e-8239e9a911d6",
     "source" : "youtube",
     "speakerId" : null,
     "tags" : [
-
+      "Accessibility"
     ],
     "title" : "Color Contrast for Accessibility",
     "url" : null,
@@ -1622,14 +1623,14 @@
   },
   {
     "conferenceId" : "c727a3ebfed4465ebe25a87c6b323ea2",
-    "details" : null,
+    "details" : "",
     "id" : "cfbf85d9-ff33-4550-944a-eae0358119f2",
     "source" : "youtube",
     "speakerId" : "a52fa61b-5f5f-4e06-8caf-941b5490bd05",
     "tags" : [
-
+      ""
     ],
-    "title" : "Empower your dataSources with a flexible model - Denis Poifol",
+    "title" : "Empower your dataSources with a flexible model",
     "url" : null,
     "videoId" : "Y7cuRwluy-Y"
   },
@@ -1924,14 +1925,14 @@
   },
   {
     "conferenceId" : "c727a3ebfed4465ebe25a87c6b323ea2",
-    "details" : null,
+    "details" : "",
     "id" : "e9306424-ebdd-477e-9e4f-13f1aa635c2e",
     "source" : "youtube",
-    "speakerId" : "ab3a537b16e468d1ced8d8a33eeee53bbba143dd",
+    "speakerId" : "72ff444b0751977dd1df006ae2aa2e050fb00f3f",
     "tags" : [
-
+      "Generics"
     ],
-    "title" : "Generics - Rob Napier",
+    "title" : "Generics",
     "url" : null,
     "videoId" : "RvSoXVxN7Aw"
   },
@@ -3355,14 +3356,15 @@
   },
   {
     "conferenceId" : "c727a3ebfed4465ebe25a87c6b323ea2",
-    "details" : null,
+    "details" : "",
     "id" : "94c0854f-9850-473e-8995-4936c8a6f749",
     "source" : "youtube",
-    "speakerId" : "1c0f9e09-16fe-4309-9d29-3bdcefe09c51",
+    "speakerId" : "8299a9ac78984fe804829f3cd2daa05982889ada",
     "tags" : [
-
+      "Encryption",
+      "Security"
     ],
-    "title" : "Note encryption: 10 lines for encryption, 1500 lines for key management - Anastasiia Voitova",
+    "title" : "Note encryption: 10 lines for encryption, 1500 lines for key management",
     "url" : null,
     "videoId" : "cp06I49Cv50"
   },
@@ -4233,14 +4235,14 @@
   },
   {
     "conferenceId" : "c727a3ebfed4465ebe25a87c6b323ea2",
-    "details" : null,
+    "details" : "",
     "id" : "91437f57-9ced-4cbb-be0a-5c06bfd25666",
     "source" : "youtube",
-    "speakerId" : "a1495b7eeca7a39590069c3485af534ceb00e86c",
+    "speakerId" : "b355ec7b39c90312589b42d5ada36b3a09f17383",
     "tags" : [
-
+      "Catalyst"
     ],
-    "title" : "Shipping a Catalyst App - Peter Steinberger",
+    "title" : "Shipping a Catalyst App",
     "url" : null,
     "videoId" : "Xo3zGlyxXcI"
   },
@@ -4259,14 +4261,14 @@
   },
   {
     "conferenceId" : "c727a3ebfed4465ebe25a87c6b323ea2",
-    "details" : null,
+    "details" : "",
     "id" : "d1e92fc8-a7f8-4b77-98c4-153e1a7b2397",
     "source" : "youtube",
     "speakerId" : "4caf4f51-d294-460c-837f-253f2fc8ccfe",
     "tags" : [
-
+      ""
     ],
-    "title" : "Showcase Driven Development - Jérôme Alves",
+    "title" : "Showcase Driven Development",
     "url" : null,
     "videoId" : "GMpLa5Fa-Fk"
   },
@@ -4339,14 +4341,14 @@
   },
   {
     "conferenceId" : "c727a3ebfed4465ebe25a87c6b323ea2",
-    "details" : null,
+    "details" : "",
     "id" : "4b0f19a5-1969-4288-8593-afb324db5505",
     "source" : "youtube",
     "speakerId" : "009ded54-5ff0-43e1-a336-90b00ef972a0",
     "tags" : [
-
+      ""
     ],
-    "title" : "Slide to Unlock - Joel Kin",
+    "title" : "Slide to Unlock",
     "url" : null,
     "videoId" : "6WUckbfPN0E"
   },
@@ -4432,14 +4434,14 @@
   },
   {
     "conferenceId" : "c727a3ebfed4465ebe25a87c6b323ea2",
-    "details" : null,
+    "details" : "",
     "id" : "dd739965-a70e-4e95-ab18-f0b657c6b611",
     "source" : "youtube",
     "speakerId" : "ad9e5040-9a7e-4c87-97a9-a145a6bd7219",
     "tags" : [
-
+      ""
     ],
-    "title" : "Sponsors Lightning Interview #1 - Netatmo",
+    "title" : "Sponsors Lightning Interview #1",
     "url" : null,
     "videoId" : "MMkA66HXn4Q"
   },
@@ -4508,6 +4510,19 @@
     "title" : "Starting a Mobile Design System",
     "url" : "https://www.youtube.com/watch?v=xB36hr7FQis",
     "videoId" : "xB36hr7FQis"
+  },
+  {
+    "conferenceId" : "637910fbe56dafadf242418f949a994f07369048a",
+    "details" : "Denis explains how conforming most of your entities to simple protocols can turn out to be really useful. Especially those protocols that require no more work than just stating your given entity conforms to it. Hashable, Identifiable I am looking at you. Once most of your entities do conform to those protocols, you can now enjoy the full power of mixins and other protocol extensions.",
+    "id" : "69518ddc-bd35-44a2-9f25-cdd4790c9862",
+    "source" : "youtube",
+    "speakerId" : "a52fa61b-5f5f-4e06-8caf-941b5490bd05",
+    "tags" : [
+      ""
+    ],
+    "title" : "Stating the obvious",
+    "url" : "url",
+    "videoId" : "IkWtN8v7EiU"
   },
   {
     "conferenceId" : "61aee246358e0228476c106163b4c640f30b6ffe",
@@ -4736,40 +4751,40 @@
   },
   {
     "conferenceId" : "c727a3ebfed4465ebe25a87c6b323ea2",
-    "details" : null,
+    "details" : "",
     "id" : "c040bcda-8b11-4d75-8b94-f77ee302e818",
     "source" : "youtube",
-    "speakerId" : "bf5a8f22869ee93d5f6eb852a76aa1886663c8de",
+    "speakerId" : "e693721abaad7eb58ac832a8e7eacadbdc1744f0",
     "tags" : [
-
+      ""
     ],
-    "title" : "Swift Pills #1 - Vincent Pradeilles",
+    "title" : "Swift Pills #1",
     "url" : null,
     "videoId" : "QW3F5dbuwDc"
   },
   {
     "conferenceId" : "c727a3ebfed4465ebe25a87c6b323ea2",
-    "details" : null,
+    "details" : "",
     "id" : "0e57ad8c-89f9-4224-95b0-33bee76be91f",
     "source" : "youtube",
-    "speakerId" : "bf5a8f22869ee93d5f6eb852a76aa1886663c8de",
+    "speakerId" : "e693721abaad7eb58ac832a8e7eacadbdc1744f0",
     "tags" : [
-
+      ""
     ],
-    "title" : "Swift Pills #2 - Vincent Pradeilles",
+    "title" : "Swift Pills #2",
     "url" : null,
     "videoId" : "Xq_bwOM1qXs"
   },
   {
     "conferenceId" : "c727a3ebfed4465ebe25a87c6b323ea2",
-    "details" : null,
+    "details" : "",
     "id" : "c658cef2-80bb-429f-b0a0-928556b17e13",
     "source" : "youtube",
-    "speakerId" : "bf5a8f22869ee93d5f6eb852a76aa1886663c8de",
+    "speakerId" : "e693721abaad7eb58ac832a8e7eacadbdc1744f0",
     "tags" : [
-
+      ""
     ],
-    "title" : "Swift Pills #3 - Vincent Pradeilles",
+    "title" : "Swift Pills #3",
     "url" : null,
     "videoId" : "97jUwK0TK34"
   },
@@ -4814,40 +4829,40 @@
   },
   {
     "conferenceId" : "c727a3ebfed4465ebe25a87c6b323ea2",
-    "details" : null,
+    "details" : "",
     "id" : "0a7621f9-aebb-4477-99db-cd965aa51dc0",
     "source" : "youtube",
-    "speakerId" : "1ac62d59416e0e7b92f0222e030f8de2ce0a5492",
+    "speakerId" : "c6d775c89ce39c79a682fd6e271da60943a44fc3",
     "tags" : [
-
+      ""
     ],
-    "title" : "Swift Superpowers #1 - David Bonnet",
+    "title" : "Swift Superpowers #1",
     "url" : null,
     "videoId" : "On6GLzi2veA"
   },
   {
     "conferenceId" : "c727a3ebfed4465ebe25a87c6b323ea2",
-    "details" : null,
+    "details" : "",
     "id" : "bc9ab6b8-c3f4-41ec-a08e-43993fef0ba1",
     "source" : "youtube",
-    "speakerId" : "1ac62d59416e0e7b92f0222e030f8de2ce0a5492",
+    "speakerId" : "c6d775c89ce39c79a682fd6e271da60943a44fc3",
     "tags" : [
-
+      ""
     ],
-    "title" : "Swift Superpowers #2 - David Bonnet",
+    "title" : "Swift Superpowers #2",
     "url" : null,
     "videoId" : "8AqfcTb2zqk"
   },
   {
     "conferenceId" : "c727a3ebfed4465ebe25a87c6b323ea2",
-    "details" : null,
+    "details" : "",
     "id" : "7bd4d0d8-8aea-44a2-9380-6a97959d5782",
     "source" : "youtube",
-    "speakerId" : "1ac62d59416e0e7b92f0222e030f8de2ce0a5492",
+    "speakerId" : "c6d775c89ce39c79a682fd6e271da60943a44fc3",
     "tags" : [
-
+      ""
     ],
-    "title" : "Swift Superpowers #3 - David Bonnet",
+    "title" : "Swift Superpowers #3",
     "url" : null,
     "videoId" : "EEPKSdLOrt8"
   },
@@ -5039,12 +5054,12 @@
     "details" : "",
     "id" : "e42bcafa-4d36-42d9-8de6-05e4e177bb4c",
     "source" : "youtube",
-    "speakerId" : "fe70f01d8e6c83931d24129288887e59f2607dc6",
+    "speakerId" : "ab4571efaa89af24c920a29fe900019231a40485",
     "tags" : [
       "SwiftUI",
       "Combine"
     ],
-    "title" : "SwiftUI & Combine - Daniel Steinberg",
+    "title" : "SwiftUI & Combine",
     "url" : null,
     "videoId" : "vDzIeFzGAuU"
   },
@@ -5057,7 +5072,7 @@
     "tags" : [
       "SwiftUI"
     ],
-    "title" : "SwiftUI & Redux - Thomas Ricouard",
+    "title" : "SwiftUI & Redux",
     "url" : null,
     "videoId" : "dHKswhJmYrA"
   },
@@ -5102,14 +5117,14 @@
   },
   {
     "conferenceId" : "c727a3ebfed4465ebe25a87c6b323ea2",
-    "details" : null,
+    "details" : "",
     "id" : "ddf2f96d-06d6-4d9d-bedd-bcbcc4c1476d",
     "source" : "youtube",
     "speakerId" : "ba8d6a6c8bad93efa3028fb13c760478d8e48df4",
     "tags" : [
-
+      ""
     ],
-    "title" : "Swiftly Swift manipulation... with Swift - Marcin Krzyzanowski",
+    "title" : "Swiftly Swift manipulation... with Swift",
     "url" : null,
     "videoId" : "cJkiCEJ7zIY"
   },
@@ -5208,14 +5223,14 @@
   },
   {
     "conferenceId" : "c727a3ebfed4465ebe25a87c6b323ea2",
-    "details" : null,
+    "details" : "",
     "id" : "682412d6-2167-4f27-a9a6-14458e715e58",
     "source" : "youtube",
     "speakerId" : "1e9cff88-3b3a-4cb2-a421-1e89ee763f6f",
     "tags" : [
-
+      "Testing"
     ],
-    "title" : "Testing and Declarative UI's - Nataliya Patsovska",
+    "title" : "Testing and Declarative UI's",
     "url" : null,
     "videoId" : "tk0HzScvW2M"
   },
@@ -5687,14 +5702,14 @@
   },
   {
     "conferenceId" : "c727a3ebfed4465ebe25a87c6b323ea2",
-    "details" : null,
+    "details" : "",
     "id" : "ddae4ec8-7cbf-436c-bf83-c6afdc5ce313",
     "source" : "youtube",
     "speakerId" : "0a20070a-9565-47b5-933a-a76717134067",
     "tags" : [
-
+      ""
     ],
-    "title" : "This is not rocket (data) science - Hervé Berenger",
+    "title" : "This is not rocket (data) science",
     "url" : null,
     "videoId" : "niXOISgAP8I"
   },
@@ -6112,14 +6127,14 @@
   },
   {
     "conferenceId" : "c727a3ebfed4465ebe25a87c6b323ea2",
-    "details" : null,
+    "details" : "",
     "id" : "7b1d25c6-1f31-4db3-8c7a-d277c116a372",
     "source" : "youtube",
     "speakerId" : "b7217830-0609-4e2d-9dc4-85a2e7119f36",
     "tags" : [
-
+      ""
     ],
-    "title" : "When did my view layout? - Gaétan Zanella",
+    "title" : "When did my view layout?",
     "url" : null,
     "videoId" : "mOvlPDyBmCo"
   },
@@ -6245,19 +6260,6 @@
     "videoId" : "Go3_72i8bjI"
   },
   {
-    "conferenceId" : "5bac1c9869dae039636a097bf2994ebd18354d50",
-    "details" : "",
-    "id" : "72c8add8fb7b4b18b58ffd8e71f44d41",
-    "source" : "youtube",
-    "speakerId" : "4a25882334b6d546d8ad1589155bee8fdad2d0bb",
-    "tags" : [
-      "iOS Astronauts 2018"
-    ],
-    "title" : "iOS Accessibility to Supercharge Your Testing",
-    "url" : "https://www.youtube.com/watch?v=iXrRI2PrCpk",
-    "videoId" : "iXrRI2PrCpk"
-  },
-  {
     "conferenceId" : "7d42590189bf80ba935d9a45b2061d24b381538f",
     "details" : "Let?s talk about the things that really matter for maintainable architecture in iOS apps.",
     "id" : "90482b248dac4c6d97e8518d70b6250e",
@@ -6336,16 +6338,17 @@
     "videoId" : "bMMWf-Dr7kY"
   },
   {
-    "conferenceId" : "637910fbe56dafadf242418f949a994f07369048a",
-    "details" : "Denis explains how conforming most of your entities to simple protocols can turn out to be really useful. Especially those protocols that require no more work than just stating your given entity conforms to it. Hashable, Identifiable I am looking at you. Once most of your entities do conform to those protocols, you can now enjoy the full power of mixins and other protocol extensions.",
-    "id" : "69518ddc-bd35-44a2-9f25-cdd4790c9862",
+    "conferenceId" : "5bac1c9869dae039636a097bf2994ebd18354d50",
+    "details" : "",
+    "id" : "72c8add8fb7b4b18b58ffd8e71f44d41",
     "source" : "youtube",
-    "speakerId" : "a52fa61b-5f5f-4e06-8caf-941b5490bd05",
+    "speakerId" : "4a25882334b6d546d8ad1589155bee8fdad2d0bb",
     "tags" : [
-      ""
+      "iOS Astronauts 2018",
+      "Accessibility"
     ],
-    "title" : "Stating the obvious",
-    "url" : "url",
-    "videoId" : "IkWtN8v7EiU"
+    "title" : "iOS Accessibility to Supercharge Your Testing",
+    "url" : "https://www.youtube.com/watch?v=iXrRI2PrCpk",
+    "videoId" : "iXrRI2PrCpk"
   }
 ]
