@@ -1,5 +1,15 @@
 [
     {
+        "id": "f1800df40d7647e4b2a4941785fb645d",
+        "organisatorId": "0da1dd312b4a3f1c09df327d6ec6a1133fe62013",
+        "name": "App Builders 2020",
+        "url": "https://appbuilders.ch",
+        "location": "Lugano, Switzerland",
+        "date": "2018-01-26 13:00:00.000000",
+        "highlightColor": "FC3B59",
+        "about": "One of the biggest European conferences about mobile technologies taking place in the heart of Europe. Get inspired by talks from the best brains of the mobile industry."
+    },
+    {
         "id": "637910fbe56dafadf242418f949a994f07369048a",
         "organisatorId": "37c5acc62fa66212860c64376fab7b07d0e543f4",
         "name": "dotSwift 2020",
