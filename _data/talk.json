@@ -495,12 +495,12 @@
   },
   {
     "conferenceId" : "c88f2abcb105e627432ed73370bd2125479ac6bb",
-    "details" : "",
+    "details" : "When building an app, a lot of focus and effort is put on crafting the best foreground experience for users. However, our apps also have a hidden life when we move them the background. And the system watchdog is here to make sure they all behave! In this talk, you will learn what the common pitfalls of background execution are, how you can make sure you don’t exceed system resources by applying best practices, and finally, how to optimize network requests when your app is not in the foreground.",
     "id" : "784f3e87e4fa280927937c1270f00080003e79f4",
     "source" : "youtube",
     "speakerId" : "3c497cf5415f40d32f3a7cd71278178a52bad5d0",
     "tags" : [
-
+      ""
     ],
     "title" : "Apps in the Background",
     "url" : "",
@@ -1093,7 +1093,7 @@
   },
   {
     "conferenceId" : "c88f2abcb105e627432ed73370bd2125479ac6bb",
-    "details" : "",
+    "details" : "Even though Android is a mature platform by now, the adoption of Kotlin at Google I/O 2017 brought about a sweeping wave of freshness and enthusiasm amongst developers. Regardless of what the language and design patterns we use when writing an app, there is only one way to ensure correctness and quality: testing, static analysis and continuous integration. Many still think that setting up a CI for your project is hard, onerous, and not that useful, but we’re going to see how this is not true. Focusing on static analysis and unit testing, we’ll walk through setting up a continuous integration pipeline for a modern open source Android project using Gradle, CircleCI and Kotlin. We’ll see what benefits this brings to a codebase and how with a few tricks we can make sure external contributors adhere to the project code style, how we can prevent subtle bugs to sneak into the codebase, all with very little effort and zero budget.",
     "id" : "be3e69fb61a65ddab74aae95bd238ec99df8d580",
     "source" : "youtube",
     "speakerId" : "ae371ca1df88d8310db7b810908da36f6da650d2",
@@ -1106,12 +1106,12 @@
   },
   {
     "conferenceId" : "c88f2abcb105e627432ed73370bd2125479ac6bb",
-    "details" : "",
+    "details" : "As Software Engineers we know that Legacy Code and Technical Debt are familiar concepts we have to live with in our day to day life. We are also aware that our software, in general terms, is terrible and that does not make it any especial. Codebase healthiness and maintenance are challenging, so in this quick journey we are going to walk together through a bunch of tips and techniques on how to effectively address this problem.",
     "id" : "b3792fc547f4f848eb82d87f147c63a2bf4d1db6",
     "source" : "youtube",
     "speakerId" : "ccd63fc5394c80d01577a3e452ad5b4919b7fba8",
     "tags" : [
-
+      ""
     ],
     "title" : "Congratulations! Legacy Code GURU Level Unlocked!",
     "url" : "",
@@ -1584,12 +1584,12 @@
   },
   {
     "conferenceId" : "c88f2abcb105e627432ed73370bd2125479ac6bb",
-    "details" : "",
+    "details" : "After all of 2018 spent as alpha and beta, WorkManager graduated in 2019 to its first stable release and it is now the recommended solution for scheduling and executing deferrable background tasks in Android. In this talk we’ll quickly look into which use cases are a good fit for WorkManager, and which are better handled by different tools/APIs. Then we will jump into the API itself covering the different options available, from the simple Worker class to the newer CoroutineWorker. All this with an eye on how you can (and should) test your Workers and how you can implement some of the few missing features that are not yet covered by WorkManager out of the box. With this talk you’ll learn: \n* When to use (and when not) WorkManager \n* Which Worker class to use for your particular use case \n* How to test your Worker classes \n* How to customize WorkManager configuration \n* How to use Dagger2 with WorkManager",
     "id" : "81e7ce74237e8e34e089957beac99eefe719ccd2",
     "source" : "youtube",
     "speakerId" : "764fd9ffe2a3707cbceb90ab21bc2ac9f60268e0",
     "tags" : [
-
+      ""
     ],
     "title" : "Embrace the WorkManager",
     "url" : "",
@@ -1623,14 +1623,14 @@
   },
   {
     "conferenceId" : "c727a3ebfed4465ebe25a87c6b323ea2",
-    "details" : "",
+    "details" : "As every year the WWDC leaves many iOS developers eager to reimplement their app with the brand new frameworks and possibilities. But unfortunately you can not think “iOS13 only” and drop compatibility below iOS 13 in all of your projects. As a developer I always love discovering these new libraries, but I love even more finding out really easy and concrete tricks to improve my projects. This is one of those: how to animate every change in collection and table views, for iOS 13 and below!",
     "id" : "cfbf85d9-ff33-4550-944a-eae0358119f2",
     "source" : "youtube",
     "speakerId" : "a52fa61b-5f5f-4e06-8caf-941b5490bd05",
     "tags" : [
       ""
     ],
-    "title" : "Empower your dataSources with a flexible model",
+    "title" : "Empower your UITableView DataSources with a Flexible Model",
     "url" : null,
     "videoId" : "Y7cuRwluy-Y"
   },
@@ -2389,7 +2389,7 @@
   },
   {
     "conferenceId" : "c88f2abcb105e627432ed73370bd2125479ac6bb",
-    "details" : "",
+    "details" : "Core animation is very powerful, yet building visuals with it seems like a hard thing to do. That is mainly due to its complexity and lack of modern resources available. However, there is a good reason to embrace this framework - it is one of the rare ways to make performant animations for Apple devices and there are tools coming to ease up the implementation. In this talk you will learn what is Core Animation and what opportunities it offers. We will learn it with real life use cases. As well presenter will show how to experiment and how to accomplish what designer could ask for.",
     "id" : "c34555250e6bf1c1102bbddf683975c73e255d41",
     "source" : "youtube",
     "speakerId" : "4bea9a2dfab6fbcdea1f4d64c1871232c61323c8",
@@ -2588,12 +2588,12 @@
   },
   {
     "conferenceId" : "c88f2abcb105e627432ed73370bd2125479ac6bb",
-    "details" : "",
+    "details" : "Have you dreamed of deliciously sweet animations in your app but have no idea where to start? 🍫 What about creating some delightful UI treats to keep your users intrigued and wanting to discover more? 🍦 Join Rebecca on this journey into a World of Pure Android Animation ✨. From creating custom view animations on a Canvas to using MotionLayout to create complex layout animations, there is something for everyone. We will also see how to create your own AnimatedVectorDrawable using Shape Shifter. No golden ticket required.",
     "id" : "67ab779133604b1e784672e132dc532604393e47",
     "source" : "youtube",
     "speakerId" : "f65021ebaa9b94be97ead029a25efd9571af15d9",
     "tags" : [
-
+      ""
     ],
     "title" : "In a World of Pure Android Animation 🍭🍫",
     "url" : "",
@@ -2825,12 +2825,12 @@
   },
   {
     "conferenceId" : "c88f2abcb105e627432ed73370bd2125479ac6bb",
-    "details" : "",
+    "details" : "Swift and Kotlin have a lot of concepts in common but they also have a few notable differences. Knowing both languages can help you write better code and share ideas between developers of “the other platform”. We will cover the basics of Kotlin before converting a Swift app into a Kotlin one. We will use concepts such as sealed classes, extensions and many others to make our code more robust and readable.",
     "id" : "1133a87392807b920f4750bc6f9e6037937132e1",
     "source" : "youtube",
     "speakerId" : "2f66479ae8bc17bbcacc84ca0971f06d7f14f97d",
     "tags" : [
-
+      ""
     ],
     "title" : "Kotlin for Swift Developers",
     "url" : "",
@@ -3239,12 +3239,12 @@
   },
   {
     "conferenceId" : "7fc9e26d957641a6b949bdf55615ab3e",
-    "details" : null,
+    "details" : "",
     "id" : "c10b855a-49f0-41e2-84b7-1b0ebf450dd0",
     "source" : "youtube",
-    "speakerId" : "725bc6d4-e2f6-4a31-bc71-f311a06f5031",
+    "speakerId" : "1f92746d394dbcb3096f90fbc9e517cb636ee990",
     "tags" : [
-
+      ""
     ],
     "title" : "Mobile && Me == It's Complicated",
     "url" : null,
@@ -3410,12 +3410,12 @@
   },
   {
     "conferenceId" : "c88f2abcb105e627432ed73370bd2125479ac6bb",
-    "details" : "",
+    "details" : "Learn how to architect an entire app – from UI, through user / data flows and transactions down to data storage and delivery – in independent, interchangeable layers. With layers that can be freely combined as needed, with no or minimal disruption to the rest of app. Just like an onion. You will learn that MVC is excellent, if employed properly. You will learn how to use Coordinators without delegates and with truly minimal UIKit extensions. Learn about an approach suitable for iOS teams of one and teams of 1000 developers. For 5 screen apps and for 200+ UIViewController behemots.",
     "id" : "ad28cd80e170086076785680a0d8a72170ae4b67",
     "source" : "youtube",
     "speakerId" : "ffc03ea2842122e091cfa721882755683edc3700",
     "tags" : [
-
+      ""
     ],
     "title" : "Onion-like iOS Architecture Solution",
     "url" : "",
@@ -3697,6 +3697,19 @@
     "title" : "Protocol Oriented WebAPI Abstraction",
     "url" : "https://www.youtube.com/watch?v=e9o63D8PWCM",
     "videoId" : "e9o63D8PWCM"
+  },
+  {
+    "conferenceId" : "c88f2abcb105e627432ed73370bd2125479ac6bb",
+    "details" : "Protocol-oriented programming is strongly recommended in the Swift community, and Apple has given a lot of guidance on how to use it in your everyday code. However, there has not been a lot of attention on when it is not appropriate, and what to do in that case. We will explore this idea, and show that there is a completely straightforward and mechanical way to translate any protocol into a concrete datatype. Once you do this you can still write your code much like you would with protocols, but all of the complexity inherit in protocols go away. Even more amazing, a new type of composition appears that is difficult to see when dealing with only protocols. We will also demo a real life, open source library that was originally written in the protocol-oriented way, but after running into many problems with the protocols, it was rewritten entirely in this witness-oriented way. The outcome was really surprising, and really powerful.",
+    "id" : "81e474137e8e34e089957313beac99eefe719ccd2",
+    "source" : "youtube",
+    "speakerId" : "9dc24df94e71edc264f951cf75d2822cdf3fcaf9",
+    "tags" : [
+      ""
+    ],
+    "title" : "Protocol Witnesses",
+    "url" : "",
+    "videoId" : "3BVkbWXcFS4"
   },
   {
     "conferenceId" : "637910fbe56da755e64d18f949a994f07369048a",
@@ -4035,12 +4048,12 @@
   },
   {
     "conferenceId" : "c88f2abcb105e627432ed73370bd2125479ac6bb",
-    "details" : "",
+    "details" : "Lyft Android was started as a single app with one developer. Now it is more than 50 developers, two apps with shared codebase and tons of features that are releasing each week. The requirement had changed dramatically and now we have many challenges that were not seen in the past. The talk covers evolution and revolutions of solutions in the core structure of our codebase and explains current state and what problems it allows to solve at our scale. Listeners will learn how to prototype initial app architecture in respect of later scale and what kind of solutions are helping to produce a sustainable product.",
     "id" : "1ba5e5187cc9b9f761dd24ad9ad4c86a3ead29f6",
     "source" : "youtube",
     "speakerId" : "ac61f29d32ddc88311da2634018d9bc6acb5c937",
     "tags" : [
-
+      ""
     ],
     "title" : "Scaling Architecture at Lyft",
     "url" : "",
@@ -4208,19 +4221,6 @@
     "videoId" : "_mQNwL8HkS0"
   },
   {
-    "conferenceId" : "c88f2abcb105e627432ed73370bd2125479ac6bb",
-    "details" : "",
-    "id" : "2c455fdd42d033eb02f78865f8f9bc904b19bbd4",
-    "source" : "youtube",
-    "speakerId" : "c82f69893e1653e23eccc9fda5a0176bd3ab68c3",
-    "tags" : [
-
-    ],
-    "title" : "Sharing Code Between iOS and Android Apps - Nicolas Märki, Jose",
-    "url" : "",
-    "videoId" : "FQvAr0-vmOk"
-  },
-  {
     "conferenceId" : "2a224f105b818b4c72e408af2a1881c30cfb56da",
     "details" : null,
     "id" : "29e0ee96ed274d12a94bd59ddd73088b",
@@ -4232,6 +4232,19 @@
     "title" : "Sharing Swift: writing code that scales",
     "url" : "https://www.youtube.com/watch?v=1G63BKeNfjA",
     "videoId" : "1G63BKeNfjA"
+  },
+  {
+    "conferenceId" : "c88f2abcb105e627432ed73370bd2125479ac6bb",
+    "details" : "Our apps run on the most personal devices people have, it’s our responsibility as engineers to make sure the apps we ship don’t do them any harm, by respecting their right to privacy. In this talk, I’m going to present some key aspects and techniques of building secure and private apps on Apple’s platforms.",
+    "id" : "bd4c63c7-5e6c-4e7b-9a90-9dd6df749165",
+    "source" : "youtube",
+    "speakerId" : "60d6411bd8c0b8586a954e6f4cdaabebf5880b4e",
+    "tags" : [
+      ""
+    ],
+    "title" : "Ship it Safe",
+    "url" : "",
+    "videoId" : "MIX0MReEb_M"
   },
   {
     "conferenceId" : "c727a3ebfed4465ebe25a87c6b323ea2",
@@ -4261,7 +4274,7 @@
   },
   {
     "conferenceId" : "c727a3ebfed4465ebe25a87c6b323ea2",
-    "details" : "",
+    "details" : "The talk will be divided in 3 main parts:\n1. What is Showcase Driven Development and how it helps our team at Heetch on a daily basis\n2. How we implemented it and how attendees can start right away to do it\n3. Some good practices and architecture advices to take the most out of this methodology",
     "id" : "d1e92fc8-a7f8-4b77-98c4-153e1a7b2397",
     "source" : "youtube",
     "speakerId" : "4caf4f51-d294-460c-837f-253f2fc8ccfe",
@@ -4341,14 +4354,15 @@
   },
   {
     "conferenceId" : "c727a3ebfed4465ebe25a87c6b323ea2",
-    "details" : "",
+    "details" : "Someone else’s code on GitHub has a lot of advantages! It’s convenient, easy to integrate, and often doesn’t have malware embedded in it. However, it’s also built to someone else’s product requirements, which means that once you need to go beyond out-of-the-box functionality, congratulations, you’re a core contributor.\n\nThere are plenty of other hidden downsides to integrating someone else’s library. It may not be supported forever; it may not be accessible; it might not be localized; it might swizzle viewDidLoad.\n\nUIKit components have none of these problems, but what happens when you want more customization than you get from UIAppearance and tintColor? Simple: you build it!\n\nIn this talk, we’ll explore building a “slide to unlock” component, with all the bells and whistles, on top of the stable foundation of UIKit. That means all the accessibility, reliability, and other advantages of first-party code, coupled with precisely the customization points you need to make your designer happy.",
     "id" : "4b0f19a5-1969-4288-8593-afb324db5505",
     "source" : "youtube",
     "speakerId" : "009ded54-5ff0-43e1-a336-90b00ef972a0",
     "tags" : [
-      ""
+      "UIKit",
+      "CoreAnimation"
     ],
-    "title" : "Slide to Unlock",
+    "title" : "Slide to Unlock: Building Custom UI with UIKit and Core Animation",
     "url" : null,
     "videoId" : "6WUckbfPN0E"
   },
@@ -4579,12 +4593,12 @@
   },
   {
     "conferenceId" : "c88f2abcb105e627432ed73370bd2125479ac6bb",
-    "details" : "",
+    "details" : "You want to style the title of dialogs throughout your app and you think it should be simple enough. However, once you dive into it, you might start asking questions - should I use alertDialogTheme or alertDialogStyle? Should I use dialogTitle, windowTitle or textAppearanceLarge? It is no secret that the styling and theming system in Android is complex, but I promise there is some method to the madness! We can avoid writing custom components just to achieve pixel perfection if we know how tame to the beast. In this talk, we will learn about the difference between themes and styles, the hierarchy of different styling techniques and how to use them effectively. We will also learn how they work internally, and the best practices of how to apply them. We will wrap up by discussing the newest app theme in town - the Material Components Theme and the attributes that come with it, like “colorOnSurface”. At the end of this talk, you will know how to style your app like a pro with the correct use of Styles, Themes, TextAppearance and sensible defaults while specifying colour, shape and typography through Material Theming.",
     "id" : "a7aa1f773f65340d8845b39d7726c00f8bac6be6",
     "source" : "youtube",
     "speakerId" : "e2a2147fecceb27b072c1dcdde51e0a01a92a2a8",
     "tags" : [
-
+      ""
     ],
     "title" : "Styles, Themes, Material Theming, Oh My!",
     "url" : "",
@@ -4632,12 +4646,12 @@
   },
   {
     "conferenceId" : "c88f2abcb105e627432ed73370bd2125479ac6bb",
-    "details" : "",
+    "details" : "Bringing Junior developers into your team can be a challenge, but it can also be rewarding. Mentoring can benefit both sides: It can help juniors with the most difficult moment in their career, and it can help seniors become better professionals. Come and learn how juniors and seniors can support each other and grow together.",
     "id" : "7c5a6a351d4e31ae9be813252c7164dd2ac372ba",
     "source" : "youtube",
     "speakerId" : "cf6377ce049c8eea8029f2743d79ba5894ca7e9f",
     "tags" : [
-
+      ""
     ],
     "title" : "Supporting Each Other: Growth for Juniors and Seniors",
     "url" : "",
@@ -5065,7 +5079,7 @@
   },
   {
     "conferenceId" : "c727a3ebfed4465ebe25a87c6b323ea2",
-    "details" : "",
+    "details" : "A very brief introduction to Redux and how to make it work with SwiftUI data flow. Learn how to make business logic free and reusable UI components using the power of SwiftUI combined with Redux, a state container and unidirectional data flow architecture.",
     "id" : "3b164589-3da6-4fea-a65f-fd46c24bf2e2",
     "source" : "youtube",
     "speakerId" : "7ff233cc-8a25-4186-91f8-674957997521",
@@ -5117,7 +5131,7 @@
   },
   {
     "conferenceId" : "c727a3ebfed4465ebe25a87c6b323ea2",
-    "details" : "",
+    "details" : "This presentation seeks to acquaint users of the Swift language tooling. Parsing, generating and manipulating Swift source code in order to build useful devtool for Swift, in Swift. In particular, we’re gonna build refactoring tool using tools and libraries provided by Open Source Swift project.",
     "id" : "ddf2f96d-06d6-4d9d-bedd-bcbcc4c1476d",
     "source" : "youtube",
     "speakerId" : "ba8d6a6c8bad93efa3028fb13c760478d8e48df4",
@@ -5223,7 +5237,7 @@
   },
   {
     "conferenceId" : "c727a3ebfed4465ebe25a87c6b323ea2",
-    "details" : "",
+    "details" : "With SwiftUI and Combine, Apple is changing its approach for how we define data flows and UI. As we move from playing with sample code to writing production apps, it’s time to start thinking about testing. Nataliya will show how to apply several learnings from her experience with declarative UIs to this new reality.",
     "id" : "682412d6-2167-4f27-a9a6-14458e715e58",
     "source" : "youtube",
     "speakerId" : "1e9cff88-3b3a-4cb2-a421-1e89ee763f6f",
@@ -5236,12 +5250,12 @@
   },
   {
     "conferenceId" : "c88f2abcb105e627432ed73370bd2125479ac6bb",
-    "details" : "",
+    "details" : "I discuss my idea for Swift IDE, current Swift tooling status and Swift related projects I learned over the time while working on Swift Studio - macOS Swift IDE. If you're curious about Language Server, or Swift Syntax... you should come. Some trolling involved, however mostly merit presentation.",
     "id" : "2c66ece320d6968a07a742e0a5baa59d617b94fb",
     "source" : "youtube",
     "speakerId" : "ba8d6a6c8bad93efa3028fb13c760478d8e48df4",
     "tags" : [
-
+      ""
     ],
     "title" : "That Swift IDE",
     "url" : "",
@@ -5475,12 +5489,12 @@
   },
   {
     "conferenceId" : "c88f2abcb105e627432ed73370bd2125479ac6bb",
-    "details" : "",
+    "details" : "A/B testing isn’t just about shipping and learning. There’s also some hard work involved. What if you have several A/B tests running on top of one another? Should you duplicate lots of code or introduce lots of branching? What does statistical relevance even mean? In this talk, I’ll dig into the realities of A/B testing. I’ll discuss how to deal with A/B testing in practice, how to continuously split test an application with a non-trivial number of variants and not go mad, and how to keep your quality standards high. Come find out how to optimally learn from your users.",
     "id" : "41752ef7923b5cf99c73714a0c907b157c46d6f2",
     "source" : "youtube",
     "speakerId" : "6155c2211ff26629bdc89f64e18c110aa6ea83d3",
     "tags" : [
-
+      ""
     ],
     "title" : "The Realities of A/B Testing",
     "url" : "",
@@ -5915,12 +5929,12 @@
   },
   {
     "conferenceId" : "c88f2abcb105e627432ed73370bd2125479ac6bb",
-    "details" : "",
+    "details" : "What would you do if you need to use C, C++ or Objective C libraries in a Swift project? After setting up the dependencies, how would you use the APIs from those libraries? In this talk, I would like to share with you how I have dealt with those problems.",
     "id" : "09bf27fcd796c9fb9a182a12f8e4e32676940636",
     "source" : "youtube",
     "speakerId" : "a0703fc21ffc3821d904663c2b7a6a6509f382cf",
     "tags" : [
-
+      ""
     ],
     "title" : "Use C, C++ and Objective C Libraries in a Swift Project",
     "url" : "",
@@ -6127,7 +6141,7 @@
   },
   {
     "conferenceId" : "c727a3ebfed4465ebe25a87c6b323ea2",
-    "details" : "",
+    "details" : "Let’s put it simply: as iOS developers we draw shapes on screen. But, do we really know how those shapes are actually laid out? Let’s embark for a fascinating journey to the inner workings of UIKit, and its key feature: the run loop.",
     "id" : "7b1d25c6-1f31-4db3-8c7a-d277c116a372",
     "source" : "youtube",
     "speakerId" : "b7217830-0609-4e2d-9dc4-85a2e7119f36",
@@ -6260,6 +6274,20 @@
     "videoId" : "Go3_72i8bjI"
   },
   {
+    "conferenceId" : "5bac1c9869dae039636a097bf2994ebd18354d50",
+    "details" : "",
+    "id" : "72c8add8fb7b4b18b58ffd8e71f44d41",
+    "source" : "youtube",
+    "speakerId" : "4a25882334b6d546d8ad1589155bee8fdad2d0bb",
+    "tags" : [
+      "iOS Astronauts 2018",
+      "Accessibility"
+    ],
+    "title" : "iOS Accessibility to Supercharge Your Testing",
+    "url" : "https://www.youtube.com/watch?v=iXrRI2PrCpk",
+    "videoId" : "iXrRI2PrCpk"
+  },
+  {
     "conferenceId" : "7d42590189bf80ba935d9a45b2061d24b381538f",
     "details" : "Let?s talk about the things that really matter for maintainable architecture in iOS apps.",
     "id" : "90482b248dac4c6d97e8518d70b6250e",
@@ -6338,17 +6366,16 @@
     "videoId" : "bMMWf-Dr7kY"
   },
   {
-    "conferenceId" : "5bac1c9869dae039636a097bf2994ebd18354d50",
-    "details" : "",
-    "id" : "72c8add8fb7b4b18b58ffd8e71f44d41",
+    "conferenceId" : "c88f2abcb105e627432ed73370bd2125479ac6bb",
+    "details" : "Imagine for a moment that we live in a world where only one mobile platform exists. Where you write your code once, where business people never change their minds… Now wake up. As a company that develops Android and iOS apps, we got the most success using native whenever possible. However, it’s a stake in our engineer’s heart that every feature is implemented multiple times. This can lead to slower development, divergence between platforms and less maintainability. In this talk we will present approaches that we use to share code between iOS and Android. These solutions proved viable in more than 10 apps used by more than 7 million users. We will go through: \n- The cases where sharing code makes sense \n- Different tools and tips that allow C++ as a shared language without dying \n- How Java can also be a candidate for code sharing \n- Alternatives to C++ and Java like Javascript and native Kotlin \n- How native code sharing compares to cross-platform solutions like Flutter",
+    "id" : "2c455fdd42d033eb02f78865f8f9bc904b19bbd4",
     "source" : "youtube",
-    "speakerId" : "4a25882334b6d546d8ad1589155bee8fdad2d0bb",
+    "speakerId" : "c82f69893e1653e23eccc9fda5a0176bd3ab68c3",
     "tags" : [
-      "iOS Astronauts 2018",
-      "Accessibility"
+      ""
     ],
-    "title" : "iOS Accessibility to Supercharge Your Testing",
-    "url" : "https://www.youtube.com/watch?v=iXrRI2PrCpk",
-    "videoId" : "iXrRI2PrCpk"
+    "title" : "Sharing Code Between iOS and Android Apps - Nicolas Märki, Jose",
+    "url" : "",
+    "videoId" : "FQvAr0-vmOk"
   }
 ]

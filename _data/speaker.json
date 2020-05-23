@@ -1593,15 +1593,6 @@
     "twitter" : "picardparis"
   },
   {
-    "about" : null,
-    "firstname" : "Lea",
-    "github" : null,
-    "id" : "725bc6d4-e2f6-4a31-bc71-f311a06f5031",
-    "image" : null,
-    "lastname" : "Marolt",
-    "twitter" : null
-  },
-  {
     "about" : "Lea spent three years in New York, working on the iOS application for Rent the Runway and teaching Swift at General Assembly. Now, she's getting a masters in Innovation Design Engineering in London, and spends most of her time playing with sensors and microcontrollers. She still Swifts, though, by writing and talking for raywenderlich.com.",
     "firstname" : "Lea Marolt",
     "github" : "leamars",
