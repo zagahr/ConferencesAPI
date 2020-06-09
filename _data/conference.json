@@ -1,5 +1,15 @@
 [
     {
+    "id": "026f9c5bb2014f7093f0ac777293a5f5",
+    "organisatorId": "7b05130d91c1b24522bbab1c7e47ffa5cf6b1c3e",
+    "name": "UIKonf 2020",
+    "url": "https://www.uikonf.com/",
+    "location": "Berlin, Germany",
+    "date": null,
+    "highlightColor": "02A0E3",
+    "about": "UIKonf is Berlin's independent conference for serious iOS developers. UIKonf features inspiring speakers giving talks on cutting edge topics in iOS development, mobile design and business."
+},
+    {
         "id": "f1800df40d7647e4b2a4941785fb645d",
         "organisatorId": "0da1dd312b4a3f1c09df327d6ec6a1133fe62013",
         "name": "App Builders 2020",

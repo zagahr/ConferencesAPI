@@ -6401,5 +6401,252 @@
     "title": "UI Mode: Pitch Black",
     "url": "url",
     "videoId": "t5UYlyYSf60"
+  },
+  {
+    "conferenceId" : "026f9c5bb2014f7093f0ac777293a5f5",
+    "details" : "In this talk, we’ll build a very simple programming language in Swift. We’ll look at how to parse text, build a syntax tree, and evaluate the program.",
+    "id" : "228c2266-b834-4d90-98c2-444102885b22",
+    "source" : "youtube",
+    "speakerId" : "15818adc3ac54abae646186f3738d88547d7fc25",
+    "tags" : [
+      ""
+    ],
+    "title" : "Building a Programming Language in Swift",
+    "url" : "url",
+    "videoId" : "TEQiy24nSmc"
+  },
+  {
+    "conferenceId" : "026f9c5bb2014f7093f0ac777293a5f5",
+    "details" : "In 2016 I co-founded a startup called Blub Blub and we're helping kids improve their speech and language skills with mobile apps. We started with a simple iOS app and have evolved into a subscription business, employing more than 25 people with one third being engineers. The talk is meant for anyone, engineers, designers and product owners, as it will take you through the journey starting as an early stage startup to incorporated, privately funded business. I will include tips and tricks we have learned on the way building an app for kids, building an engineering team, App Store challenges (maybe we can even touch Android a bit :), and a bit of business perspective. If you have (or don't) an idea, but would like to start something of your own, this is the talk for you. If you are already doing this, it is also a talk for you.",
+    "id" : "fe9198aa-6e8b-4658-b8f0-aeb17d40f795",
+    "source" : "youtube",
+    "speakerId" : "8f0789a9326042988e431a08c37983a2",
+    "tags" : [
+      ""
+    ],
+    "title" : "Building a mobile-based startup business",
+    "url" : "url",
+    "videoId" : "3p0orKpoP8o"
+  },
+  {
+    "conferenceId" : "026f9c5bb2014f7093f0ac777293a5f5",
+    "details" : "Over the years I have been exploring generative design and trying to find the balance between art and technology. Core MIDI framework is a great way of introducing the audience to this fascinating world. Using exclusively Apple-provided APIs, we can create something inspiring and learn something new.\n\nReactive programming concepts are hard to grasp for a lot of developers. What if there is a better way to experiment and learn reactive programming concepts in real-time? Let's take MIDI input, which is a great example, and connect it using Combine to SwiftUI.",
+    "id" : "5d531354-00b8-4195-996c-cc2d453cb3cd",
+    "source" : "youtube",
+    "speakerId" : "4d82db9ccac341d8b9e78bd07b664662",
+    "tags" : [
+      ""
+    ],
+    "title" : "Combine: Connect MIDI signals to SwiftUI",
+    "url" : "url",
+    "videoId" : "2jTtqoYwQF0"
+  },
+  {
+    "conferenceId" : "026f9c5bb2014f7093f0ac777293a5f5",
+    "details" : "We all aim to build scalable, maintainable and robust apps - it’s always going easy till our screens are getting more and more updates and new features. Having one screen that accommodates large number of use cases / features is something that we see in almost every app. I think everyone agrees that building such a screen and keeping it maintainable and scalable is a problem that every mobile developer is facing. In this talk, I will be presenting on how we here at Delivery Hero, are able to solve this problem of massive screens by using Conductors. Join us for further details!",
+    "id" : "f1ed9434-bb48-4f6e-9759-9a5f475a1563",
+    "source" : "youtube",
+    "speakerId" : "e96526e233cd44188a5c4a891fde10cf",
+    "tags" : [
+      ""
+    ],
+    "title" : "Conductors: It’s all about communication!",
+    "url" : "url",
+    "videoId" : "WHe4sqV3BUs"
+  },
+  {
+    "conferenceId" : "026f9c5bb2014f7093f0ac777293a5f5",
+    "details" : "“What do you do professionally?” What is the first thing you’re saying? You’re an iOS developer, a developer for mobile apps or a software developer at $company?\nMost apps are built for iOS and Android, most also require a backend. Many teams are set up as feature teams, including developers specialized for their respective platform. Yet, how do they actually collaborate?\nWe’ll talk about patterns and antipatterns I’ve seen - apps built in isolation to feature parity, from silos to cross-platform pair programming and code sharing.\nThere is more than one way to collaborate with your peers. Let’s see what is in there for you and your team.",
+    "id" : "56639b2d-4e9a-448c-831d-431be12a7f1f",
+    "source" : "youtube",
+    "speakerId" : "64afce42113c4c63bc37f72711637cfa",
+    "tags" : [
+      ""
+    ],
+    "title" : "Cross-platform Collaboration Patterns",
+    "url" : "url",
+    "videoId" : "ijNFTChQTOM"
+  },
+  {
+    "conferenceId" : "026f9c5bb2014f7093f0ac777293a5f5",
+    "details" : "Most apps build today collect data. Data about our health, our whereabouts, our taste, or our social connections. It helps us decide where we want to go and who we want to go with. On a collective level, it can even help us to formulate better public health policies, or climate crises reponses. \nBut, without proper controls on who can collect, access and use this data, we risk undermining our democratic values and human rights.\nIn this talk I put forward the concept of data trusts as a way to claw back control over the data collected about us, our processes and environment. I’ll explain what data trusts are and how they are relevant for both mobile developers and society at large.",
+    "id" : "98221561-9839-4f5e-a409-ff58ef3cd1ca",
+    "source" : "youtube",
+    "speakerId" : "bde77badb38b46beb04be45abed643a3",
+    "tags" : [
+      ""
+    ],
+    "title" : "Data Trusts: What, Why, How?",
+    "url" : "url",
+    "videoId" : "VQwhnhLNJhY"
+  },
+  {
+    "conferenceId" : "026f9c5bb2014f7093f0ac777293a5f5",
+    "details" : "Metal is often avoided by many developers due to a huge complexity out of a first glance, but it definitely not that hard at all and deserves some attention! Learning GPU programming can give you a better understanding on how iOS rendering system works, and can bring you a lot of opportunities to improve your applications.\n\nThis talk is dedicated for the audience that has minimal or no experience with GPU programming on iOS or elsewhere. We will go through on how GPU works and what specific distinction Metal has. We will show how to write modern Metal pipeline that works just blazingly fast and can be easily understood.",
+    "id" : "a145c3d0-cf9f-42d6-a5f3-b76615c2da8a",
+    "source" : "youtube",
+    "speakerId" : "0bd4433891424c56a82abd8ff27baba3",
+    "tags" : [
+      "Metal"
+    ],
+    "title" : "Explain Metal like I’m 5",
+    "url" : "url",
+    "videoId" : "ebap8D1-GIY"
+  },
+  {
+    "conferenceId" : "026f9c5bb2014f7093f0ac777293a5f5",
+    "details" : "Instruments, and more specifically a very special custom one - the Timelane Instrument, can give you super powers when it comes to debugging, profiling, and ultimately fixing your asynchronous code be it Combine or another framework for asynchronous programming based around streams of events.\n\nMeet a new custom Instrument that allows you to easily:\n\nvisually plot multiple publisher subscriptions on an interactive timeline\neasily find and inspect failing subscriptions\nfollow in time the values emitted by your subscriptions\nAll of this is easily accessible via the super-polished Instruments UI with all of the bells and whistles you're used to like drilling down hierarchies, filtering, zooming in and out of time, creating time slices, and more.",
+    "id" : "05bca912-b11b-4625-a558-0a5e46e47518",
+    "source" : "youtube",
+    "speakerId" : "e9c8c48dbed658c2ae11b24ffc5f7300b072ce8f",
+    "tags" : [
+      "Combine"
+    ],
+    "title" : "Fixing your Combine code with the Timelane Instrument",
+    "url" : "url",
+    "videoId" : "QfGZUfLw5AA"
+  },
+  {
+    "conferenceId" : "026f9c5bb2014f7093f0ac777293a5f5",
+    "details" : "There's a lot of focus in user experience on graphics and animations. It can be easy to forget about the workhorse of most interfaces: text. Text can seem mundane and simple, but that's only because modern systems do so much work to make it beautiful automatically. Great text layout is actually very complex. But powerful as modern systems are, sometimes the defaults aren't good enough. In this talk, you'll go beyond the basics to learn how fonts and text layout really work, based on lessons learned over the centuries since the invention of the printing press. You'll learn the language of fonts, from ascenders and glyphs, to small capitals and lowercase numbers.\n\nThis talk will walk you through the entire iOS layout process, from decoding UTF-8, enabling advanced font features, character composition, glyph generation, ligatures and swashes, and positioning in TextKit, Core Text, and SwiftUI.",
+    "id" : "d84ca658-025d-4d58-b33e-3163c310eb6f",
+    "source" : "youtube",
+    "speakerId" : "72ff444b0751977dd1df006ae2aa2e050fb00f3f",
+    "tags" : [
+      ""
+    ],
+    "title" : "Rich Text, Core Text",
+    "url" : "url",
+    "videoId" : "Cz64DHcRxAU"
+  },
+  {
+    "conferenceId" : "026f9c5bb2014f7093f0ac777293a5f5",
+    "details" : "A lot of people discover enums pretty quickly when exposed to Swift. They're arguably one of the most powerful swift language features. Many of us have probably used enums in other programming languages too. Sometimes we might be using enums without even realizing it.\n\nBut I think that enums are so valuable that they're worth designing software around, similar to object oriented programming or protocol oriented programming.\n\nIt's what I think of as State Driven Development, and that's what this talk is really all about.",
+    "id" : "b1f971a5-73af-428c-8591-cd07b812e228",
+    "source" : "youtube",
+    "speakerId" : "dc5ef7e31ee34b1bbda1206ee5067020",
+    "tags" : [
+      ""
+    ],
+    "title" : "State Driven Development - The Beauty of Enums in Swift",
+    "url" : "url",
+    "videoId" : "XFbnGmHtiRY"
+  },
+  {
+    "conferenceId" : "026f9c5bb2014f7093f0ac777293a5f5",
+    "details" : "Every iOS/macOS developer uses (scripting) tools such as fastlane and swiftLint to automate tasks as much work as possible: in this talk we will dive into how we can build our own Swift scripts.\n\nThe talk has four sections:\n\nA brief introduction to the Swift Package Manager, (package) executables, and how they differ from (package) libraries.\nExamples on how to solve things that are trivial on apps but more tricky on scripts.\nMore advanced examples on scripts features.\nA brief look to what’s next for scripting in Swift.\nThis is a technical talk, and presents code to the audience: many slides will contain code that can be copy-pasted to existing projects, or that can be used as a start for new (scripting) tools.",
+    "id" : "54647fbc-8f74-4354-b74e-c005d3c871d2",
+    "source" : "youtube",
+    "speakerId" : "99a1dc2e4958425bbd26793a6e6fc846",
+    "tags" : [
+      ""
+    ],
+    "title" : "Swift Scripts: Zero to Hero",
+    "url" : "url",
+    "videoId" : "KbwmvThZUDM"
+  },
+  {
+    "conferenceId" : "026f9c5bb2014f7093f0ac777293a5f5",
+    "details" : "\t",
+    "id" : "12bd9334-762d-415b-bc99-16a05b100ce1",
+    "source" : "youtube",
+    "speakerId" : "7ff233cc-8a25-4186-91f8-674957997521",
+    "tags" : [
+      "SwiftUI"
+    ],
+    "title" : "SwiftUI Data Flow with Redux",
+    "url" : "url",
+    "videoId" : "9VlkObpxQ4I"
+  },
+  {
+    "conferenceId" : "026f9c5bb2014f7093f0ac777293a5f5",
+    "details" : "iPhone and iPad are becoming more advanced than every before. Meanwhile languages such as JavaScript and C# thrive with asynchronous and parallel syntactic sugar. Therefore, how can Swift developers take advantage of these multi-core processors?\n\nIn this talk, the speaker goes over the several ways to optimize your code using modern asynchronous APIs. Starting with Grand Central Dispatch, he will talk about priorities and queue. He’ll also cover how NSTask, Google Promises, as well how SwiftNIO does Futures and Promises. The speaker covers parallel asynchronous operations on collections, dependent task operations, and more.\n\nThe speaker assumes you have beginner knowledge of Swift and especially some basic knowledge of functional programming techniques. If you are interested in optimizing your code further and getting your code ready for Async/Await in Swift, check this talk out.",
+    "id" : "e7bea6f8-7b42-4e69-8dbe-3578162333b8",
+    "source" : "youtube",
+    "speakerId" : "2daf8f848ac04ea1b3334b248be1ad22",
+    "tags" : [
+      ""
+    ],
+    "title" : "The Multi-Threaded Asynchronous Parallel World of Swift",
+    "url" : "url",
+    "videoId" : "MqqMmt1pMIc"
+  },
+  {
+    "conferenceId" : "026f9c5bb2014f7093f0ac777293a5f5",
+    "details" : "iOS apps are no longer as small as they were a few years ago. They are increasingly large projects with growing complexity and architecture. Yet there are no tools available to analyze and visualize the architecture and dependencies of a Swift project like there are for other languages. In this talk I will give a short overview of my master thesis in which I created such a tool.",
+    "id" : "724f927c-8b83-4b79-afae-b95123b297d5",
+    "source" : "youtube",
+    "speakerId" : "63681246563d41a18ca640d886f84273",
+    "tags" : [
+      ""
+    ],
+    "title" : "Visualizing the Structure of a Swift Project",
+    "url" : "url",
+    "videoId" : "sOoOc9GHWWY"
+  },
+  {
+    "conferenceId" : "026f9c5bb2014f7093f0ac777293a5f5",
+    "details" : "If you're tired of slow and flaky networking, this talk will explain to you the state-of-the-art solution: Websockets. Using technologies such as Apple's freshly announced URLSession Websockets, incredible new open source SwiftNIO and Network.framework, we'll look at how you can open a two-way socket between your app and server to accelerate your networking, allowing you to communicate without disruptions, do so securely, and even learn some tips and tricks from Apple. The speaker is the maintainer of Starscream, one of the most popular Swift Websocket libraries.",
+    "id" : "fecd7559-ed51-43be-b521-497f78040c8a",
+    "source" : "youtube",
+    "speakerId" : "4bea9a2dfab6fbcdea1f4d64c1871232c61323c8",
+    "tags" : [
+      ""
+    ],
+    "title" : "We need to talk about Websockets",
+    "url" : "url",
+    "videoId" : "qiEbr-mebTc"
+  },
+  {
+    "conferenceId" : "026f9c5bb2014f7093f0ac777293a5f5",
+    "details" : "If someone asked you ““have you learned Swift?”” your initial response might be to say ““yep, I’ve learned Swift!”” And perhaps you have learned some of it – you might be building apps with it every day, you might have read all my Swift books and them some, or maybe you’re even the tech lead on a team of Swift developers.\n\nBut have you learned Swift, or are you still learning Swift? Have you finished learning it, or are you still discovering new things every day? Are there parts of the language you have yet to discover?\n\nIn this talk I’ll discuss why the constant evolution of the language means we’re still trying to figure out what truly idiomatic Swift looks like, and the ramifications that has for our community.\n",
+    "id" : "51124e43-d81d-4391-9eb8-6a4dcb58036d",
+    "source" : "youtube",
+    "speakerId" : "7a3355e86543a38b8da9301d3dfe66a9dca5832d",
+    "tags" : [
+      ""
+    ],
+    "title" : "Who can say they have learned Swift?",
+    "url" : "url",
+    "videoId" : "EiiV5OnFo2Y"
+  },
+  {
+    "conferenceId" : "026f9c5bb2014f7093f0ac777293a5f5",
+    "details" : "With the buzz around IoT devices, Bluetooth LE (Bluetooth Low Energy) technology has become increasingly popular. Apple's CoreBluetooth has been around since iOS 5, and offers a host of utility APIs.\n\nIn this talk, I will cover the basics of Bluetooth LE technology and its terminology. You will learn about services and characteristics, and then dive into the CoreBluetooth APIs and become familiar with the CBManager, CBPeripheral and their respective delegates. I will also discuss the challenges in making the code testable, and offer some practical tips that are easily overlooked from the documentation.\n\nThis talk is geared towards iOS developers who have a working knowledge of the Swift language.\n\nAs I have been working solely with apps that use Bluetooth LE for the past 2.5 years, this is a topic that I am very familiar with.\n\nWHAT: What is Bluetooth Low Energy (Bluetooth LE)? What is it used for? What is a peripheral and a central? What are services and characteristics, in the context of Bluetooth LE?\nWHY: Why is Bluetooth LE so popular? Why should you, an iOS developer, be interested in learning more about how to interface with devices via Bluetooth LE?\nHOW: How does the iOS CoreBluetooth framework work? How do I make my code testable while the device I need to interface with isn't ready yet?\nAttendees will come away with a better understanding of Bluetooth LE and the tools to build iOS apps using this powerful framework!",
+    "id" : "d4ee56ed-d2cb-4320-87bc-5989f19e59ac",
+    "source" : "youtube",
+    "speakerId" : "87cb24b382ab4b139aedf05afc6415d7",
+    "tags" : [
+      ""
+    ],
+    "title" : "Who’s Afraid of the Big Bad Bluetooth?",
+    "url" : "url",
+    "videoId" : "5l_HMtWvtJw"
+  },
+  {
+    "conferenceId" : "026f9c5bb2014f7093f0ac777293a5f5",
+    "details" : "Swift is a powerful language, designed and built by experts, guided by an active and invested community of developers. But so many of us have experienced those awkward moments when this amazing new tool faltered, turning brittle and sharp-edged without warning. Must be growing pains, some think. Others accept it as meaning nothing can be good at everything. And still others decide it’s not for them after all. There’s a simple truth they’ve all missed.\n\n(a dramatic pause)\nSwift on the desktop can never spread its wings and soar free.\n(the theatrical sound of a deep breath)\n\nCome to my talk and learn about the world of Swift on Server, a whole different way of looking at and using the language, unencumbered by decades of habit or by the well-meaning chains of compatibility. Don’t worry for the loss of the crumbling dust of AppKit’s foundations or the wobbling Jenga tower of UIKit, don’t fear the absence of SwiftUI’s still-uncertain rise - watch in wonder as Swift itself is set loose like never before!\n",
+    "id" : "be26d811-877d-4059-8f12-dfaa5d5c5537",
+    "source" : "youtube",
+    "speakerId" : "b83b384d311c4400a66b03e2701adb16",
+    "tags" : [
+      ""
+    ],
+    "title" : "Why Is Swift So Much Better On Server?",
+    "url" : "url",
+    "videoId" : "Q1wrun7xpP0"
+  },
+  {
+    "conferenceId" : "026f9c5bb2014f7093f0ac777293a5f5",
+    "details" : "Many of us are excited to adopt SwiftUI in our production apps next year. We might be working on side projects to wrap our heads around this new paradigm. However, at work the situation is more complex. I will show you how to architect your current app for a smoother migration and include real world examples of UIKit/SwiftUI interoperability. You will leave able to lead crucial conversations with your team about what we can do now for a successful migration next year.",
+    "id" : "f810668c-a5d9-4610-bd4a-be1b935267ec",
+    "source" : "youtube",
+    "speakerId" : "062cb29ebd3e4e7a94b90ca9392a4d12",
+    "tags" : [
+      "SwiftUI"
+    ],
+    "title" : "Prepping For a SwiftUI Future",
+    "url" : "url",
+    "videoId" : "Ezqkna_KPCQ"
   }
 ]
