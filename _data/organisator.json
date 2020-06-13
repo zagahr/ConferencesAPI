@@ -1,5 +1,11 @@
 [
     {
+        "id": "435e5b1306b646c0a04a81885a4a7bd7",
+        "name": "BA: Swiftable",
+        "twitter": "baswiftable",
+        "nextEvent": null
+    },
+    {
         "id": "37c5acc62fa66212860c64376fab7b07d0e543f4",
         "name": "dotSwift",
         "twitter": "dotSwift",

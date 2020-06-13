@@ -1,14 +1,14 @@
 [
     {
-    "id": "026f9c5bb2014f7093f0ac777293a5f5",
-    "organisatorId": "7b05130d91c1b24522bbab1c7e47ffa5cf6b1c3e",
-    "name": "UIKonf 2020",
-    "url": "https://www.uikonf.com/",
-    "location": "Berlin, Germany",
-    "date": null,
-    "highlightColor": "02A0E3",
-    "about": "UIKonf is Berlin's independent conference for serious iOS developers. UIKonf features inspiring speakers giving talks on cutting edge topics in iOS development, mobile design and business."
-},
+        "id": "026f9c5bb2014f7093f0ac777293a5f5",
+        "organisatorId": "7b05130d91c1b24522bbab1c7e47ffa5cf6b1c3e",
+        "name": "UIKonf 2020",
+        "url": "https://www.uikonf.com/",
+        "location": "Berlin, Germany",
+        "date": null,
+        "highlightColor": "02A0E3",
+        "about": "UIKonf is Berlin's independent conference for serious iOS developers. UIKonf features inspiring speakers giving talks on cutting edge topics in iOS development, mobile design and business."
+    },
     {
         "id": "f1800df40d7647e4b2a4941785fb645d",
         "organisatorId": "0da1dd312b4a3f1c09df327d6ec6a1133fe62013",
@@ -18,6 +18,16 @@
         "date": "2018-01-26 13:00:00.000000",
         "highlightColor": "FC3B59",
         "about": "One of the biggest European conferences about mobile technologies taking place in the heart of Europe. Get inspired by talks from the best brains of the mobile industry."
+    },
+    {
+        "id": "a28046d0e1d040cd924426722981c180",
+        "organisatorId": "435e5b1306b646c0a04a81885a4a7bd7",
+        "name": "BA: Swiftable 2020",
+        "url": "https://swiftable.io",
+        "location": "Buenos Aires, Argentina",
+        "date": "2018-01-26 13:00:00.000000",
+        "highlightColor": "0b1c99",
+        "about": "Swiftable is a brand new iOS conference from Latin America, having the first edition in Buenos Aires. Taking place in \"Centro Cultural de la Ciencia\" with capacity for 480 attendees, the event will last two days from Nov 28th to Nov 29th. The whole conference will be carried out in English. Being a piece of the Latin American iOS ecosystem, we want to gather all the communities in one place, where people will be able to share knowledge and techniques to improve iOS craftmanship"
     },
     {
         "id": "637910fbe56dafadf242418f949a994f07369048a",
